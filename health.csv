@@ -1,0 +1,1686 @@
+FID,Country,Admin1,Facility_n,Facility_t,Ownership,Lat,Long,LL_source,cancer_cap
+5848,Kenya,Uasin Gishu,Soliat Dispensary,Dispensary,MoH,0.1543,35.4711,GPS,No
+5847,Kenya,Uasin Gishu,Sinonin Dispensary,Dispensary,MoH,0.7249,35.2339,GPS,No
+5846,Kenya,Uasin Gishu,Simotwo Dispensary,Dispensary,MoH,0.7898,35.41,Google Earth,No
+5845,Kenya,Uasin Gishu,Sergoit Dispensary,Dispensary,MoH,0.6121,35.3945,GPS,No
+5844,Kenya,Uasin Gishu,Segero Dispensary,Dispensary,MoH,0.9177,35.2691,GPS,No
+5843,Kenya,Uasin Gishu,Segero Central Dispensary,Dispensary,MoH,0.9171,35.2683,Google Earth,No
+5842,Kenya,Uasin Gishu,Sambut Dispensary,Dispensary,MoH,0.6365,35.134,GPS,No
+5841,Kenya,Uasin Gishu,Railways Dispensary,Dispensary,MoH,0.5254,35.2698,GPS,No
+5840,Kenya,Uasin Gishu,Plateau Hospital,Mission Hospital,FBO,0.4025,35.4229,GPS,No
+5839,Kenya,Uasin Gishu,Pioneer Health Centre,Health Centre,Local authority,0.509,35.2682,GPS,Yes
+5838,Kenya,Uasin Gishu,Patrician Dispensary,Dispensary,FBO,0.4359,35.2623,GPS,No
+5837,Kenya,Uasin Gishu,Our Lady of Lords Dispensary,Dispensary,FBO,0.5887,35.0495,GPS,No
+5835,Kenya,Uasin Gishu,Osorongai Dispensary,Dispensary,MoH,0.5674,34.9559,GPS,No
+5834,Kenya,Uasin Gishu,Ongata Dispensary,Dispensary,MoH,0.3571,35.3091,GPS,No
+5833,Kenya,Uasin Gishu,North Star Alliance Wellness Centre Clinic,Clinic,NGO,0.2161,35.4326,Google Earth,No
+5829,Kenya,Uasin Gishu,Nairiri Dispensary,Dispensary,MoH,0.3922,35.3106,GPS,No
+5828,Kenya,Uasin Gishu,Nabkoi Dispensary,Dispensary,MoH,0.1386,35.4656,GPS,No
+5827,Kenya,Uasin Gishu,Muyengwet Dispensary,Dispensary,MoH,0.52,35.3642,Google Earth,No
+5826,Kenya,Uasin Gishu,Murgusi Dispensary,Dispensary,MoH,0.6088,34.9893,Google Earth,No
+5825,Kenya,Uasin Gishu,Murgor Hills Dispensary,Dispensary,MoH,0.5615,35.0836,GPS,No
+5824,Kenya,Uasin Gishu,Muchorwe Dispensary,Dispensary,MoH,0.0285,35.5112,Google Earth,No
+5823,Kenya,Uasin Gishu,Moi's Bridge Health Centre,Health Centre,MoH,0.876,35.1221,GPS,Yes
+5822,Kenya,Uasin Gishu,Moi's Bridge Catholic Health Centre,Health Centre,FBO,0.8787,35.1253,GPS,Yes
+5821,Kenya,Uasin Gishu,Moiben Health Centre,Health Centre,MoH,0.8217,35.3854,GPS,Yes
+5820,Kenya,Uasin Gishu,Moi Teaching Referral Hospital,National Referral Hospital,MoH,0.5112,35.2803,GPS,No
+5819,Kenya,Uasin Gishu,Mogoon Dispensary,Dispensary,MoH,0.8722,35.1779,GPS,No
+5818,Kenya,Uasin Gishu,Mobet Dispensary,Dispensary,MoH,0.8097,35.1495,GPS,No
+5814,Kenya,Uasin Gishu,Matharu Dispensary,Dispensary,MoH,0.1056,35.5045,GPS,No
+5813,Kenya,Uasin Gishu,Mary Immaculate Dispensary,Dispensary,FBO,0.4333,35.4605,Google Earth,No
+5812,Kenya,Uasin Gishu,Lingwai Dispensary,Dispensary,MoH,0.2194,35.4128,GPS,No
+5811,Kenya,Uasin Gishu,Lemoru Trinity Dispensary,Dispensary,FBO,0.8512,35.2644,GPS,No
+5810,Kenya,Uasin Gishu,Lemoru Ngeny Dispensary,Dispensary,MoH,0.8536,35.2887,GPS,No
+5809,Kenya,Uasin Gishu,Leberio Dispensary,Dispensary,MoH,0.441,35.2333,Google Earth,No
+5808,Kenya,Uasin Gishu,Langas PCEA Health Centre,Health Centre,FBO,0.4833,35.2617,GPS,Yes
+5807,Kenya,Uasin Gishu,Kuinet Dispensary,Dispensary,MoH,0.6266,35.3108,GPS,No
+5806,Kenya,Uasin Gishu,Kongnyalil Dispensary,Dispensary,MoH,0.7922,35.4664,Google Earth,No
+5805,Kenya,Uasin Gishu,Koitoror PCEA Dispensary,Dispensary,FBO,0.5617,35.3988,GPS,No
+5804,Kenya,Uasin Gishu,Kisor Dispensary,Dispensary,MoH,0.5225,35.2059,Google Earth,No
+5803,Kenya,Uasin Gishu,Kipsigak Health Centre,Health Centre,MoH,0.8057,35.2946,Google Earth,Yes
+5802,Kenya,Uasin Gishu,Kiplombe AIC Dispensary,Dispensary,MoH,0.588,35.2571,GPS,No
+5801,Kenya,Uasin Gishu,Kipkenyo Dispensary,Dispensary,Local authority,0.5315,35.2123,GPS,No
+5800,Kenya,Uasin Gishu,Kipkabus Health Centre,Health Centre,MoH,0.2765,35.4879,GPS,Yes
+5799,Kenya,Uasin Gishu,Kimuri Dispensary,Dispensary,MoH,0.4069,35.3035,GPS,No
+5798,Kenya,Uasin Gishu,Kimurgoi Dispensary,Dispensary,MoH,0.8326,35.1955,GPS,No
+5797,Kenya,Uasin Gishu,Kimumu EMC Dispensary,Dispensary,MoH,0.5585,35.302,GPS,No
+5796,Kenya,Uasin Gishu,Kimoning Dispensary,Dispensary,MoH,0.5782,35.4394,GPS,No
+5794,Kenya,Uasin Gishu,Kibagenge Dispensary,Dispensary,MoH,0.905,35.2818,GPS,No
+5793,Kenya,Uasin Gishu,Kesses Health Centre,Health Centre,MoH,0.2966,35.3216,GPS,Yes
+5792,Kenya,Uasin Gishu,Kename Dispensary,Dispensary,MoH,0.4916,35.2692,GPS,No
+5791,Kenya,Uasin Gishu,Ken Ame Health Centre,Health Centre,FBO,0.4933,35.2771,GPS,Yes
+5790,Kenya,Uasin Gishu,Katuiyo Dispensary,Dispensary,MoH,0.3361,35.4399,GPS,No
+5789,Kenya,Uasin Gishu,Karuna Dispensary,Dispensary,MoH,0.745,35.4514,GPS,No
+5788,Kenya,Uasin Gishu,Kapyemit Dispensary,Dispensary,MoH,0.5754,35.2268,GPS,No
+5787,Kenya,Uasin Gishu,Kaptumo Dispensary,Dispensary,MoH,0.3488,35.4013,GPS,No
+5786,Kenya,Uasin Gishu,Kapteldon Health Centre,Health Centre,MoH,0.4848,35.2082,GPS,Yes
+5785,Kenya,Uasin Gishu,Kapteldet Dispensary,Dispensary,MoH,0.454,35.2174,GPS,No
+5784,Kenya,Uasin Gishu,Kapsoya Health Centre,Health Centre,MoH,0.5147,35.3006,GPS,Yes
+5777,Kenya,Uasin Gishu,Kapkoi Dispensary,Dispensary,MoH,0.2941,35.3786,GPS,No
+5776,Kenya,Uasin Gishu,Kapkei Dispensary,Dispensary,MoH,0.5413,35.4408,Google Earth,No
+5775,Kenya,Uasin Gishu,Kamuyu Dispensary,Dispensary,MoH,0.2083,35.3858,GPS,No
+5734,Kenya,Uasin Gishu,Ainabkoi PCEA Health Centre,Health Centre,MoH,0.2278,35.4882,GPS,Yes
+5733,Kenya,Turkana,Urum Dispensary,Dispensary,MoH,2.7563,34.8781,Google Earth,No
+5732,Kenya,Turkana,Turkwel Dispensary,Dispensary,MoH,3.1051,35.6025,Google Earth,No
+5730,Kenya,Turkana,St Patrick's Kanamkemer Dispensary,Dispensary,FBO,3.1068,35.6046,GPS,No
+5729,Kenya,Turkana,St Monica's Nakwamekwi Dispensary,Dispensary,FBO,3.1245,35.587,GPS,No
+5539,Kenya,Trans Nzoia,Seed of Hope Clinic,Clinic,NGO,1.0558,34.9648,Google Earth,No
+5538,Kenya,Trans Nzoia,Saboti Sub-District Hospital,Sub-District Hospital,MoH,0.9375,34.8375,Google Earth,Yes
+5537,Kenya,Trans Nzoia,Nzoia Dispensary,Dispensary,MoH,0.9268,35.1345,GPS,No
+5536,Kenya,Trans Nzoia,Namanjalala Dispensary,Dispensary,MoH,1.0729,34.9979,GPS,No
+5535,Kenya,Trans Nzoia,Muungano Dispensary,Dispensary,MoH,1.1378,35.0195,GPS,No
+5534,Kenya,Trans Nzoia,Mt Zion Mission Clinic,Clinic,FBO,1.0021,35.154,Google Earth,No
+5533,Kenya,Trans Nzoia,Mt Elgon National Park Dispensary,Dispensary,MoH,1.0239,34.7748,GPS,No
+5532,Kenya,Trans Nzoia,Motosiet Dispensary,Dispensary,MoH,0.9937,35.1632,GPS,No
+5531,Kenya,Trans Nzoia,Mitume-Kitale Dispensary,Dispensary,MoH,1.0296,34.9847,GPS,No
+5530,Kenya,Trans Nzoia,Mitume Dispensary,Dispensary,Local authority,1.0295,34.9847,Google Earth,No
+5529,Kenya,Trans Nzoia,Maridadi PCEA Medical Centre,Clinic,FBO,1.0716,35.0072,GPS,No
+5528,Kenya,Trans Nzoia,Makutano PCEA Medical Clinic,Clinic,FBO,1.0675,35.1921,GPS,No
+5527,Kenya,Trans Nzoia,Maili Saba Dispensary,Dispensary,MoH,0.9514,35.0684,GPS,No
+5526,Kenya,Trans Nzoia,Lukhome Dispensary,Dispensary,MoH,0.9064,34.8526,GPS,No
+5525,Kenya,Trans Nzoia,Kwanza Sub County Hospital,Sub-District Hospital,MoH,1.1629,34.9992,GPS,Yes
+5524,Kenya,Trans Nzoia,Kolongolo C.M Dispensary,Dispensary,FBO,1.2216,34.9715,GPS,No
+5523,Kenya,Trans Nzoia,Kobos Health Centre,Health Centre,MoH,1.1427,34.9641,GPS,Yes
+5522,Kenya,Trans Nzoia,Kitum Dispensary,Dispensary,MoH,1.0583,34.802,GPS,No
+5521,Kenya,Trans Nzoia,Kitale Sloam CBO Medical Centre,Clinic,NGO,1.0166,35.0075,Google Earth,No
+5520,Kenya,Trans Nzoia,Kitale District Hospital,District Hospital,MoH,1.017,35.0037,GPS,Yes
+5519,Kenya,Trans Nzoia,Kitalale Dispensary,Dispensary,MoH,1.0029,34.9187,GPS,No
+5518,Kenya,Trans Nzoia,Kipkeikei Dispensary,Dispensary,MoH,1.0127,35.2099,GPS,No
+5517,Kenya,Trans Nzoia,Kimuri Dispensary,Dispensary,MoH,1.1356,35.1552,GPS,No
+5516,Kenya,Trans Nzoia,Kimondo Dispensary,Dispensary,MoH,1.1147,34.7849,GPS,No
+5515,Kenya,Trans Nzoia,Kiminini Health Centre,Health Centre,MoH,0.8816,34.9295,GPS,Yes
+5514,Kenya,Trans Nzoia,Kiminini Cottage Hospital,Mission Hospital,FBO,0.8931,34.9241,GPS,No
+5513,Kenya,Trans Nzoia,Keiyo Dispensary,Dispensary,MoH,1.1378,35.0089,GPS,No
+5510,Kenya,Trans Nzoia,Kaplamai Health Centre,Health Centre,MoH,0.9873,35.1215,Google Earth,Yes
+5509,Kenya,Trans Nzoia,Kapkoi Mission Dispensary,Dispensary,FBO,0.8907,35.1007,GPS,No
+5508,Kenya,Trans Nzoia,Kapkoi Health Centre,Health Centre,MoH,1.217,34.9044,GPS,Yes
+5487,Kenya,Tharaka Nithi,Village Hope Core International Clinic,Clinic,NGO,-0.2303,37.6245,Google Earth,No
+5486,Kenya,Tharaka Nithi,Uturini Community Dispensary,Dispensary,MoH,-0.3864,37.9644,GPS,No
+5484,Kenya,Tharaka Nithi,Tharaka District Hospital,District Hospital,MoH,-0.1582,37.9753,Google Earth,Yes
+5483,Kenya,Tharaka Nithi,St Orsola Mission Hospital,Mission Hospital,FBO,-0.3162,37.8992,Google Earth,No
+5482,Kenya,Tharaka Nithi,Rukenya Dispensary,Dispensary,MoH,-0.2167,37.9144,GPS,No
+5481,Kenya,Tharaka Nithi,Presbyterian Ttc Rubate Health Centre,Health Centre,FBO,-0.3915,37.6782,GPS,Yes
+5480,Kenya,Tharaka Nithi,Nyagani Dispensary,Dispensary,FBO,-0.2704,37.6175,Google Earth,No
+5474,Kenya,Tharaka Nithi,Ndumbini Dispensary,Dispensary,MoH,-0.3049,37.7245,GPS,No
+5473,Kenya,Tharaka Nithi,Mwonge Dispensary,Dispensary,MoH,-0.3543,37.6286,GPS,No
+5472,Kenya,Tharaka Nithi,Mutindwa Dispensary,Dispensary,MoH,-0.2451,37.6034,GPS,No
+5471,Kenya,Tharaka Nithi,Muthambi Health Centre,Health Centre,MoH,-0.2746,37.6605,Google Earth,Yes
+5470,Kenya,Tharaka Nithi,Muthambi Dispensary,Dispensary,FBO,-0.2736,37.6617,GPS,No
+5469,Kenya,Tharaka Nithi,Murambani Dispensary,Dispensary,FBO,-0.2798,37.7047,Google Earth,No
+5468,Kenya,Tharaka Nithi,Mumbuni Dispensary,Dispensary,MoH,-0.2794,37.7422,GPS,No
+5467,Kenya,Tharaka Nithi,Mukuuni Dispensary,Dispensary,MoH,-0.3915,37.6532,GPS,No
+5466,Kenya,Tharaka Nithi,Mukuuni Community Unit Dispensary,Dispensary,CBO,-0.3912,37.6522,Google Earth,No
+5465,Kenya,Tharaka Nithi,Mukui Health Centre,Health Centre,MoH,-0.2777,37.7228,Google Earth,Yes
+5462,Kenya,Tharaka Nithi,Mpukoni Health Centre,Health Centre,MoH,-0.3738,37.6586,GPS,Yes
+5391,Kenya,Taveta,Kitobo Dispensary,Dispensary,MoH,-3.4402,37.6128,GPS,No
+5386,Kenya,Tana River,Waldena Dispensary,Dispensary,MoH,-1.6108,39.0254,GPS,No
+5384,Kenya,Tana River,Tarasaa Catholic Dispensary,Dispensary,FBO,-2.4414,40.1693,GPS,No
+5383,Kenya,Tana River,St Raphael Health Centre,Health Centre,FBO,-1.499,40.028,Google Earth,Yes
+5382,Kenya,Tana River,Sombo Dispensary,Dispensary,MoH,-0.5917,39.6967,GPS,No
+5381,Kenya,Tana River,Shirikisho Methodist Dispensary,Dispensary,FBO,-2.518,40.3214,GPS,No
+5380,Kenya,Tana River,Shirikisho Medical Dispensary,Dispensary,MoH,-2.52,40.3178,GPS,No
+5379,Kenya,Tana River,Sera Dispensary,Dispensary,MoH,-2.1276,40.1261,GPS,No
+5378,Kenya,Tana River,Semikaro Dispensary,Dispensary,MoH,-2.5086,40.2855,GPS,No
+5377,Kenya,Tana River,Roka Dispensary,Dispensary,MoH,-3.4337,39.9023,Google Earth,No
+5376,Kenya,Tana River,Pumwani Dispensary,Dispensary,MoH,-1.6107,40.0683,GPS,No
+5375,Kenya,Tana River,Ozi Dispensary,Dispensary,MoH,-2.5171,40.4562,GPS,No
+5374,Kenya,Tana River,Oda Dispensary,Dispensary,MoH,-2.4686,40.1938,GPS,No
+5373,Kenya,Tana River,Ngao District Hospital,District Hospital,MoH,-2.4122,40.2011,GPS,Yes
+5372,Kenya,Tana River,Nanighi Dispensary,Dispensary,MoH,-0.8505,39.8327,GPS,No
+5371,Kenya,Tana River,Mwina Methodist Dispensary,Dispensary,FBO,-2.0693,40.1463,GPS,No
+5370,Kenya,Tana River,Mwina Dispensary,Dispensary,MoH,-2.0618,40.1751,Google Earth,No
+5369,Kenya,Tana River,Mtangawanda Dispensary,Dispensary,MoH,-2.3457,40.2345,GPS,No
+5368,Kenya,Tana River,Mororo Health Centre,Health Centre,MoH,-0.473,39.6051,Google Earth,Yes
+5367,Kenya,Tana River,Mnazini Dispensary,Dispensary,MoH,-1.9779,40.1491,GPS,No
+5366,Kenya,Tana River,Mlanjo Dispensary,Dispensary,MoH,-0.3186,39.5171,GPS,No
+5364,Kenya,Tana River,Mbalambala Dispensary,Dispensary,MoH,-0.0975,39.0467,GPS,No
+5363,Kenya,Tana River,Maziwa Dispensary,Dispensary,MoH,-2.1845,40.1351,GPS,No
+5362,Kenya,Tana River,Marynoll Dispensary,Dispensary,FBO,-1.1826,39.8391,Google Earth,No
+5361,Kenya,Tana River,Mariamu Dispensary,Dispensary,FBO,-1.1717,39.8731,Google Earth,No
+5360,Kenya,Tana River,Makere Dispensary,Dispensary,MoH,-1.3372,40.0007,GPS,No
+5359,Kenya,Tana River,Majengo Dispensary,Dispensary,MoH,-1.6743,40.121,GPS,No
+5358,Kenya,Tana River,Madogo Health Centre,Health Centre,MoH,-0.4727,39.6073,GPS,Yes
+5357,Kenya,Tana River,Kulesa Dispensary,Dispensary,MoH,-2.1813,40.177,Google Earth,No
+5356,Kenya,Tana River,Kitere Minhaj Dispensary,Dispensary,MoH,-1.9592,40.1491,GPS,No
+5355,Kenya,Tana River,Kipini Health Centre,Health Centre,MoH,-2.5308,40.5418,GPS,Yes
+5354,Kenya,Tana River,Kipao Dispensary,Dispensary,MoH,-2.3687,40.2161,GPS,No
+5353,Kenya,Tana River,Kinyadu Dispensary,Dispensary,MoH,-1.9801,40.147,Google Earth,No
+5352,Kenya,Tana River,Kilelengwani Dispensary,Dispensary,MoH,-2.4785,40.4623,GPS,No
+5351,Kenya,Tana River,Kau Dispensary,Dispensary,MoH,-2.4873,40.4377,GPS,No
+5324,Kenya,Taita Taveta,Voi Moi District Hospital,District Hospital,MoH,-3.3909,38.5621,GPS,Yes
+5321,Kenya,Taita Taveta,Taveta District Hospital,District Hospital,MoH,-3.3987,37.6773,GPS,Yes
+5320,Kenya,Taita Taveta,Tausa Health Centre,Health Centre,MoH,-3.3418,38.5017,GPS,Yes
+5319,Kenya,Taita Taveta,St Joseph's Shelter of Hope Health Centre,Health Centre,FBO,-3.3905,38.5373,GPS,Yes
+5318,Kenya,Taita Taveta,St Joseph's Shelter of Hope Clinic,Clinic,FBO,-3.3908,38.539,Google Earth,No
+5317,Kenya,Taita Taveta,St Joseph Mission Dispensary,Dispensary,FBO,-3.2094,37.7142,GPS,No
+5316,Kenya,Taita Taveta,Shelemba Dispensary,Dispensary,MoH,-3.4316,38.4685,GPS,No
+5315,Kenya,Taita Taveta,Sangekoro Dispensary,Dispensary,MoH,-3.3426,38.3034,GPS,No
+5314,Kenya,Taita Taveta,Sagala Health Centre,Health Centre,MoH,-3.4935,38.5822,GPS,Yes
+5313,Kenya,Taita Taveta,Sagaighu Dispensary,Dispensary,MoH,-3.433,38.3335,GPS,No
+5312,Kenya,Taita Taveta,Rumangao Dispensary,Dispensary,FBO,-3.5252,38.5807,GPS,No
+5311,Kenya,Taita Taveta,Rekeke Model Health Centre,Health Centre,MoH,-3.4281,37.7332,Google Earth,Yes
+5310,Kenya,Taita Taveta,Nyache Health Centre,Health Centre,MoH,-3.3384,38.3809,GPS,Yes
+5308,Kenya,Taita Taveta,Ndovu Health Centre,Health Centre,MoH,-3.3927,38.5844,Google Earth,Yes
+5200,Kenya,Siaya,Nyang'oma Mission Health Centre,Health Centre,FBO,-0.1546,34.1948,GPS,Yes
+5199,Kenya,Siaya,Nyamonye Mission Dispensary,Dispensary,FBO,-0.0474,34.1504,GPS,No
+5198,Kenya,Siaya,Nyambare Health Centre,Health Centre,FBO,0.1334,34.102,GPS,Yes
+5197,Kenya,Siaya,Nyaguda Dispensary,Dispensary,MoH,-0.2124,34.2188,GPS,No
+5196,Kenya,Siaya,Nyagoko Dispensary,Dispensary,MoH,-0.1754,34.2956,GPS,No
+5195,Kenya,Siaya,Nyagoko Dispensary,Dispensary,MoH,-0.1757,34.3048,Google Earth,No
+5194,Kenya,Siaya,Nyadhi Dispensary,Dispensary,MoH,0.1426,34.2955,Google Earth,No
+5190,Kenya,Siaya,Ndori Health Centre,Health Centre,MoH,-0.0698,34.3775,GPS,Yes
+5189,Kenya,Siaya,Ndere Health Centre,Health Centre,MoH,0.1376,34.3832,GPS,Yes
+5188,Kenya,Siaya,Ndeda Dispensary,Dispensary,MoH,-0.2189,34.1151,Google Earth,No
+5187,Kenya,Siaya,Naya Health Centre,Health Centre,MoH,-0.3626,34.3121,GPS,Yes
+5186,Kenya,Siaya,Mwer Dispensary,Dispensary,MoH,0.1194,34.1796,GPS,No
+5184,Kenya,Siaya,Mulaha Dispensary,Dispensary,MoH,0.0628,34.2739,GPS,No
+5183,Kenya,Siaya,Misori Dispensary,Dispensary,MoH,-0.3186,34.278,GPS,No
+5182,Kenya,Siaya,Midhine Dispensary,Dispensary,MoH,0.0475,34.5338,Google Earth,No
+5181,Kenya,Siaya,Mbaga Health Centre,Health Centre,FBO,0.083,34.2763,GPS,Yes
+5180,Kenya,Siaya,Mawere Dispensary,Dispensary,MoH,-0.0375,34.342,GPS,No
+5179,Kenya,Siaya,Matibabu Nzoia Clinic,Clinic,NGO,0.1742,34.2278,GPS,No
+5178,Kenya,Siaya,Matangwe Dispensary,Dispensary,NGO,-0.1538,34.2899,GPS,No
+5176,Kenya,Siaya,Masogo Dispensary,Dispensary,MoH,-0.5098,34.7285,Google Earth,No
+5175,Kenya,Siaya,Masala Dispensary,Dispensary,MoH,-0.2081,34.2927,GPS,No
+5174,Kenya,Siaya,Marenyo Health Centre,Health Centre,MoH,0.0761,34.5517,Google Earth,Yes
+5173,Kenya,Siaya,Manyuanda Health Centre,Health Centre,MoH,-0.2525,34.2761,GPS,Yes
+5172,Kenya,Siaya,Maliera Mission Dispensary,Dispensary,FBO,0.0649,34.2723,GPS,No
+5171,Kenya,Siaya,Malanga Health Centre,Health Centre,MoH,0.1172,34.4487,GPS,Yes
+5170,Kenya,Siaya,Mahaya Health Centre,Health Centre,MoH,-0.1622,34.3407,GPS,Yes
+5169,Kenya,Siaya,Mageta Dispensary,Dispensary,MoH,-0.1325,34.0103,GPS,No
+5168,Kenya,Siaya,Madiany Sub County Hospital,Sub-District Hospital,MoH,-0.2813,34.3224,GPS,Yes
+5167,Kenya,Siaya,Mabinju Dispensary,Dispensary,MoH,-0.1815,34.3692,GPS,No
+5166,Kenya,Siaya,Lihanda Health Centre,Health Centre,NGO,0.045,34.5228,GPS,Yes
+5165,Kenya,Siaya,Ligega Health Centre,Health Centre,MoH,0.2019,34.2504,Google Earth,Yes
+5164,Kenya,Siaya,Ligala Dispensary,Dispensary,MoH,0.1817,34.2996,Google Earth,No
+5163,Kenya,Siaya,Lieta Health Centre,Health Centre,MoH,-0.3209,34.3431,GPS,Yes
+5162,Kenya,Siaya,Lidha Dispensary,Dispensary,MoH,0.2421,34.1538,GPS,No
+5161,Kenya,Siaya,Kunya Dispensary,Dispensary,MoH,-0.289,34.3865,Google Earth,No
+5160,Kenya,Siaya,Kopiata Beach Dispensary,Dispensary,MoH,0.1299,34.3075,Google Earth,No
+5158,Kenya,Siaya,Karuoth Dispensary,Dispensary,MoH,0.1076,34.2802,GPS,No
+5157,Kenya,Siaya,Kapiyo Dispensary,Dispensary,MoH,-0.086,34.1749,GPS,No
+5156,Kenya,Siaya,Kambare Dispensary,Dispensary,MoH,-0.0267,34.4662,GPS,No
+5155,Kenya,Siaya,Kambajo Dispensary,Dispensary,MoH,-0.0789,34.2114,GPS,No
+5154,Kenya,Siaya,Kaluo Dispensary,Dispensary,MoH,0.112,34.3344,GPS,No
+5120,Kenya,Siaya,Akala Health Centre,Health Centre,MoH,-0.0594,34.4206,Google Earth,Yes
+5119,Kenya,Siaya,Abidha Health Centre,Health Centre,MoH,-0.159,34.4106,GPS,Yes
+5114,Kenya,Samburu,Tuum Dispensary,Dispensary,MoH,2.1462,36.7756,Google Earth,No
+5113,Kenya,Samburu,Swari Model Health Centre,Health Centre,MoH,1.1012,37.0701,Google Earth,Yes
+5112,Kenya,Samburu,Suguta Marmar Health Centre,Health Centre,MoH,0.8315,36.6923,GPS,Yes
+5111,Kenya,Samburu,Suguta Marmar Catholic Dispensary,Dispensary,FBO,0.8254,36.6894,GPS,No
+5110,Kenya,Samburu,South Horr Dispensary,Dispensary,MoH,2.0994,36.9151,Google Earth,No
+5109,Kenya,Samburu,South Horr Catholic Health Centre,Health Centre,FBO,2.0952,36.8991,Google Earth,Yes
+5108,Kenya,Samburu,Sirata Oirobi Dispensary,Dispensary,MoH,1.0505,36.6486,GPS,No
+5107,Kenya,Samburu,Sererit Catholic Dispensary,Dispensary,FBO,1.6746,37.1632,GPS,No
+5106,Kenya,Samburu,Sereolipi Health Centre,Health Centre,MoH,1.1292,37.602,GPS,Yes
+5067,Kenya,Samburu,Ledero Dispensary,Dispensary,MoH,1.04,36.7391,GPS,No
+5066,Kenya,Samburu,Lchakwai Dispensary,Dispensary,MoH,0.9949,36.7943,GPS,No
+5065,Kenya,Samburu,Latakweny Dispensary,Dispensary,MoH,1.5467,37.1029,Google Earth,No
+5064,Kenya,Samburu,Kisima Health Centre,Health Centre,MoH,0.9453,36.763,GPS,Yes
+5063,Kenya,Samburu,Kirimun Dispensary,Dispensary,MoH,0.7435,36.8762,Google Earth,No
+5062,Kenya,Samburu,Kiltamany Dispensary,Dispensary,MoH,0.6441,37.4752,GPS,No
+5052,Kenya,Nyeri,Zaina Dispensary,Dispensary,MoH,-0.429,36.8489,GPS,No
+5043,Kenya,Nyeri,Wakamata Dispensary,Dispensary,MoH,-0.4999,37.0507,GPS,No
+5042,Kenya,Nyeri,Unjiru Health Centre,Health Centre,MoH,-0.4521,37.1109,GPS,Yes
+5039,Kenya,Nyeri,Thung'ari Dispensary,Dispensary,MoH,-0.3111,37.0035,Google Earth,No
+5038,Kenya,Nyeri,Thangathi Health Centre,Health Centre,MoH,-0.5848,37.1297,GPS,Yes
+5037,Kenya,Nyeri,Thageini Dispensary,Dispensary,MoH,-0.5092,37.0466,Google Earth,No
+5036,Kenya,Nyeri,Tambaya Dispensary,Dispensary,MoH,-0.5251,37.0182,GPS,No
+4873,Kenya,Nyandarua,Olborosat Dispensary,Dispensary,MoH,-0.192,36.4845,Google Earth,No
+4871,Kenya,Nyandarua,North Kinangop Catholic Hospital,Mission Hospital,FBO,-0.5551,36.5526,Google Earth,No
+4867,Kenya,Nyandarua,Ngano Health Centre,Health Centre,MoH,-0.1088,36.2711,Google Earth,Yes
+4866,Kenya,Nyandarua,New Tumaini Health Centre,Health Centre,MoH,-0.254,36.2924,GPS,Yes
+4865,Kenya,Nyandarua,New Mawingu Health Centre,Health Centre,MoH,-0.3123,36.3323,Google Earth,Yes
+4864,Kenya,Nyandarua,Ndunyu Njeru Dispensary,Dispensary,MoH,-0.547,36.5637,GPS,No
+4863,Kenya,Nyandarua,Ndivai Dispensary,Dispensary,MoH,0.0642,36.5004,Google Earth,No
+4862,Kenya,Nyandarua,Ndemi Health Centre,Health Centre,MoH,-0.3303,36.4177,Google Earth,Yes
+4861,Kenya,Nyandarua,Ndaragwa Health Centre,Health Centre,MoH,-0.0577,36.5317,Google Earth,Yes
+4860,Kenya,Nyandarua,Nandarasi Dispensary,Dispensary,MoH,-0.5295,36.5702,Google Earth,No
+4859,Kenya,Nyandarua,Mutarakwa Dispensary,Dispensary,MoH,-0.5716,36.6062,GPS,No
+4858,Kenya,Nyandarua,Murungaru Health Centre,Health Centre,MoH,-0.5846,36.4906,Google Earth,Yes
+4857,Kenya,Nyandarua,Munyaka Dispensary,Dispensary,MoH,-0.6871,36.6262,GPS,No
+4856,Kenya,Nyandarua,Mukungi Dispensary,Dispensary,MoH,-0.5265,36.5491,GPS,No
+4855,Kenya,Nyandarua,Mukindu Dispensary,Dispensary,MoH,-0.2017,36.4238,GPS,No
+4854,Kenya,Nyandarua,Mukeu AIC Dispensary,Dispensary,FBO,-0.7828,36.6325,GPS,No
+4853,Kenya,Nyandarua,Mirangine Health Centre,Health Centre,MoH,-0.1773,36.2438,Google Earth,Yes
+4852,Kenya,Nyandarua,Mikaro Dispensary,Dispensary,MoH,-0.4835,36.5439,GPS,No
+4849,Kenya,Nyandarua,Mastoo Dispensary,Dispensary,MoH,-0.1397,36.4141,Google Earth,No
+4848,Kenya,Nyandarua,Manunga Health Centre,Health Centre,MoH,-0.3998,36.4949,Google Earth,Yes
+4847,Kenya,Nyandarua,Maina & Mwangi Health Centre,Health Centre,MoH,-0.0683,36.322,Google Earth,Yes
+4846,Kenya,Nyandarua,Mahinga AIPCA Dispensary,Dispensary,FBO,-0.3622,36.346,GPS,No
+4845,Kenya,Nyandarua,Magumu Our Lady of Mercy Dispensary,Dispensary,FBO,-0.8664,36.5677,GPS,No
+4844,Kenya,Nyandarua,Leshau Pondo Health Centre,Health Centre,MoH,0.0759,36.4562,Google Earth,Yes
+4843,Kenya,Nyandarua,Lereshwa Dispensary,Dispensary,MoH,-0.4622,36.3976,GPS,No
+4842,Kenya,Nyandarua,Kwa Mbekenya Dispensary,Dispensary,MoH,-0.4871,36.608,Google Earth,No
+4841,Kenya,Nyandarua,Kitogo Dispensary,Dispensary,MoH,-0.5716,36.6062,GPS,No
+4840,Kenya,Nyandarua,Kiriogo Dispensary,Dispensary,MoH,-0.1237,36.6164,GPS,No
+4839,Kenya,Nyandarua,Kirima Dispensary,Dispensary,MoH,-0.194,36.4848,Google Earth,No
+4838,Kenya,Nyandarua,Kiambogo Dispensary,Dispensary,MoH,-0.3955,36.5413,GPS,No
+4837,Kenya,Nyandarua,Kenton Dispensary,Dispensary,MoH,-0.8971,36.5568,Google Earth,No
+4836,Kenya,Nyandarua,Kasuku Health Centre,Health Centre,MoH,-0.1327,36.3805,GPS,Yes
+4835,Kenya,Nyandarua,Karangatha Health Centre,Health Centre,MoH,-0.7825,36.6343,Google Earth,Yes
+4834,Kenya,Nyandarua,Kanjuiri Dispensary,Dispensary,MoH,-0.3599,36.2823,GPS,No
+4811,Kenya,Nyamira,Tinga Health Centre,Health Centre,MoH,-0.61,34.901,GPS,Yes
+4810,Kenya,Nyamira,Tindereti Dispensary,Dispensary,MoH,-0.7868,34.9821,GPS,No
+4809,Kenya,Nyamira,St Joseph's Nyansiongo Health Centre,Health Centre,FBO,-0.7945,35.0148,Google Earth,Yes
+4808,Kenya,Nyamira,Sirate Health Centre,Health Centre,MoH,-0.6535,34.916,Google Earth,Yes
+4807,Kenya,Nyamira,Riongige Dispensary,Dispensary,MoH,-0.5975,34.9974,Google Earth,No
+4806,Kenya,Nyamira,Rikenye Dispensary,Dispensary,MoH,-0.7432,34.9441,GPS,No
+4805,Kenya,Nyamira,Rigoma Dispensary,Dispensary,MoH,-0.7228,34.9269,Google Earth,No
+4804,Kenya,Nyamira,Rigoko Dispensary,Dispensary,MoH,-0.8053,34.9986,GPS,No
+4803,Kenya,Nyamira,Rietago Dispensary,Dispensary,MoH,-0.8607,35.0165,GPS,No
+4802,Kenya,Nyamira,Riechieri Health Centre,Health Centre,MoH,-0.5116,34.9995,Google Earth,Yes
+4801,Kenya,Nyamira,Riakworo Dispensary,Dispensary,FBO,-0.6883,34.9994,GPS,No
+4800,Kenya,Nyamira,Riakinaro Health Centre,Health Centre,MoH,-0.6066,34.9572,GPS,Yes
+4799,Kenya,Nyamira,Rangenyo Health Centre,Health Centre,FBO,-0.5301,34.9056,GPS,Yes
+4798,Kenya,Nyamira,Ramba Health Centre,Health Centre,MoH,-0.5973,34.9116,Google Earth,Yes
+4797,Kenya,Nyamira,Orwaki Dispensary,Dispensary,MoH,-0.4823,34.9513,GPS,No
+4796,Kenya,Nyamira,Ogango Health Centre,Health Centre,MoH,-0.6168,34.8743,Google Earth,Yes
+4795,Kenya,Nyamira,Ogango Dispensary,Dispensary,MoH,-0.6129,34.8734,GPS,No
+4794,Kenya,Nyamira,Nyasore Community Unit Dispensary,Dispensary,CBO,-0.573,34.7723,Google Earth,No
+4793,Kenya,Nyamira,Nyanturago Health Centre,Health Centre,MoH,-0.8089,34.9474,Google Earth,Yes
+4667,Kenya,Narok,Olepolos Dispensary,Dispensary,MoH,-0.4995,35.8093,Google Earth,No
+4666,Kenya,Narok,Olenkasurai Dispensary,Dispensary,FBO,-0.9063,35.9678,Google Earth,No
+4665,Kenya,Narok,Olendeem Dispensary,Dispensary,FBO,-0.8311,35.9676,GPS,No
+4664,Kenya,Narok,Oldonyorok COG Dispensary,Dispensary,FBO,-1.3416,34.7912,Google Earth,No
+4663,Kenya,Narok,Olderkesi Dispensary,Dispensary,MoH,-1.7116,35.5617,Google Earth,No
+4662,Kenya,Narok,Oldanyati Health Centre,Health Centre,MoH,-1.0719,34.6833,GPS,Yes
+4661,Kenya,Narok,Olchorro Health Centre,Health Centre,MoH,-0.8294,35.9979,GPS,Yes
+4659,Kenya,Narok,Olasiti AIC Dispensary,Dispensary,FBO,-1.1067,36.2399,GPS,No
+4658,Kenya,Narok,Nturumeti Dispensary,Dispensary,FBO,-1.165,36.0999,GPS,No
+4657,Kenya,Narok,Ntulele Dispensary,Dispensary,MoH,-1.0962,36.0856,GPS,No
+4648,Kenya,Narok,Nganayio Dispensary,Dispensary,MoH,-1.0522,34.9063,GPS,No
+4647,Kenya,Narok,Ndamama Dispensary,Dispensary,MoH,-0.9171,35.0214,Google Earth,No
+4646,Kenya,Narok,Naroosura Health Centre,Health Centre,MoH,-1.5405,35.8645,GPS,Yes
+4645,Kenya,Narok,Narolong Dispensary,Dispensary,CBO,-1.0473,34.6393,Google Earth,No
+4644,Kenya,Narok,Narok District Hospital,District Hospital,MoH,-1.0914,35.8707,GPS,Yes
+4643,Kenya,Narok,Naisoya Dispensary,Dispensary,MoH,-0.9251,35.8637,GPS,No
+4642,Kenya,Narok,Nairasirasa Dispensary,Dispensary,FBO,-1.0539,35.8193,GPS,No
+4641,Kenya,Narok,Nairagie-Enkare Health Centre,Health Centre,MoH,-1.0453,36.164,Google Earth,Yes
+4640,Kenya,Narok,Naikara Dispensary,Dispensary,FBO,-1.6041,35.6658,Google Earth,No
+4639,Kenya,Narok,Mulot Health Centre,Health Centre,MoH,-0.9417,35.4222,Google Earth,Yes
+4638,Kenya,Narok,Mulot Catholic Dispensary,Dispensary,FBO,-0.9399,35.433,Google Earth,No
+4637,Kenya,Narok,Mosiro Dispensary,Dispensary,MoH,-1.3879,36.1163,GPS,No
+4636,Kenya,Narok,Morijo Loita Dispensary,Dispensary,MoH,-1.7068,35.8054,Google Earth,No
+4635,Kenya,Narok,Mogor Dispensary,Dispensary,MoH,-1.0333,35.0104,Google Earth,No
+4634,Kenya,Narok,Mogoiywet Dispensary,Dispensary,MoH,-0.9316,35.0628,Google Earth,No
+4631,Kenya,Narok,Mausa Dispensary,Dispensary,MoH,-1.9868,35.8948,GPS,No
+4630,Kenya,Narok,Masurura Dispensary,Dispensary,MoH,-1.1926,34.6991,GPS,No
+4629,Kenya,Narok,Mashangwa Dispensary,Dispensary,MoH,-1.295,34.7168,GPS,No
+4628,Kenya,Narok,Marps Drop In Medical Centre,Clinic,NGO,-1.0912,35.8727,Google Earth,No
+4627,Kenya,Narok,Mararianta Dispensary,Dispensary,FBO,-1.1939,35.2481,Google Earth,No
+4626,Kenya,Narok,Maji Moto Dispensary,Dispensary,FBO,-1.3287,35.7167,Google Earth,No
+4625,Kenya,Narok,Losho Dispensary,Dispensary,MoH,-1.6134,35.5099,GPS,No
+4624,Kenya,Narok,Loosho Dispensary,Dispensary,MoH,-0.9265,34.9278,GPS,No
+4623,Kenya,Narok,Lolgorian Sub District Hospital,Sub-District Hospital,MoH,-1.2341,34.7997,GPS,Yes
+4622,Kenya,Narok,Leshuta Dispensary,Dispensary,MoH,-1.6899,35.7411,Google Earth,No
+4621,Kenya,Narok,Kuresiet Dispensary,Dispensary,MoH,-0.982,35.0464,Google Earth,No
+4620,Kenya,Narok,Kurangurik Dispensary,Dispensary,MoH,-0.9893,35.0736,Google Earth,No
+4619,Kenya,Narok,Kondamet Dispensary,Dispensary,MoH,-1.3714,34.8171,GPS,No
+4618,Kenya,Narok,Kojonga Dispensary,Dispensary,MoH,-0.9911,36.1362,GPS,No
+4617,Kenya,Narok,Kishon Health Centre,Health Centre,NGO,-1.4606,35.3883,GPS,Yes
+4616,Kenya,Narok,Kiribwet Dispensary,Dispensary,MoH,-1.0344,35.1807,GPS,No
+4615,Kenya,Narok,Kimintet Dispensary,Dispensary,MoH,-1.119,35.0826,Google Earth,No
+4614,Kenya,Narok,Kilgoris COG Dispensary,Dispensary,FBO,-1.0081,34.8762,Google Earth,No
+4613,Kenya,Narok,Keyian SDA Dispensary,Dispensary,FBO,-0.9948,34.6866,Other,No
+4612,Kenya,Narok,Keringani Dispensary,Dispensary,MoH,-1.3543,34.8622,Google Earth,No
+4611,Kenya,Narok,Karda Dispensary,Dispensary,FBO,-1.0225,34.6212,GPS,No
+4610,Kenya,Narok,Kapweria Dispensary,Dispensary,MoH,-0.9278,35.0912,GPS,No
+4609,Kenya,Narok,Kapune Dispensary,Dispensary,MoH,-0.9226,34.9843,GPS,No
+4607,Kenya,Narok,Kamaget Dispensary,Dispensary,MoH,-1.0799,35.08,GPS,No
+4569,Kenya,Narok,Aitong CMF Health Centre,Health Centre,FBO,-1.1862,35.2475,Google Earth,Yes
+4565,Kenya,Nandi,Tinderet Tea Dispensary,Dispensary,MoH,-0.038,35.3456,GPS,No
+4564,Kenya,Nandi,Terige CDF Dispensary,Dispensary,CBO,0.2255,35.2768,GPS,No
+4562,Kenya,Nandi,Taito Community Dispensary,Dispensary,MoH,0.1208,35.1834,GPS,No
+4560,Kenya,Nandi,Tabolwa Dispensary,Dispensary,MoH,0.3849,34.9641,GPS,No
+4559,Kenya,Nandi,St Boniface Dispensary,Dispensary,FBO,0.1833,34.9444,GPS,No
+4558,Kenya,Nandi,Sochoi Dispensary,Dispensary,MoH,0.145,35.3089,GPS,No
+4557,Kenya,Nandi,Sochoi AIC Dispensary,Dispensary,FBO,0.1444,35.265,GPS,No
+4556,Kenya,Nandi,Soba River Health Centre,Health Centre,MoH,-0.0763,35.2486,GPS,Yes
+4555,Kenya,Nandi,Siwo Dispensary,Dispensary,MoH,0.1788,35.2148,GPS,No
+4554,Kenya,Nandi,Sirwa Dispensary,Dispensary,MoH,0.1775,34.935,GPS,No
+4553,Kenya,Nandi,Sironoi SDA Dispensary,Dispensary,FBO,0.3156,35.0949,GPS,No
+4552,Kenya,Nandi,Sironoi GOK Dispensary,Dispensary,MoH,0.3136,35.0874,GPS,No
+4551,Kenya,Nandi,Sigot Dispensary,Dispensary,CBO,0.4293,35.1573,GPS,No
+4550,Kenya,Nandi,Setek Dispensary,Dispensary,MoH,0.0662,35.2798,GPS,No
+4549,Kenya,Nandi,Serem Health Centre,Health Centre,MoH,0.0713,34.8581,GPS,Yes
+4548,Kenya,Nandi,Sang'alo Dispensary,Dispensary,MoH,0.3538,35.0264,GPS,No
+4546,Kenya,Nandi,Ollessos Holy Family Dispensary,Dispensary,MoH,0.2054,35.2836,GPS,No
+4543,Kenya,Nandi,Ndubeneti Dispensary,Dispensary,MoH,0.295,35.2375,GPS,No
+4542,Kenya,Nandi,Ndalat PCEA Health Centre,Health Centre,FBO,0.5327,35.1089,Google Earth,Yes
+4541,Kenya,Nandi,Ndalat Gaa Dispensary,Dispensary,CBO,0.5174,35.0979,GPS,No
+4540,Kenya,Nandi,Nandi Hills District Hospital,District Hospital,MoH,0.1047,35.183,GPS,Yes
+4539,Kenya,Nandi,Mother Franciscan Mission Health Centre,Health Centre,FBO,0.2015,35.0844,GPS,Yes
+4324,Kenya,Nakuru,Mangu Dispensary,Dispensary,MoH,-0.2184,35.9531,GPS,No
+4322,Kenya,Nakuru,Maiela Health Centre,Health Centre,MoH,-0.8859,36.1983,GPS,Yes
+4321,Kenya,Nakuru,Mai Mahiu Health Centre,Health Centre,MoH,-0.9752,36.5833,GPS,Yes
+4320,Kenya,Nakuru,Lower Solai Dispensary,Dispensary,MoH,0.0319,36.1698,GPS,No
+4319,Kenya,Nakuru,Longonot Dispensary,Dispensary,MoH,-0.8803,36.4955,GPS,No
+4318,Kenya,Nakuru,Likia Dispensary,Dispensary,MoH,-0.5328,35.965,GPS,No
+4317,Kenya,Nakuru,Lengenet Dispensary,Dispensary,MoH,-0.1376,35.9049,GPS,No
+4316,Kenya,Nakuru,Lelechwet Dispensary,Dispensary,MoH,-0.2212,35.8303,GPS,No
+4315,Kenya,Nakuru,Lare Health Centre,Health Centre,MoH,-0.5273,35.9644,GPS,Yes
+4314,Kenya,Nakuru,Langa Langa Health Centre,Health Centre,Local authority,-0.2996,36.0714,GPS,Yes
+4313,Kenya,Nakuru,Lanet Health Centre,Health Centre,Local authority,-0.3172,36.1427,GPS,Yes
+4312,Kenya,Nakuru,Lalwet Dispensary,Dispensary,MoH,-0.201,36.0155,GPS,No
+4311,Kenya,Nakuru,Kuru Kings Delivarance Medical Centre,Clinic,FBO,-0.2977,36.0694,Google Earth,No
+4310,Kenya,Nakuru,Kuresoi Health Centre,Health Centre,MoH,-0.4242,35.532,GPS,Yes
+4309,Kenya,Nakuru,Korao Dispensary,Dispensary,MoH,-0.4728,35.5825,GPS,No
+4308,Kenya,Nakuru,Kiwamu Dispensary,Dispensary,MoH,-0.2364,36.1671,Google Earth,No
+4307,Kenya,Nakuru,Kiti Dispensary,Dispensary,MoH,-0.2686,36.103,Google Earth,No
+4306,Kenya,Nakuru,Kiptororo Dispensary,Dispensary,MoH,-0.3772,35.5038,GPS,No
+4305,Kenya,Nakuru,Kiptangwanyi Dispensary,Dispensary,MoH,-0.5568,36.117,Google Earth,No
+4304,Kenya,Nakuru,Kiptagich Model Health Centre,Health Centre,MoH,-0.5739,35.6131,GPS,Yes
+4303,Kenya,Nakuru,Kipsyenan Dispensary,Dispensary,MoH,-0.0828,35.9436,GPS,No
+4302,Kenya,Nakuru,Kipkonyo Dispensary,Dispensary,MoH,-0.7401,36.2535,GPS,No
+4301,Kenya,Nakuru,Kinungi Dispensary,Dispensary,MoH,-0.8001,36.5322,GPS,No
+4300,Kenya,Nakuru,Kimugul Dispensary,Dispensary,MoH,-0.4968,35.9672,Google Earth,No
+4299,Kenya,Nakuru,Kimeswon Health Centre,Health Centre,MoH,-0.4159,35.537,GPS,Yes
+4298,Kenya,Nakuru,Kijani Dispensary,Dispensary,MoH,-0.7836,36.4453,Google Earth,No
+4297,Kenya,Nakuru,Kihingo CDF Dispensary,Dispensary,CBO,-0.44,35.9748,Google Earth,No
+4296,Kenya,Nakuru,Kianjoya Dispensary,Dispensary,MoH,-0.5416,36.0564,GPS,No
+4295,Kenya,Nakuru,Kiambogo Dispensary,Dispensary,MoH,-0.5934,36.1312,GPS,No
+4294,Kenya,Nakuru,Kiamberiria CDF Dispensary,Dispensary,CBO,-0.3049,35.6905,GPS,No
+4293,Kenya,Nakuru,Kiagai PCEA Dispensary,Dispensary,FBO,-0.03,36.2047,Google Earth,No
+4292,Kenya,Nakuru,Kewamoi Dispensary,Dispensary,MoH,-0.4254,35.6296,Google Earth,No
+4291,Kenya,Nakuru,Keringet Health Centre,Health Centre,MoH,-0.4227,35.6881,GPS,Yes
+4290,Kenya,Nakuru,Kasarani Dispensary,Dispensary,MoH,-0.6582,36.4138,Google Earth,No
+4289,Kenya,Nakuru,Karunga Dispensary,Dispensary,MoH,-0.4079,36.3607,GPS,No
+4288,Kenya,Nakuru,Karati Dispensary,Dispensary,MoH,-0.6885,36.4784,GPS,No
+4287,Kenya,Nakuru,Karagita Dispensary,Dispensary,MoH,-0.7741,36.4313,GPS,No
+4284,Kenya,Nakuru,Kaplamai Dispensary,Dispensary,MoH,-0.6406,35.635,GPS,No
+4283,Kenya,Nakuru,Kapkures Dispensary,Dispensary,MoH,-0.3082,36.0381,GPS,No
+4282,Kenya,Nakuru,Kapket Dispensary,Dispensary,CBO,-0.584,35.597,GPS,No
+4281,Kenya,Nakuru,Kandutura Dispensary,Dispensary,MoH,-0.1033,35.8012,GPS,No
+4280,Kenya,Nakuru,Kamara Dispensary,Dispensary,MoH,-0.0972,35.6759,GPS,No
+4231,Kenya,Nakuru,All Nation Clinic,Clinic,FBO,-0.2667,36.1094,Google Earth,No
+4230,Kenya,Nakuru,Algadir Medical Clinic,Clinic,FBO,-0.2991,36.0677,GPS,No
+4229,Kenya,Nakuru,Ainamoi Dispensary,Dispensary,MoH,-0.5568,35.6022,GPS,No
+4228,Kenya,Nakuru,AGC Baby Health Clinic,Clinic,FBO,-0.2596,35.9785,GPS,No
+4227,Kenya,Nairobi,Zion AIC Clinic,Clinic,FBO,-1.2611,36.8721,Google Earth,No
+4221,Kenya,Nairobi,Waithaka Health Centre,Health Centre,Local authority,-1.2789,36.7152,GPS,Yes
+4220,Kenya,Nairobi,Vostrum Clinic,Clinic,NGO,-1.3078,36.7811,Google Earth,No
+4219,Kenya,Nairobi,Vision Peoples Inter Health Centre,Health Centre,FBO,-1.2569,36.8656,GPS,Yes
+4218,Kenya,Nairobi,Uthiru Muthua Dispensary,Dispensary,MoH,-1.2687,36.7183,GPS,No
+4217,Kenya,Nairobi,Ushirika Medical Clinic,Clinic,CBO,-1.3078,36.7728,GPS,No
+4216,Kenya,Nairobi,Upendo Dispensary,Dispensary,MoH,-1.2612,36.7496,GPS,No
+4215,Kenya,Nairobi,Umoja Health Centre,Health Centre,Local authority,-1.2793,36.8873,GPS,Yes
+4214,Kenya,Nairobi,Umma CBO Clinic,Clinic,NGO,-1.2713,36.8524,Google Earth,No
+4213,Kenya,Nairobi,The Mater Embakasi Clinic,Clinic,FBO,-1.3241,36.8992,Google Earth,No
+4212,Kenya,Nairobi,Tena PCEA Clinic,Clinic,FBO,-1.2923,36.8897,GPS,No
+4211,Kenya,Nairobi,Tabitha Clinic,Clinic,NGO,-1.3161,36.7802,Google Earth,No
+4210,Kenya,Nairobi,Swop Outreach Project Clinic,Clinic,NGO,-1.2974,36.8941,Google Earth,No
+4209,Kenya,Nairobi,Swop Kawangware Clinic,Clinic,NGO,-1.2918,36.735,Google Earth,No
+4208,Kenya,Nairobi,Swop Clinic,Clinic,NGO,-1.2809,36.8238,Google Earth,No
+4207,Kenya,Nairobi,State House Dispensary,Dispensary,MoH,-1.2844,36.7992,GPS,No
+4206,Kenya,Nairobi,State House Clinic,Clinic,Local authority,-1.2762,36.8034,GPS,No
+4205,Kenya,Nairobi,St. Odilia's Dispensary,Dispensary,FBO,-1.3101,36.7794,GPS,No
+4204,Kenya,Nairobi,St Vincent Catholic Clinic,Clinic,FBO,-1.267,36.8488,Google Earth,No
+4203,Kenya,Nairobi,St Veronica EDARP Clinic,Clinic,FBO,-1.2839,36.8552,Google Earth,No
+4202,Kenya,Nairobi,St Teresa's Parish Dispensary,Dispensary,FBO,-1.2692,36.8464,GPS,No
+4201,Kenya,Nairobi,St Raphael's Clinic,Clinic,FBO,-1.2708,36.949,GPS,No
+4200,Kenya,Nairobi,St Peter's ACK Medical Clinic,Clinic,FBO,-1.2583,36.7133,GPS,No
+4199,Kenya,Nairobi,St Mary's Mission Hospital,Mission Hospital,FBO,-1.3223,36.7744,GPS,No
+4198,Kenya,Nairobi,St Mac's Hospital,Hospital,CBO,-1.312,36.7979,Google Earth,No
+4197,Kenya,Nairobi,St Joseph's Dispensary,Dispensary,FBO,-1.3027,36.7415,GPS,No
+4196,Kenya,Nairobi,St Joseph's Dispensary,Dispensary,FBO,-1.3027,36.7415,GPS,No
+4195,Kenya,Nairobi,St Joseph W Dispensary,Dispensary,FBO,-1.271,36.7391,GPS,No
+4194,Kenya,Nairobi,St Joseph Mukasa Dispensary,Dispensary,FBO,-1.1784,36.9069,GPS,No
+4193,Kenya,Nairobi,St Joseph EDARP Clinic,Clinic,FBO,-1.2905,36.8468,Google Earth,No
+4192,Kenya,Nairobi,St John's Community Centre Clinic,Clinic,FBO,-1.2824,36.8455,Google Earth,No
+4191,Kenya,Nairobi,St Francis Health Centre,Health Centre,FBO,-1.2233,36.9156,GPS,Yes
+4190,Kenya,Nairobi,St Francis Community Hospital,Mission Hospital,FBO,-1.2253,36.9154,GPS,No
+4189,Kenya,Nairobi,St Bridget's MCH Clinic,Clinic,FBO,-1.2787,36.8399,GPS,No
+4188,Kenya,Nairobi,St Barkita Dispensary,Dispensary,FBO,-1.2837,36.9619,GPS,No
+4187,Kenya,Nairobi,St Angela Merici Health Centre,Health Centre,FBO,-1.3092,36.8419,GPS,Yes
+4186,Kenya,Nairobi,Springs of Life Lutheran Dispensary,Dispensary,FBO,-1.3109,36.7794,GPS,No
+4185,Kenya,Nairobi,Special Provision Clinic,Clinic,NGO,-1.276,36.896,Google Earth,No
+4184,Kenya,Nairobi,Soweto West Community Clinic,Clinic,MoH,-1.3163,36.776,GPS,No
+4183,Kenya,Nairobi,Soweto Kayole PHC Health Centre,Health Centre,NGO,-1.2692,36.9181,GPS,Yes
+4182,Kenya,Nairobi,Soweto EDARP Health Centre,Health Centre,FBO,-1.2795,36.9097,Google Earth,Yes
+4181,Kenya,Nairobi,SOS Dispensary,Dispensary,NGO,-1.2745,36.8748,Google Earth,No
+4180,Kenya,Nairobi,Silanga MSF Belgium Dispensary,Dispensary,NGO,-1.317,36.7961,GPS,No
+4179,Kenya,Nairobi,Silanga Community Clinic,Clinic,MoH,-1.3177,36.7994,GPS,No
+4178,Kenya,Nairobi,Shree Cutchhi Leva Samaj Clinic,Clinic,NGO,-1.3101,36.8242,Google Earth,No
+4177,Kenya,Nairobi,Shauri Moyo Clinic,Clinic,Local authority,-1.2905,36.8484,Google Earth,No
+4176,Kenya,Nairobi,SGRR Clinic,Clinic,FBO,-1.3143,36.8273,Google Earth,No
+4175,Kenya,Nairobi,Sasa Centre-Ngara Clinic,Clinic,NGO,-1.2769,36.8282,Google Earth,No
+4174,Kenya,Nairobi,Ruaraka Uhai Neema Hospital,Mission Hospital,FBO,-1.2274,36.8836,Google Earth,No
+4173,Kenya,Nairobi,Ruaraka PSTC Health Centre,Health Centre,MoH,-1.2812,36.8261,Google Earth,Yes
+4172,Kenya,Nairobi,Ruaraka Clinic,Clinic,MoH,-1.2321,36.8817,GPS,No
+4171,Kenya,Nairobi,Ruai SDA Clinic,Clinic,FBO,-1.2682,36.9896,Google Earth,No
+4170,Kenya,Nairobi,Ruai Health Centre,Health Centre,Local authority,-1.2632,36.9911,GPS,Yes
+4169,Kenya,Nairobi,Ruai EDARP Clinic,Clinic,FBO,-1.2702,36.9906,GPS,No
+4168,Kenya,Nairobi,Romieva Medical Centre,Clinic,NGO,-1.2884,36.9723,Google Earth,No
+4167,Kenya,Nairobi,Romieva Medical Centre,Clinic,NGO,-1.3069,36.8971,Google Earth,No
+4166,Kenya,Nairobi,Riruta Health Centre,Health Centre,Local authority,-1.2841,36.7405,GPS,Yes
+4165,Kenya,Nairobi,Revival Home Based Care Clinic,Clinic,FBO,-1.3156,36.7754,GPS,No
+3930,Kenya,Murang'a,Mitubiri Dispensary,Dispensary,MoH,-1.0272,37.1543,GPS,No
+3929,Kenya,Murang'a,Mihuti Dispensary,Dispensary,FBO,-0.662,36.9576,Google Earth,No
+3928,Kenya,Murang'a,Mihang'o Dispensary,Dispensary,MoH,-0.868,37.2148,GPS,No
+3927,Kenya,Murang'a,Mbugiti Dispensary,Dispensary,MoH,-0.8359,36.8236,Other,No
+3926,Kenya,Murang'a,Matharite Dispensary,Dispensary,MoH,-0.7076,36.9074,GPS,No
+3925,Kenya,Murang'a,Mariira Community Dispensary,Dispensary,MoH,-0.7986,36.9317,GPS,No
+3924,Kenya,Murang'a,Mariira Catholic Dispensary,Dispensary,FBO,-0.7968,36.9333,GPS,No
+3923,Kenya,Murang'a,Mariaini Dispensary,Dispensary,MoH,-0.7456,36.8978,Google Earth,No
+3922,Kenya,Murang'a,Maranjau Dispensary,Dispensary,MoH,-0.802,37.224,GPS,No
+3921,Kenya,Murang'a,Maragua Ridge Health Centre,Health Centre,MoH,-0.7777,37.2088,GPS,Yes
+3920,Kenya,Murang'a,Maragua District Hospital,District Hospital,MoH,-0.7869,37.1266,GPS,Yes
+3919,Kenya,Murang'a,Maragi Dispensary,Dispensary,CBO,-0.7305,37.1422,GPS,No
+3918,Kenya,Murang'a,Mananga Dispensary,Dispensary,FBO,-0.7183,37.161,GPS,No
+3917,Kenya,Murang'a,Makuyu Health Centre,Health Centre,MoH,-0.8941,37.1866,GPS,Yes
+3916,Kenya,Murang'a,Mairi Dispensary,Dispensary,MoH,-0.7709,36.8313,GPS,No
+3915,Kenya,Murang'a,Leah Njoki Ndegwa Dispensary,Dispensary,MoH,-0.7114,37.0023,Other,No
+3914,Kenya,Murang'a,Kiunyu Dispensary,Dispensary,MoH,-0.9573,37.0195,Google Earth,No
+3913,Kenya,Murang'a,Kirwara Sub District Hospital,Sub-District Hospital,MoH,-0.9294,36.9431,GPS,Yes
+3912,Kenya,Murang'a,Kiruri Dispensary,Dispensary,MoH,-0.6928,36.8573,GPS,No
+3911,Kenya,Murang'a,Kirogo Health Centre,Health Centre,MoH,-0.7118,37.0295,GPS,Yes
+3910,Kenya,Murang'a,Kiria-Ini Mission Hospital,Mission Hospital,FBO,-0.6025,36.953,GPS,No
+3909,Kenya,Murang'a,Kiria-Ini Dispensary,Dispensary,MoH,-0.5994,36.9516,GPS,No
+3908,Kenya,Murang'a,Kiria Health Centre,Health Centre,MoH,-0.7468,37.0372,Google Earth,Yes
+3907,Kenya,Murang'a,Kinyona Dispensary,Dispensary,MoH,-0.7469,36.8232,GPS,No
+3906,Kenya,Murang'a,Kinyangi Health Centre,Health Centre,MoH,-1.0039,37.2782,Google Earth,Yes
+3905,Kenya,Murang'a,Kihuro ACK Dispensary,Dispensary,FBO,-0.608,36.9691,Google Earth,No
+3904,Kenya,Murang'a,Kihumbuini PCEA Dispensary,Dispensary,FBO,-0.9288,36.9875,Other,No
+3903,Kenya,Murang'a,Kihumbu-Ini Community Dispensary,Dispensary,MoH,-0.9292,36.9886,GPS,No
+3902,Kenya,Murang'a,Kihoya Dispensary,Dispensary,MoH,-0.6508,36.9053,GPS,No
+3901,Kenya,Murang'a,Kigumo Sub County Hospital,Sub-District Hospital,MoH,-0.8041,36.9614,GPS,Yes
+3900,Kenya,Murang'a,Kigoro Dispensary,Dispensary,MoH,-0.8544,36.8866,Google Earth,No
+3899,Kenya,Murang'a,Kigetuini Dispensary,Dispensary,MoH,-0.6739,37.1618,Google Earth,No
+3898,Kenya,Murang'a,Kibutha Dispensary,Dispensary,MoH,-0.6949,36.917,GPS,No
+3897,Kenya,Murang'a,Kiarutara Dispensary,Dispensary,MoH,-0.8596,36.8262,GPS,No
+3896,Kenya,Murang'a,Kianjugu Dispensary,Dispensary,MoH,-0.9015,37.2538,GPS,No
+3895,Kenya,Murang'a,Kiangunyi Dispensary,Dispensary,MoH,-0.6908,36.9854,GPS,No
+3894,Kenya,Murang'a,Kiangochi Dispensary,Dispensary,MoH,-0.7507,37.1327,GPS,No
+3893,Kenya,Murang'a,Kiambuthia Dispensary,Dispensary,CBO,-0.6184,36.9095,GPS,No
+3892,Kenya,Murang'a,Kiamara Dispensary,Dispensary,MoH,-0.6971,37.0623,Google Earth,No
+3891,Kenya,Murang'a,Kiairathe Dispensary,Dispensary,MoH,-0.6726,36.943,GPS,No
+3890,Kenya,Murang'a,Katipanga Dispensary,Dispensary,MoH,-0.9481,37.1451,Google Earth,No
+3889,Kenya,Murang'a,Kariua Dispensary,Dispensary,MoH,-0.8319,36.9755,GPS,No
+3888,Kenya,Murang'a,Kariua ACC & S Dispensary,Dispensary,FBO,-0.834,36.976,GPS,No
+3887,Kenya,Murang'a,Kariti Dispensary,Dispensary,MoH,-0.8663,37.0171,GPS,No
+3663,Kenya,Migori,Matoso Health Clinic,Clinic,NGO,-0.9769,34.133,Google Earth,No
+3662,Kenya,Migori,Matare Mission Dispensary,Dispensary,FBO,-1.3182,34.6749,GPS,No
+3661,Kenya,Migori,Masaria Dispensary,Dispensary,MoH,-1.1101,34.3451,GPS,No
+3660,Kenya,Migori,Masaba Health Centre,Health Centre,MoH,-1.1144,34.5318,GPS,Yes
+3659,Kenya,Migori,Mariwa Health Centre,Health Centre,MoH,-0.9721,34.5744,GPS,Yes
+3658,Kenya,Migori,Mama Maria Clinic,Clinic,FBO,-0.9908,34.118,Google Earth,No
+3657,Kenya,Migori,Makararangwe Dispensary,Dispensary,MoH,-1.3288,34.6554,GPS,No
+3656,Kenya,Migori,Macalder Sub-District Hospital,Sub-District Hospital,MoH,-0.9663,34.2883,GPS,Yes
+3655,Kenya,Migori,Macalder Mission Dispensary,Dispensary,FBO,-0.9532,34.2854,GPS,No
+3654,Kenya,Migori,Lwanda Dispensary,Dispensary,MoH,-0.8725,34.1967,GPS,No
+3653,Kenya,Migori,Lwala Nyarago Dispensary,Dispensary,MoH,-0.9524,34.5128,GPS,No
+3652,Kenya,Migori,Lwala Community Health Centre,Health Centre,CBO,-0.8919,34.217,GPS,Yes
+3651,Kenya,Migori,Luciel Dispensary,Dispensary,FBO,-0.8326,34.1949,GPS,No
+3650,Kenya,Migori,LMC Tekeleza Dice Clinic,Clinic,NGO,-0.845,34.1552,Google Earth,No
+3649,Kenya,Migori,LMC Tekeleza Dice Clinic,Clinic,NGO,-1.2435,34.476,Google Earth,No
+3648,Kenya,Migori,Lela Dispensary,Dispensary,MoH,-0.9473,34.4164,GPS,No
+3647,Kenya,Migori,Kwoyo Kodalo Dispensary,Dispensary,MoH,-0.7673,34.5595,GPS,No
+3646,Kenya,Migori,Kuria District Hospital,District Hospital,MoH,-1.1801,34.6283,GPS,Yes
+3645,Kenya,Migori,Kumoni Dispensary,Dispensary,MoH,-1.0081,34.069,Google Earth,No
+3644,Kenya,Migori,Kuja Dispensary,Dispensary,MoH,-0.8131,34.569,GPS,No
+3643,Kenya,Migori,Kugitimo Health Centre,Health Centre,MoH,-1.2313,34.6867,GPS,Yes
+3642,Kenya,Migori,Kopanga Dispensary,Dispensary,FBO,-1.139,34.298,GPS,No
+3641,Kenya,Migori,Komotobo Mission Health Centre,Health Centre,FBO,-1.2818,34.6194,GPS,Yes
+3640,Kenya,Migori,Komosoko Dispensary,Dispensary,MoH,-1.2059,34.4444,GPS,No
+3639,Kenya,Migori,Komomange Dispensary,Dispensary,MoH,-1.1901,34.586,GPS,No
+3638,Kenya,Migori,Kombe Dispensary,Dispensary,MoH,-1.1044,34.58,GPS,No
+3637,Kenya,Migori,Kombato Dispensary,Dispensary,MoH,-0.9748,34.3392,Google Earth,No
+3636,Kenya,Migori,Kolwal Dispensary,Dispensary,CBO,-0.9794,34.5057,GPS,No
+3635,Kenya,Migori,Koloo Dispensary,Dispensary,CBO,-0.8975,34.4476,GPS,No
+3634,Kenya,Migori,Kohanga Dispensary,Dispensary,MoH,-1.1212,34.5792,GPS,No
+3633,Kenya,Migori,Kochola Dispensary,Dispensary,MoH,-0.7079,34.5627,GPS,No
+3632,Kenya,Migori,Kituka Dispensary,Dispensary,MoH,-0.9702,34.2266,GPS,No
+3631,Kenya,Migori,Kitere Dispensary,Dispensary,MoH,-0.8231,34.6059,GPS,No
+3630,Kenya,Migori,Kipingi Dispensary,Dispensary,MoH,-0.8281,34.2094,Google Earth,No
+3629,Kenya,Migori,Kemakoba Dispensary,Dispensary,MoH,-1.3126,34.6121,GPS,No
+3628,Kenya,Migori,Kegonga District Hospital,District Hospital,MoH,-1.2559,34.6521,GPS,Yes
+3627,Kenya,Migori,Kebaroti Dispensary,Dispensary,FBO,-1.3162,34.6233,GPS,No
+3626,Kenya,Migori,Karungu Sub-District Hospital,Sub-District Hospital,MoH,-0.7954,34.1796,GPS,Yes
+3625,Kenya,Migori,Kanga Onditi Dispensary,Dispensary,MoH,-1.0696,34.2388,GPS,No
+3624,Kenya,Migori,Kamsaki Dispensary,Dispensary,MoH,-0.9921,34.4918,Google Earth,No
+3623,Kenya,Migori,Kamagambo Dispensary,Dispensary,FBO,-0.7396,34.6272,Google Earth,No
+3588,Kenya,Migori,Agenga Dispensary,Dispensary,MoH,-0.9163,34.2313,GPS,No
+3587,Kenya,Meru,Uruku Health Centre,Health Centre,MoH,-0.045,37.6052,GPS,Yes
+3586,Kenya,Meru,Uruku Dispensary,Dispensary,MoH,-0.0374,37.5643,GPS,No
+3585,Kenya,Meru,Uringu Health Centre,Health Centre,MoH,0.1385,37.7474,GPS,Yes
+3584,Kenya,Meru,Ukuu MCK Dispensary,Dispensary,FBO,-0.046,37.6442,GPS,No
+3583,Kenya,Meru,Tuuru Catholic Health Centre,Health Centre,FBO,0.3184,37.9348,GPS,Yes
+3582,Kenya,Meru,Timau Sub-District Hospital,Sub-District Hospital,MoH,0.0922,37.2461,Google Earth,Yes
+3581,Kenya,Meru,Timau Catholic Dispensary,Dispensary,FBO,0.0838,37.2376,GPS,No
+3580,Kenya,Meru,Tigania St. John of God Hospital,Mission Hospital,FBO,0.1989,37.7914,GPS,No
+3579,Kenya,Meru,Thuuru Dispensary,Dispensary,MoH,0.2622,37.9209,Google Earth,No
+3578,Kenya,Meru,Thumberera Dispensary,Dispensary,MoH,0.2771,37.8795,GPS,No
+3577,Kenya,Meru,Thinyaine Dispensary,Dispensary,MoH,0.1734,37.7285,GPS,No
+3576,Kenya,Meru,Theere Health Centre,Health Centre,MoH,0.3363,37.9897,Google Earth,Yes
+3575,Kenya,Meru,Thamare Dispensary,Dispensary,MoH,0.2804,37.9249,Google Earth,No
+3574,Kenya,Meru,St Thomas The Apostle Athi Catholic Dispensary,Dispensary,FBO,0.1681,37.9226,GPS,No
+3572,Kenya,Meru,St Theresa Kiirua Hospital,Mission Hospital,FBO,0.1278,37.5825,GPS,No
+3570,Kenya,Meru,St Marks Dispensary,Dispensary,FBO,-0.0451,37.6791,GPS,No
+3569,Kenya,Meru,St Lukes Cottage Hospital,Mission Hospital,FBO,0.1191,37.56,GPS,No
+3568,Kenya,Meru,St Joseph Catholic Dispensary,Dispensary,FBO,0.2796,37.8894,GPS,No
+3567,Kenya,Meru,St John's Dispensary,Dispensary,FBO,0.1261,37.6636,GPS,No
+3565,Kenya,Meru,St Francis Health Centre,Health Centre,FBO,0.1243,37.7169,Google Earth,Yes
+3564,Kenya,Meru,St Anne Kariene Dispensary,Dispensary,FBO,-0.0407,37.662,GPS,No
+3563,Kenya,Meru,St Ann Hospital,Mission Hospital,FBO,-0.0383,37.6618,GPS,No
+3562,Kenya,Meru,Sr Rhoda Clinic,Clinic,FBO,0.0803,37.2356,Google Earth,No
+3561,Kenya,Meru,Sirimon Dispensary,Dispensary,MoH,0.0415,37.2204,Google Earth,No
+3560,Kenya,Meru,Rwanyange Dispensary,Dispensary,MoH,0.0707,37.7296,GPS,No
+3559,Kenya,Meru,Ruiri Rural Health Demonstration Centre,Health Centre,MoH,0.1585,37.409,GPS,Yes
+3558,Kenya,Meru,Ruiri MCK Medical Centre,Clinic,FBO,0.0922,37.3934,Google Earth,No
+3557,Kenya,Meru,Ruiri Catholic Health Centre,Health Centre,FBO,0.1581,37.6672,Google Earth,Yes
+3555,Kenya,Meru,Ripples International Dispensary,Dispensary,FBO,0.1276,37.667,Google Earth,No
+3554,Kenya,Meru,Rei Dispensary,Dispensary,MoH,0.2435,37.6386,GPS,No
+3552,Kenya,Meru,Ontulili Dispensary,Dispensary,MoH,0.0354,37.1288,Google Earth,No
+3551,Kenya,Meru,Nyambene District Hospital,District Hospital,MoH,0.246,37.87,GPS,Yes
+3550,Kenya,Meru,Ntumburi Dispensary,Dispensary,MoH,0.2026,37.5099,Google Earth,No
+3549,Kenya,Meru,Ntirimiti Dispensary,Dispensary,MoH,0.0879,37.4712,GPS,No
+3548,Kenya,Meru,Nthambiro Dispensary,Dispensary,MoH,0.2501,38.0256,GPS,No
+3547,Kenya,Meru,Nthambiro Catholic Dispensary,Dispensary,FBO,0.2496,38.0282,GPS,No
+3546,Kenya,Meru,Ntemwene Dispensary,Dispensary,MoH,-0.0572,37.6323,GPS,No
+3545,Kenya,Meru,Nkunjumu Dispensary,Dispensary,FBO,-0.1759,37.5896,GPS,No
+3543,Kenya,Meru,Nkubu Dispensary,Dispensary,MoH,-0.0679,37.662,GPS,No
+3536,Kenya,Meru,Ngarendare Dispensary,Dispensary,MoH,0.1904,37.3455,Google Earth,No
+3535,Kenya,Meru,Ndoleli MCK Dispensary,Dispensary,FBO,0.3142,38.05,GPS,No
+3534,Kenya,Meru,Ncooro Dispensary,Dispensary,MoH,0.1853,37.769,Other,No
+3533,Kenya,Meru,Naikuriu Dispensary,Dispensary,MoH,0.4053,37.9579,Google Earth,No
+3532,Kenya,Meru,Naari Health Centre,Health Centre,MoH,0.0812,37.5817,GPS,Yes
+3531,Kenya,Meru,Mworoga Dispensary,Dispensary,MoH,-0.1886,37.7419,GPS,No
+3530,Kenya,Meru,Mworoga Catholic Dispensary,Dispensary,FBO,-0.159,37.752,GPS,No
+3529,Kenya,Meru,Mweru Dispensary,Dispensary,MoH,-0.1757,37.7141,GPS,No
+3528,Kenya,Meru,Mweronkaga Dispensary,Dispensary,MoH,0.2438,37.657,Other,No
+3527,Kenya,Meru,Mwathene Dispensary,Dispensary,MoH,0.1178,37.7833,GPS,No
+3526,Kenya,Meru,Muutiokiama Health Centre,Health Centre,MoH,-0.1232,37.7266,GPS,Yes
+3525,Kenya,Meru,Mutunguru PCEA Dispensary,Dispensary,FBO,-0.1722,37.6116,GPS,No
+3524,Kenya,Meru,Mutuati Sub-District Hospital,Sub-District Hospital,MoH,0.3829,37.9809,GPS,Yes
+3523,Kenya,Meru,Mutuati Catholic Hospital,Mission Hospital,FBO,0.3813,37.9804,GPS,No
+3522,Kenya,Meru,Mutionjuri Health Centre,Health Centre,MoH,0.1744,37.7485,GPS,Yes
+3521,Kenya,Meru,Mutiokiama Health Centre,Health Centre,MoH,0.1653,37.9314,GPS,Yes
+3520,Kenya,Meru,Muthara Sub-District Hospital,Sub-District Hospital,MoH,0.2236,37.7948,GPS,Yes
+3519,Kenya,Meru,Mutelai Dispensary,Dispensary,MoH,0.2191,37.7589,GPS,No
+3518,Kenya,Meru,Mumui Dispensary,Dispensary,MoH,0.2533,37.6353,GPS,No
+3517,Kenya,Meru,Mulika Dispensary,Dispensary,MoH,0.041,37.8586,GPS,No
+3516,Kenya,Meru,Mujwa Dispensary,Dispensary,FBO,-0.0849,37.7297,Google Earth,No
+3515,Kenya,Meru,Mituntu Health Centre,Health Centre,MoH,0.1735,37.6767,GPS,Yes
+3514,Kenya,Meru,Mitunguu Dispensary,Dispensary,MoH,-0.1057,37.7821,GPS,No
+3513,Kenya,Meru,Mitunguu CCS Dispensary,Dispensary,FBO,-0.1046,37.7821,GPS,No
+3512,Kenya,Meru,Mitunguu Catholic Dispensary,Dispensary,FBO,0.2167,37.8269,GPS,No
+3511,Kenya,Meru,Mikumbune Sub-District Hospital,Sub-District Hospital,MoH,-0.0762,37.6165,GPS,Yes
+3510,Kenya,Meru,Mikinduri Sub-District Hospital,Sub-District Hospital,MoH,0.1237,37.8339,GPS,Yes
+3509,Kenya,Meru,Mikinduri Health Centre,Health Centre,FBO,0.1237,37.8349,GPS,Yes
+3505,Kenya,Meru,Mboroga Dispensary,Dispensary,MoH,0.1415,37.5317,GPS,No
+3504,Kenya,Meru,Mbeu Sub-District Hospital,Sub-District Hospital,MoH,0.058,37.8211,GPS,Yes
+3503,Kenya,Meru,Maua Methodist Hospital,Mission Hospital,FBO,0.231,37.9419,GPS,No
+3502,Kenya,Meru,Maritati Dispensary,Dispensary,MoH,0.0858,37.326,GPS,No
+3501,Kenya,Meru,Maraa Catholic Dispensary,Dispensary,FBO,-0.1378,37.7715,GPS,No
+3500,Kenya,Meru,Makandune Dispensary,Dispensary,FBO,-0.081,37.8339,Google Earth,No
+3499,Kenya,Meru,Mailiari Dispensary,Dispensary,MoH,0.1868,37.7108,GPS,No
+3498,Kenya,Meru,Machungulu Dispensary,Dispensary,MoH,0.2953,37.9375,GPS,No
+3496,Kenya,Meru,Machaka Mission Dispensary,Dispensary,FBO,0.0996,37.5313,GPS,No
+3495,Kenya,Meru,Luciuti Dispensary,Dispensary,MoH,0.3589,37.9879,Google Earth,No
+3494,Kenya,Meru,Limoro Dispensary,Dispensary,MoH,0.2304,37.7257,GPS,No
+3493,Kenya,Meru,Limauru Dispensary,Dispensary,MoH,0.1515,37.7097,GPS,No
+3492,Kenya,Meru,Leeta Dispensary,Dispensary,MoH,0.4105,37.9872,Google Earth,No
+3491,Kenya,Meru,Lanyiru Dispensary,Dispensary,MoH,0.2695,37.7718,GPS,No
+3490,Kenya,Meru,Lailuba Dispensary,Dispensary,MoH,0.2436,37.7377,GPS,No
+3489,Kenya,Meru,Laare Health Centre,Health Centre,MoH,0.3349,37.9364,Google Earth,Yes
+3488,Kenya,Meru,Kunene Dispensary,Dispensary,MoH,0.1377,37.7471,GPS,No
+3487,Kenya,Meru,Kunati Health Centre,Health Centre,MoH,0.0929,37.9183,GPS,Yes
+3486,Kenya,Meru,Kithithina Dispensary,Dispensary,MoH,0.0483,37.2481,Google Earth,No
+3485,Kenya,Meru,Kitheo Dispensary,Dispensary,MoH,0.1539,37.8241,GPS,No
+3484,Kenya,Meru,Kiroone Dispensary,Dispensary,MoH,-0.1491,37.6321,GPS,No
+3483,Kenya,Meru,Kirogine Dispensary,Dispensary,MoH,-0.0944,37.693,GPS,No
+3482,Kenya,Meru,Kirimampio Dispensary,Dispensary,MoH,0.2197,37.9807,GPS,No
+3481,Kenya,Meru,Kirigara MCK Dispensary,Dispensary,FBO,-0.0285,37.6655,Google Earth,No
+3480,Kenya,Meru,Kiraone Dispensary,Dispensary,MoH,0.2021,37.978,Google Earth,No
+3479,Kenya,Meru,Kionyo Dispensary,Dispensary,MoH,-0.1262,37.5761,GPS,No
+3478,Kenya,Meru,Kinoru Dispensary,Dispensary,MoH,0.0535,37.6376,GPS,No
+3477,Kenya,Meru,Kinoro Sub-District Hospital,Sub-District Hospital,MoH,-0.1795,37.625,GPS,Yes
+3476,Kenya,Meru,Kina Dispensary,Dispensary,MoH,0.2665,38.1172,GPS,No
+3475,Kenya,Meru,Kimachia Dispensary,Dispensary,MoH,0.1094,37.7635,GPS,No
+3474,Kenya,Meru,Kililii Dispensary,Dispensary,MoH,0.1824,38.0094,GPS,No
+3473,Kenya,Meru,Kiirua Dispensary,Dispensary,MoH,0.1193,37.5549,GPS,No
+3472,Kenya,Meru,Kiija Dispensary,Dispensary,MoH,-0.0449,37.7327,GPS,No
+3471,Kenya,Meru,Kiguchwa Dispensary,Dispensary,MoH,0.1476,37.8572,GPS,No
+3470,Kenya,Meru,Kieni Kia Ndege Dispensary,Dispensary,MoH,0.1371,37.573,GPS,No
+3469,Kenya,Meru,Kiengu PCEA Dispensary,Dispensary,FBO,0.2682,37.9814,GPS,No
+3468,Kenya,Meru,Kiegoi Health Centre,Health Centre,MoH,0.2374,37.9135,GPS,Yes
+3466,Kenya,Meru,Kibiru Dispensary,Dispensary,MoH,0.3011,37.6324,Google Earth,No
+3465,Kenya,Meru,Kibirichia Sub-District Hospital,Sub-District Hospital,MoH,0.1098,37.5124,GPS,Yes
+3464,Kenya,Meru,Kibirichia Catholic Dispensary,Dispensary,FBO,0.0959,37.5142,GPS,No
+3462,Kenya,Meru,Kiarago Health Centre,Health Centre,MoH,-0.0529,37.5866,Google Earth,Yes
+3461,Kenya,Meru,Kianjuri Dispensary,Dispensary,MoH,0.0305,37.6448,Google Earth,No
+3460,Kenya,Meru,Kiangua Dispensary,Dispensary,MoH,-0.1772,37.6024,GPS,No
+3459,Kenya,Meru,Kiandiu Dispensary,Dispensary,MoH,0.1363,37.8047,GPS,No
+3458,Kenya,Meru,Kianda Dispensary,Dispensary,MoH,0.1267,37.9939,GPS,No
+3457,Kenya,Meru,Kiamweri Dispensary,Dispensary,MoH,-0.1489,37.5762,Google Earth,No
+3456,Kenya,Meru,Kiamiriru MCK Dispensary,Dispensary,FBO,0.0422,37.6238,GPS,No
+3455,Kenya,Meru,Kenya Assemblies of God Clinic,Clinic,FBO,0.0444,37.6464,Google Earth,No
+3454,Kenya,Meru,Kawiru Dispensary,Dispensary,MoH,0.2919,38.0037,GPS,No
+3452,Kenya,Meru,Kathithine Dispensary,Dispensary,MoH,0.2661,38.1173,GPS,No
+3451,Kenya,Meru,Kathithi Dispensary,Dispensary,MoH,0.0608,37.7011,Google Earth,No
+3449,Kenya,Meru,Kathigu Health Centre,Health Centre,MoH,-0.1581,37.6863,GPS,Yes
+3448,Kenya,Meru,Kathiari Dispensary,Dispensary,MoH,0.2113,37.9269,Google Earth,No
+3446,Kenya,Meru,Kathera Dispensary,Dispensary,FBO,-0.0547,37.5904,GPS,No
+3445,Kenya,Meru,Kathelwa Dispensary,Dispensary,MoH,0.3141,37.9072,GPS,No
+3443,Kenya,Meru,Karia Dispensary,Dispensary,FBO,-0.1995,37.6434,GPS,No
+3442,Kenya,Meru,Karama Dispensary,Dispensary,MoH,0.2439,37.8292,GPS,No
+3441,Kenya,Meru,Kaongo Health Centre,Health Centre,MoH,-0.0415,37.7212,Google Earth,Yes
+3440,Kenya,Meru,Kanyakine District Hospital,District Hospital,MoH,-0.1291,37.6756,Google Earth,Yes
+3439,Kenya,Meru,Kangeta Health Centre,Health Centre,MoH,0.2764,37.8896,GPS,Yes
+3437,Kenya,Meru,Kalimbene Dispensary,Dispensary,MoH,0.3028,37.8531,GPS,No
+3388,Kenya,Meru,Akachiu Health Centre,Health Centre,MoH,0.1832,37.9566,GPS,Yes
+3387,Kenya,Meru,Aina Onlus Dispensary,Dispensary,FBO,0.1154,37.7133,GPS,No
+3384,Kenya,Marsabit,Walda Health Centre,Health Centre,MoH,3.4526,38.5129,GPS,Yes
+3383,Kenya,Marsabit,Uran Health Centre,Health Centre,MoH,3.6016,38.5238,GPS,Yes
+3380,Kenya,Marsabit,Songa Health Centre,Health Centre,MoH,2.2436,38.0037,GPS,Yes
+3379,Kenya,Marsabit,Somare Dispensary,Dispensary,MoH,3.5179,39.0317,GPS,No
+3378,Kenya,Marsabit,Sololo Mission Hospital,Mission Hospital,FBO,3.5652,38.6451,GPS,No
+3377,Kenya,Marsabit,Sololo Makutano Dispensary,Dispensary,MoH,3.2855,38.6963,GPS,No
+3376,Kenya,Marsabit,Shura Dispensary,Dispensary,MoH,2.59,38.2977,GPS,No
+3375,Kenya,Marsabit,Sagante Dispensary,Dispensary,MoH,2.3338,38.0228,GPS,No
+3374,Kenya,Marsabit,Rawana Dispensary,Dispensary,MoH,3.3474,38.4704,GPS,No
+3373,Kenya,Marsabit,Ramata Health Centre,Health Centre,MoH,3.5662,38.6427,GPS,Yes
+3372,Kenya,Marsabit,Parkishon Dispensary,Dispensary,MoH,2.2669,37.883,GPS,No
+3371,Kenya,Marsabit,Ol-Torot Dispensary,Dispensary,MoH,2.5942,37.0818,GPS,No
+3370,Kenya,Marsabit,Odda Dispensary,Dispensary,MoH,3.4766,39.0951,GPS,No
+3369,Kenya,Marsabit,North Horr Health Centre,Health Centre,FBO,3.324,37.0713,GPS,Yes
+3367,Kenya,Marsabit,Nana Dispensary,Dispensary,MoH,3.4691,39.2389,GPS,No
+3366,Kenya,Marsabit,Namarei Dispensary,Dispensary,FBO,1.8347,37.454,GPS,No
+3365,Kenya,Marsabit,Moyale District Hospital,District Hospital,MoH,3.5225,39.05,GPS,Yes
+3364,Kenya,Marsabit,Moyale Catholic Dispensary,Dispensary,FBO,3.521,39.0548,GPS,No
+3362,Kenya,Marsabit,Marsabit District Hospital,District Hospital,MoH,2.3239,37.9909,Google Earth,Yes
+3361,Kenya,Marsabit,Manyatta Jillo Health Centre,Health Centre,MoH,2.3584,38.0261,Google Earth,Yes
+3360,Kenya,Marsabit,Manyatta Dispensary,Dispensary,MoH,2.3603,38.0147,GPS,No
+3359,Kenya,Marsabit,Mansile Dispensary,Dispensary,MoH,3.5003,39.1156,GPS,No
+3358,Kenya,Marsabit,Malabot Dispensary,Dispensary,MoH,3.1835,37.0886,GPS,No
+3357,Kenya,Marsabit,Maikona GOK Dispensary,Dispensary,MoH,2.9455,37.6332,Google Earth,No
+3356,Kenya,Marsabit,Maikona FBO Dispensary,Dispensary,FBO,2.9303,37.6352,Google Earth,No
+3355,Kenya,Marsabit,Madoadi Dispensary,Dispensary,MoH,3.5786,38.6932,Google Earth,No
+3354,Kenya,Marsabit,Lontolio Dispensary,Dispensary,MoH,1.6064,37.6741,GPS,No
+3353,Kenya,Marsabit,Loiyangalani Health Centre,Health Centre,FBO,2.7578,36.7178,Google Earth,Yes
+3352,Kenya,Marsabit,Loiyangalani Dispensary,Dispensary,MoH,2.7582,36.7216,GPS,No
+3351,Kenya,Marsabit,Logologo Model Health Centre,Health Centre,MoH,2.0028,37.9091,GPS,Yes
+3350,Kenya,Marsabit,Logologo AIC Dispensary,Dispensary,FBO,2.0072,38.3139,GPS,No
+3349,Kenya,Marsabit,Laisamis Health Centre,Health Centre,MoH,1.8347,37.454,GPS,Yes
+3348,Kenya,Marsabit,Laisamis Catholic Hospital,Mission Hospital,FBO,1.701,38.0251,GPS,No
+3347,Kenya,Marsabit,Kurungu Dispensary,Dispensary,MoH,2.7543,36.722,Google Earth,No
+3346,Kenya,Marsabit,Korr Health Centre,Health Centre,MoH,2.0636,37.496,Google Earth,Yes
+3345,Kenya,Marsabit,Korr Dispensary,Dispensary,FBO,2.0042,37.5033,Google Earth,No
+3344,Kenya,Marsabit,Kituruni Dispensary,Dispensary,MoH,2.2228,37.9769,GPS,No
+3343,Kenya,Marsabit,Kinisa Dispensary,Dispensary,MoH,3.5167,39.0584,GPS,No
+3342,Kenya,Marsabit,Kate Dispensary,Dispensary,MoH,3.44,38.9703,Google Earth,No
+3341,Kenya,Marsabit,Kargi Health Centre,Health Centre,MoH,2.5099,37.573,GPS,Yes
+3340,Kenya,Marsabit,Kargi Dispensary,Dispensary,FBO,2.5058,37.5773,Google Earth,No
+3339,Kenya,Marsabit,Karbururi Dispensary,Dispensary,MoH,3.5828,38.6055,GPS,No
+3338,Kenya,Marsabit,Karare Dispensary,Dispensary,FBO,2.2162,37.8881,GPS,No
+3337,Kenya,Marsabit,Kamboe Dispensary,Dispensary,MoH,2.1093,37.8945,GPS,No
+3297,Kenya,Mandera,Takaba District Hospital,District Hospital,MoH,3.3928,40.2257,Google Earth,Yes
+3296,Kenya,Mandera,Shimbir Fatuma Health Centre,Health Centre,MoH,3.0282,40.5091,GPS,Yes
+3295,Kenya,Mandera,Shafshafey Health Centre,Health Centre,MoH,3.9449,41.8177,Google Earth,Yes
+3294,Kenya,Mandera,Sala Dispensary,Dispensary,MoH,3.9333,41.2738,GPS,No
+3293,Kenya,Mandera,Sake Dispensary,Dispensary,MoH,3.6416,39.787,GPS,No
+3292,Kenya,Mandera,Rhamudimtu Health Centre,Health Centre,MoH,3.9336,41.2162,GPS,Yes
+3291,Kenya,Mandera,Rhamu Sub-District Hospital,Sub-District Hospital,MoH,4.0185,41.0636,GPS,Yes
+3289,Kenya,Mandera,Qarsadamu Dispensary,Dispensary,MoH,2.8471,40.682,GPS,No
+3288,Kenya,Mandera,Qalanqalesa Dispensary,Dispensary,MoH,2.897,40.456,GPS,No
+3287,Kenya,Mandera,Ollo Health Centre,Health Centre,MoH,3.8941,40.8673,GPS,Yes
+3286,Kenya,Mandera,Odha Dispensary,Dispensary,MoH,3.9428,41.8625,GPS,No
+3285,Kenya,Mandera,Neboi Dispensary,Dispensary,MoH,3.97,41.7871,GPS,No
+3284,Kenya,Mandera,Mandera District Hospital,District Hospital,MoH,3.9384,41.8645,GPS,Yes
+3283,Kenya,Mandera,Malkamari Health Centre,Health Centre,MoH,4.2371,40.6936,Google Earth,Yes
+3282,Kenya,Mandera,Malkamari Dispensary,Dispensary,MoH,4.2324,40.6937,Google Earth,No
+3281,Kenya,Mandera,Lulis Dispensary,Dispensary,MoH,4.0197,40.3378,Google Earth,No
+3280,Kenya,Mandera,Libehiya Dispensary,Dispensary,MoH,3.8295,41.5272,Google Earth,No
+3278,Kenya,Mandera,Lafey Sub-District Hospital,Sub-District Hospital,MoH,3.1509,41.1886,GPS,Yes
+3277,Kenya,Mandera,Kotulo Health Centre,Health Centre,MoH,2.4454,40.6522,Google Earth,Yes
+3276,Kenya,Mandera,Kiliweheri Health Centre,Health Centre,MoH,3.9175,40.0116,GPS,Yes
+3275,Kenya,Mandera,Khalalio Health Centre,Health Centre,MoH,3.9649,41.6186,GPS,Yes
+3238,Kenya,Makueni,Yinthungu Dispensary,Dispensary,MoH,-1.963,37.8662,GPS,No
+3237,Kenya,Makueni,Yimwaa Dispensary,Dispensary,MoH,-2.1603,37.823,GPS,No
+3236,Kenya,Makueni,Yikivumbu Dispensary,Dispensary,MoH,-2.0887,37.7188,Google Earth,No
+3235,Kenya,Makueni,Yekanga Dispensary,Dispensary,MoH,-1.9168,37.8387,GPS,No
+3233,Kenya,Makueni,Waia Dispensary,Dispensary,MoH,-1.6418,37.6332,GPS,No
+3232,Kenya,Makueni,Vololo Dispensary,Dispensary,MoH,-2.1123,37.693,Google Earth,No
+3231,Kenya,Makueni,Uviluni Dispensary,Dispensary,MoH,-1.7476,37.6719,GPS,No
+3230,Kenya,Makueni,Uvete Dispensary,Dispensary,MoH,-1.8533,37.3761,GPS,No
+3229,Kenya,Makueni,Utuneni Dispensary,Dispensary,MoH,-1.5944,37.5019,GPS,No
+3228,Kenya,Makueni,Utangwa Dispensary,Dispensary,MoH,-1.7041,37.4432,GPS,No
+3227,Kenya,Makueni,Ukia Dispensary,Dispensary,MoH,-1.7581,37.4981,GPS,No
+3226,Kenya,Makueni,Tutini Dispensary,Dispensary,MoH,-2.0565,37.5406,GPS,No
+3224,Kenya,Makueni,Thwake Community Dispensary,Dispensary,FBO,-1.7177,37.6953,GPS,No
+3223,Kenya,Makueni,Thange ABC Dispensary,Dispensary,FBO,-1.8819,37.7185,GPS,No
+3222,Kenya,Makueni,Tawa Sub-Distrct Hospital,Sub-District Hospital,MoH,-1.5453,37.4657,GPS,Yes
+3221,Kenya,Makueni,Syumile Dispensary,Dispensary,MoH,-2.2793,37.9215,GPS,No
+3220,Kenya,Makueni,Syotuvali Dispensary,Dispensary,MoH,-1.6502,37.7026,Google Earth,No
+3219,Kenya,Makueni,Sultan Hamud Sub District Hospital,Sub-District Hospital,MoH,-2.014,37.3871,GPS,Yes
+3218,Kenya,Makueni,Suleman Farooq Memorial Health Centre,Health Centre,FBO,-2.696,38.1664,Google Earth,Yes
+3217,Kenya,Makueni,Sikh Temple Hospital,Mission Hospital,FBO,-2.2808,37.8205,GPS,No
+3216,Kenya,Makueni,Salama Baptist Dispensary,Dispensary,FBO,-1.8531,37.2585,GPS,No
+3215,Kenya,Makueni,SA/AHF Kithituni Health Clinic,Clinic,FBO,-1.9495,37.385,GPS,No
+3214,Kenya,Makueni,Rapha Clinic-Makindu,Clinic,FBO,-2.279,37.8204,Google Earth,No
+3213,Kenya,Makueni,Nzoila Dispensary,Dispensary,MoH,-2.5766,38.1512,GPS,No
+3212,Kenya,Makueni,Nziu Health Centre,Health Centre,MoH,-1.8137,37.5366,GPS,Yes
+3211,Kenya,Makueni,Nzeveni Dispensary,Dispensary,MoH,-2.5917,37.9967,GPS,No
+3210,Kenya,Makueni,Nzeeni Dispensary,Dispensary,MoH,-1.9373,37.497,Google Earth,No
+3209,Kenya,Makueni,Nunguni Sub-District Hospital,Sub-District Hospital,MoH,-1.7834,37.3599,GPS,Yes
+3208,Kenya,Makueni,Nthunguni Dispensary,Dispensary,MoH,-2.6445,38.1984,Google Earth,No
+3207,Kenya,Makueni,Nthongoni Dispensary,Dispensary,MoH,-2.7028,38.0473,GPS,No
+3206,Kenya,Makueni,Nthimbani Dispensary,Dispensary,MoH,-1.7333,37.5143,GPS,No
+3205,Kenya,Makueni,Nthangu Dispensary,Dispensary,MoH,-1.74,37.5161,GPS,No
+3204,Kenya,Makueni,North Star Alliance Clinic,Clinic,NGO,-2.0802,37.4739,Google Earth,No
+3199,Kenya,Makueni,Ngai Dispensary,Dispensary,MoH,-1.7043,37.4991,GPS,No
+3198,Kenya,Makueni,Ndunguni Dispensary,Dispensary,MoH,-2.0868,37.5856,Google Earth,No
+3197,Kenya,Makueni,Ndumbi Dispensary,Dispensary,MoH,-1.7097,37.5514,GPS,No
+3196,Kenya,Makueni,Nduluni Dispensary,Dispensary,MoH,-1.8876,37.3887,Google Earth,No
+3195,Kenya,Makueni,Nduluku Dispensary,Dispensary,MoH,-1.5872,37.6174,Google Earth,No
+3194,Kenya,Makueni,Ndalani Dispensary,Dispensary,MoH,-2.186,37.9498,Google Earth,No
+3193,Kenya,Makueni,Mweini Dispensary,Dispensary,MoH,-2.0657,37.6801,GPS,No
+3192,Kenya,Makueni,Mwanyani Dispensary,Dispensary,MoH,-2.0303,37.5123,GPS,No
+3191,Kenya,Makueni,Mwaani Dispensary,Dispensary,MoH,-1.8605,37.4555,GPS,No
+3190,Kenya,Makueni,Muusini Dispensary,Dispensary,MoH,-1.8589,37.7255,Google Earth,No
+3189,Kenya,Makueni,Muua Dispensary,Dispensary,MoH,-1.9162,37.3343,Google Earth,No
+3188,Kenya,Makueni,Mutyambua Dispensary,Dispensary,MoH,-1.9447,37.4455,GPS,No
+3187,Kenya,Makueni,Mutulani Dispensary,Dispensary,MoH,-1.7098,37.3054,Google Earth,No
+3186,Kenya,Makueni,Mutini Dispensary,Dispensary,MoH,-2.1064,37.8246,Google Earth,No
+3185,Kenya,Makueni,Mutiluni Dispensary,Dispensary,MoH,-1.8,37.3216,GPS,No
+3184,Kenya,Makueni,Mutembuku Dispensary,Dispensary,MoH,-1.6964,37.8111,GPS,No
+3183,Kenya,Makueni,Musoa SDA Dispensary,Dispensary,FBO,-1.5966,37.4459,GPS,No
+3182,Kenya,Makueni,Musalala Dispensary,Dispensary,MoH,-1.7706,37.4067,GPS,No
+3181,Kenya,Makueni,Mumo AIC Health Centre,Health Centre,FBO,-2.0098,37.7722,GPS,Yes
+3180,Kenya,Makueni,Mumbuni Dispensary,Dispensary,MoH,-1.8536,37.6034,GPS,No
+3179,Kenya,Makueni,Mukuyuni Health Centre,Health Centre,MoH,-1.7454,37.4586,GPS,Yes
+3178,Kenya,Makueni,Mukaa AIC Dispensary,Dispensary,FBO,-1.8322,37.3261,GPS,No
+3177,Kenya,Makueni,Mtitoandei Sub District Hospital,Sub-District Hospital,MoH,-2.6717,38.1655,GPS,Yes
+3175,Kenya,Makueni,Miumoni Dispensary,Dispensary,MoH,-2.4887,38.0747,Google Earth,No
+3174,Kenya,Makueni,Mitini Miracle Revival Church Clinic,Clinic,FBO,-1.8291,37.4077,Google Earth,No
+3167,Kenya,Makueni,Mbuini Dispensary,Dispensary,MoH,-1.8225,37.381,Google Earth,No
+3166,Kenya,Makueni,Mbooni District Hospital,District Hospital,MoH,-1.6565,37.4532,GPS,Yes
+3165,Kenya,Makueni,Mbooni AIC Dispensary,Dispensary,FBO,-1.6617,37.4516,GPS,No
+3164,Kenya,Makueni,Mbitini Catholic Dispensary,Dispensary,FBO,-2.017,37.482,Google Earth,No
+3163,Kenya,Makueni,Mbitini AIC Dispensary,Dispensary,MoH,-1.9939,37.4599,Google Earth,No
+3162,Kenya,Makueni,Mbiini Dispensary,Dispensary,MoH,-1.901,37.3425,Google Earth,No
+3161,Kenya,Makueni,Mbenuu Health Centre,Health Centre,MoH,-1.9644,37.4774,GPS,Yes
+3160,Kenya,Makueni,Mbavani Dispensary,Dispensary,MoH,-1.6522,37.7936,GPS,No
+3159,Kenya,Makueni,Mavivye Model Health Centre,Health Centre,MoH,-1.7904,37.2814,GPS,Yes
+3158,Kenya,Makueni,Mavindu Dispensary,Dispensary,MoH,-1.6172,37.4144,Google Earth,No
+3157,Kenya,Makueni,Mavindini Health Centre,Health Centre,MoH,-1.818,37.7856,GPS,Yes
+3156,Kenya,Makueni,Matutu Dispensary,Dispensary,MoH,-2.123,37.6294,Other,No
+3155,Kenya,Makueni,Matiliku District Hospital,District Hospital,MoH,-1.9465,37.535,GPS,Yes
+3154,Kenya,Makueni,Matiliku Catholic Dispensary,Dispensary,FBO,-1.9446,37.5357,GPS,No
+3153,Kenya,Makueni,Mathanguni Dispensary,Dispensary,MoH,-1.9161,37.5082,Other,No
+3152,Kenya,Makueni,Masumba Dispensary,Dispensary,MoH,-2.0244,37.6189,GPS,No
+3151,Kenya,Makueni,Masongaleni Health Centre,Health Centre,MoH,-2.3684,38.1283,GPS,Yes
+3150,Kenya,Makueni,Masokani Dispensary,Dispensary,MoH,-1.914,37.4253,Google Earth,No
+3149,Kenya,Makueni,Maria Salus Infirmorum Dispensary,Dispensary,CBO,-1.9065,37.2976,Other,No
+3148,Kenya,Makueni,Manza Dispensary,Dispensary,MoH,-2.0853,37.8488,GPS,No
+3147,Kenya,Makueni,Mangala Dispensary,Dispensary,MoH,-1.743,37.3159,GPS,No
+3146,Kenya,Makueni,Makueni District Hospital,District Hospital,MoH,-1.781,37.627,GPS,Yes
+3145,Kenya,Makueni,Makindu District Hospital,District Hospital,MoH,-2.2813,37.8241,GPS,Yes
+3144,Kenya,Makueni,Makindu Catholic Dispensary,Dispensary,FBO,-2.2625,37.8276,GPS,No
+3143,Kenya,Makueni,Maaueli Dispensary,Dispensary,MoH,-2.0784,37.9258,Google Earth,No
+3142,Kenya,Makueni,Liani Dispensary,Dispensary,MoH,-2.6436,38.0271,GPS,No
+3141,Kenya,Makueni,Kyumbe AIC Dispensary,Dispensary,FBO,-1.9433,37.4414,GPS,No
+3140,Kenya,Makueni,Kyuasini Health Centre,Health Centre,MoH,-1.7877,37.4701,GPS,Yes
+3139,Kenya,Makueni,Kyenzenzeni Dispensary,Dispensary,MoH,-1.8177,37.4594,GPS,No
+3138,Kenya,Makueni,Kyau Dispensary,Dispensary,MoH,-1.7952,37.5252,GPS,No
+3137,Kenya,Makueni,Kyanganda Dispensary,Dispensary,MoH,-1.8093,37.4285,GPS,No
+3136,Kenya,Makueni,Kyambeke Dispensary,Dispensary,MoH,-1.8456,37.4212,GPS,No
+3135,Kenya,Makueni,Kyaluma Dispensary,Dispensary,MoH,-1.6533,37.657,GPS,No
+3134,Kenya,Makueni,Kyaani Dispensary,Dispensary,MoH,-2.5538,37.978,GPS,No
+3133,Kenya,Makueni,Kwamutula Dispensary,Dispensary,MoH,-1.9855,37.479,Google Earth,No
+3132,Kenya,Makueni,Kwale Dispensary,Dispensary,MoH,-1.9521,37.3849,GPS,No
+3131,Kenya,Makueni,Kwakotoe Dispensary,Dispensary,MoH,-2.0128,37.4871,Google Earth,No
+3130,Kenya,Makueni,Kwakavisi Dispensary,Dispensary,MoH,-1.9814,37.697,GPS,No
+3129,Kenya,Makueni,Kwakalui Dispensary,Dispensary,MoH,-1.8663,37.539,GPS,No
+3128,Kenya,Makueni,Kivani Dispensary,Dispensary,MoH,-1.7194,37.375,GPS,No
+3127,Kenya,Makueni,Kiu AIC Dispensary,Dispensary,FBO,-1.8968,37.1725,GPS,No
+3126,Kenya,Makueni,Kitundu SDA Dispensary,Dispensary,FBO,-1.685,37.4702,GPS,No
+3125,Kenya,Makueni,Kitundu Dispensary Makueni,Dispensary,MoH,-1.686,37.4712,GPS,No
+3124,Kenya,Makueni,Kitonyoni Dispensary,Dispensary,MoH,-1.9544,37.6553,GPS,No
+3123,Kenya,Makueni,Kitise Health Centre,Health Centre,MoH,-2.0563,37.8769,GPS,Yes
+3122,Kenya,Makueni,Kithyululu Dispensary,Dispensary,MoH,-2.3969,38.172,GPS,No
+3121,Kenya,Makueni,Kithuni Dispensary,Dispensary,MoH,-1.7471,37.3756,GPS,No
+3120,Kenya,Makueni,Kithuki Health Centre,Health Centre,MoH,-1.9894,37.8551,GPS,Yes
+3119,Kenya,Makueni,Kithituni Health Care Clinic,Clinic,FBO,-2.0799,37.4747,Google Earth,No
+3118,Kenya,Makueni,Kiteng'ei Dispensary,Dispensary,MoH,-2.4987,38.234,Google Earth,No
+3117,Kenya,Makueni,kitende Dispensary,Dispensary,MoH,-1.9937,37.6561,GPS,No
+3116,Kenya,Makueni,Kisoi Munyao Memorial Dispensary,Dispensary,MoH,-1.6911,37.5794,Google Earth,No
+3115,Kenya,Makueni,Kisau Sub District Hospital,Sub-District Hospital,MoH,-1.625,37.5572,GPS,Yes
+3114,Kenya,Makueni,Kinyambu Dispensary,Dispensary,MoH,-2.4604,38.0137,GPS,No
+3113,Kenya,Makueni,Kilungu Sub-District Hospital,Sub-District Hospital,MoH,-1.7861,37.3583,Google Earth,Yes
+3112,Kenya,Makueni,Kilisa Dispensary,Dispensary,MoH,-1.9102,37.6318,Google Earth,No
+3111,Kenya,Makueni,Kilili Dispensary,Dispensary,MoH,-1.9146,37.5945,GPS,No
+3110,Kenya,Makueni,Kilala Health Centre,Health Centre,MoH,-1.7635,37.5548,GPS,Yes
+2967,Kenya,Machakos,Mbembani Dispensary,Dispensary,MoH,-1.0343,37.4792,GPS,No
+2966,Kenya,Machakos,Maweli Dispensary,Dispensary,MoH,-1.3695,37.4981,Google Earth,No
+2965,Kenya,Machakos,Matuu Mission Health Centre,Health Centre,FBO,-1.1462,37.548,GPS,Yes
+2964,Kenya,Machakos,Matuu District Hospital,District Hospital,MoH,-1.1483,37.5475,GPS,Yes
+2963,Kenya,Machakos,Matungulu Health Centre,Health Centre,MoH,-1.2314,37.3302,GPS,Yes
+2962,Kenya,Machakos,Mathima Dispensary,Dispensary,MoH,-1.3744,37.4181,Google Earth,No
+2961,Kenya,Machakos,Masinga Sub-County Hospital,Sub-District Hospital,MoH,-0.9774,37.6057,Google Earth,Yes
+2960,Kenya,Machakos,Masii Health Centre,Health Centre,MoH,-1.4579,37.4392,GPS,Yes
+2959,Kenya,Machakos,Masii Catholic Dispensary,Dispensary,FBO,-1.458,37.4392,GPS,No
+2958,Kenya,Machakos,Masaku APDK Dispensary,Dispensary,MoH,-1.5195,37.2619,GPS,No
+2957,Kenya,Machakos,Mango Dispensary,Dispensary,MoH,-1.3916,37.4259,GPS,No
+2956,Kenya,Machakos,Mananja Health Centre,Health Centre,MoH,-1.269,37.092,GPS,Yes
+2955,Kenya,Machakos,Mamba Dispensary,Dispensary,MoH,-1.1302,37.4416,GPS,No
+2954,Kenya,Machakos,Makyau Dispensary,Dispensary,MoH,-1.4741,37.2103,Google Earth,No
+2953,Kenya,Machakos,Maiuni Dispensary,Dispensary,MoH,-1.2147,37.5551,Google Earth,No
+2952,Kenya,Machakos,Machakos Level 5 Hospital,Provincial General Hospital,MoH,-1.5204,37.2665,GPS,No
+2951,Kenya,Machakos,Kyumbi Sasa Centre Clinic,Clinic,NGO,-1.5375,37.133,Google Earth,No
+2950,Kenya,Machakos,Kyumbi Health Centre,Health Centre,MoH,-1.5313,37.1211,GPS,Yes
+2949,Kenya,Machakos,Kyondoni Dispensary,Dispensary,MoH,-0.8692,37.7967,GPS,No
+2948,Kenya,Machakos,Kyeleni Health Centre,Health Centre,MoH,-1.1189,37.2038,GPS,Yes
+2947,Kenya,Machakos,Kyawango Dispensary,Dispensary,MoH,-1.3283,37.5051,Google Earth,No
+2946,Kenya,Machakos,Kyawalia Dispensary,Dispensary,MoH,-1.6314,37.255,Google Earth,No
+2945,Kenya,Machakos,Kyasioni Dispensary,Dispensary,MoH,-1.2073,37.4924,GPS,No
+2944,Kenya,Machakos,Kyasila AIC Dispensary,Dispensary,FBO,-1.4379,37.2061,GPS,No
+2943,Kenya,Machakos,Kyaimu Dispensary,Dispensary,MoH,-1.4829,37.5563,Google Earth,No
+2942,Kenya,Machakos,Kwakalusya Dispensary,Dispensary,MoH,-1.5342,37.1321,GPS,No
+2941,Kenya,Machakos,Kwakala Dispensary,Dispensary,MoH,-1.4682,37.6184,Google Earth,No
+2940,Kenya,Machakos,Kwa Nguu Dispensary,Dispensary,MoH,-1.1752,37.2854,Google Earth,No
+2939,Kenya,Machakos,Kwa Mwatu Dispensary,Dispensary,MoH,-1.0972,37.5582,GPS,No
+2938,Kenya,Machakos,Kwa Mutalia Dispensary,Dispensary,MoH,-1.2702,37.1108,Google Earth,No
+2937,Kenya,Machakos,Kwa Kulu Dispensary,Dispensary,MoH,-1.0807,37.2702,Google Earth,No
+2936,Kenya,Machakos,Konza Dispensary,Dispensary,MoH,-1.5747,37.6867,Google Earth,No
+2935,Kenya,Machakos,Kola Health Centre,Health Centre,MoH,-1.7068,37.3508,GPS,Yes
+2934,Kenya,Machakos,Kivingoni Dispensary,Dispensary,MoH,-0.8599,37.2562,Google Earth,No
+2933,Kenya,Machakos,Kivaani Health Centre,Health Centre,MoH,-1.3636,37.3949,Google Earth,Yes
+2932,Kenya,Machakos,Kivaa Health Centre,Health Centre,MoH,-0.8535,37.6957,Google Earth,Yes
+2931,Kenya,Machakos,Kitunduni Dispensary,Dispensary,MoH,-1.2868,38.0036,Google Earth,No
+2930,Kenya,Machakos,Kituluni Dispensary,Dispensary,MoH,-1.1664,37.2366,GPS,No
+2929,Kenya,Machakos,Kititu Dispensary,Dispensary,MoH,-1.6779,37.3734,GPS,No
+2928,Kenya,Machakos,Kithyoko Health Centre,Health Centre,MoH,-1.0462,37.8386,Google Earth,Yes
+2927,Kenya,Machakos,Kithimani Dispensary,Dispensary,MoH,-1.1868,37.446,GPS,No
+2926,Kenya,Machakos,Kithima ABC Dispensary,Dispensary,FBO,-1.4006,37.2509,GPS,No
+2925,Kenya,Machakos,Kitheuni Dispensary,Dispensary,MoH,-1.2041,37.6484,Google Earth,No
+2924,Kenya,Machakos,Kitangani Dispensary,Dispensary,MoH,-1.038,37.6564,GPS,No
+2923,Kenya,Machakos,Kitambaasye Dispensary,Dispensary,MoH,-1.125,37.292,Google Earth,No
+2922,Kenya,Machakos,Kisukioni Dispensary,Dispensary,MoH,-1.2246,37.2712,Google Earth,No
+2921,Kenya,Machakos,Kisiiki Dispensary,Dispensary,MoH,-1.0867,37.4427,GPS,No
+2920,Kenya,Machakos,Kiseuni Dispensary,Dispensary,MoH,-0.9433,37.744,GPS,No
+2919,Kenya,Machakos,Kisesini Dispensary,Dispensary,MoH,-1.4564,37.7869,Google Earth,No
+2918,Kenya,Machakos,Kinyaata Dispensary,Dispensary,MoH,-1.3448,37.6415,Google Earth,No
+2917,Kenya,Machakos,Kinanie Dispensary,Dispensary,MoH,-1.398,37.0307,GPS,No
+2916,Kenya,Machakos,Kimutwa Dispensary,Dispensary,MoH,-1.5924,37.2546,GPS,No
+2915,Kenya,Machakos,Kimiti Model Health Centre,Health Centre,MoH,-1.2199,37.2401,GPS,Yes
+2914,Kenya,Machakos,Kiliku Dispensary,Dispensary,MoH,-1.1574,37.2722,GPS,No
+2913,Kenya,Machakos,Kilembwa Dispensary,Dispensary,MoH,-1.3529,37.5372,Google Earth,No
+2912,Kenya,Machakos,Kikuyuni Dispensary,Dispensary,Local authority,-1.3333,37.3667,GPS,No
+2911,Kenya,Machakos,Kikumini Dispensary,Dispensary,MoH,-1.0089,37.6986,GPS,No
+2910,Kenya,Machakos,Kikule Dispensary,Dispensary,MoH,-0.9409,37.4024,GPS,No
+2909,Kenya,Machakos,Kikesa Dispensary,Dispensary,MoH,-1.2718,37.5468,Google Earth,No
+2908,Kenya,Machakos,Kiitini Dispensary,Dispensary,MoH,-1.5989,37.3123,GPS,No
+2907,Kenya,Machakos,Kiatineni Dispensary,Dispensary,MoH,-0.9036,37.3096,GPS,No
+2906,Kenya,Machakos,Kayatta Dispensary,Dispensary,MoH,-1.1545,37.3377,GPS,No
+2905,Kenya,Machakos,Kawauni Dispensary,Dispensary,CBO,-1.3119,37.398,GPS,No
+2904,Kenya,Machakos,Kavumbu Dispensary,Dispensary,MoH,-1.5162,37.4292,Other,No
+2903,Kenya,Machakos,Kaviani Health Centre,Health Centre,MoH,-1.4744,37.3097,Google Earth,Yes
+2902,Kenya,Machakos,Kauthulini Dispensary,Dispensary,MoH,-1.167,37.4766,GPS,No
+2901,Kenya,Machakos,Katumani Dispensary,Dispensary,MoH,-1.5803,37.2431,GPS,No
+2900,Kenya,Machakos,Katulye Dispensary,Dispensary,MoH,-0.9304,37.5587,GPS,No
+2899,Kenya,Machakos,Katulani Health Centre,Health Centre,MoH,-1.5145,37.6479,Google Earth,Yes
+2898,Kenya,Machakos,Katothya Dispensary,Dispensary,MoH,-0.9184,37.5989,Google Earth,No
+2897,Kenya,Machakos,Kathukini Dispensary,Dispensary,MoH,-0.9908,37.4115,Google Earth,No
+2896,Kenya,Machakos,Kathome Dispensary,Dispensary,MoH,-1.3886,37.3574,Google Earth,No
+2895,Kenya,Machakos,Kathiani District Hospital,District Hospital,MoH,-1.4106,37.3277,GPS,Yes
+2894,Kenya,Machakos,Katheka Dispensary,Dispensary,MoH,-1.1787,37.335,Google Earth,No
+2893,Kenya,Machakos,Kathama Dispensary,Dispensary,MoH,-1.2081,37.3847,GPS,No
+2892,Kenya,Machakos,Kathaana Dispensary,Dispensary,CBO,-1.3277,37.289,GPS,No
+2891,Kenya,Machakos,Katani Dispensary,Dispensary,MoH,-1.3377,37.0055,GPS,No
+2890,Kenya,Machakos,Katangi Mission Dispensary,Dispensary,FBO,-1.4101,37.6993,Google Earth,No
+2889,Kenya,Machakos,Katangi Health Centre,Health Centre,MoH,-1.4114,37.6985,Google Earth,Yes
+2888,Kenya,Machakos,Kaonyweni Dispensary,Dispensary,MoH,-0.9685,37.7497,GPS,No
+2887,Kenya,Machakos,Kangundo Reedemed Medical Clinic,Clinic,FBO,-1.303,37.3468,GPS,No
+2886,Kenya,Machakos,Kangundo District Hospital,District Hospital,MoH,-1.2956,37.3454,GPS,Yes
+2885,Kenya,Machakos,Kangundo Community Clinic,Clinic,CBO,-1.3104,37.3704,GPS,No
+2884,Kenya,Machakos,Kangonde Health Centre,Health Centre,MoH,-1.0773,37.6801,GPS,Yes
+2882,Kenya,Machakos,Kamuthanga Dispensary,Dispensary,MoH,-1.4014,37.223,GPS,No
+2881,Kenya,Machakos,Kambusu Dispensary,Dispensary,MoH,-1.2499,37.3612,GPS,No
+2880,Kenya,Machakos,Kalunga Dispensary,Dispensary,MoH,-1.4474,37.3138,GPS,No
+2879,Kenya,Machakos,Kaluluini Dispensary,Dispensary,MoH,-1.0552,37.5883,Google Earth,No
+2878,Kenya,Machakos,Kalukuni Mission Dispensary,Dispensary,FBO,-1.2392,37.5116,GPS,No
+2849,Kenya,Lamu,Tchundwa Dispensary,Dispensary,MoH,-2.0788,41.1306,Google Earth,No
+2848,Kenya,Lamu,Siu Dispensary,Dispensary,MoH,-2.1093,41.081,Other,No
+2847,Kenya,Lamu,Shella Dispensary,Dispensary,MoH,-2.2908,40.9125,GPS,No
+2846,Kenya,Lamu,Shanga Dispensary,Dispensary,MoH,-2.3355,40.3456,GPS,No
+2845,Kenya,Lamu,Patte Dispensary,Dispensary,MoH,-2.0814,41.1134,Google Earth,No
+2844,Kenya,Lamu,Pandanguo Dispensary,Dispensary,CBO,-2.2184,40.4809,Google Earth,No
+2843,Kenya,Lamu,Pablo Hortsman Health Clinic,Clinic,NGO,-2.2731,40.9033,Google Earth,No
+2842,Kenya,Lamu,Ndau Dispensary,Dispensary,MoH,-2.0114,41.2096,GPS,No
+2841,Kenya,Lamu,Muhamarani Dispensary,Dispensary,MoH,-2.3178,40.667,GPS,No
+2840,Kenya,Lamu,Mpeketoni Sub-District Hospital,Sub-District Hospital,MoH,-2.3886,40.6989,GPS,Yes
+2839,Kenya,Lamu,Mokowe Health Centre,Health Centre,MoH,-2.2383,40.8466,Google Earth,Yes
+2838,Kenya,Lamu,Moa Dispensary,Dispensary,MoH,-2.3626,40.3181,Google Earth,No
+2837,Kenya,Lamu,Mkunumbi Dispensary,Dispensary,MoH,-2.2948,40.6761,Google Earth,No
+2836,Kenya,Lamu,Mkokoni Dispensary,Dispensary,MoH,-1.972,41.296,GPS,No
+2834,Kenya,Lamu,Matondoni Dispensary,Dispensary,MoH,-2.2691,40.8382,Google Earth,No
+2833,Kenya,Lamu,Maria Teressa Nuzzo Health Centre,Health Centre,FBO,-2.4288,40.7223,GPS,Yes
+2832,Kenya,Lamu,Mapenya Dispensary,Dispensary,MoH,-2.358,40.7079,Google Earth,No
+2831,Kenya,Lamu,Mangai Dispensary,Dispensary,MoH,-1.7508,41.1725,Google Earth,No
+2830,Kenya,Lamu,Lamu District Hospital,District Hospital,MoH,-2.2786,40.9068,GPS,Yes
+2829,Kenya,Lamu,Kizingitini Dispensary,Dispensary,MoH,-2.073,41.1464,GPS,No
+2828,Kenya,Lamu,Kiwayuu Dispensary,Dispensary,MoH,-2.016,41.2635,GPS,No
+2827,Kenya,Lamu,Kiunga Health Centre,Health Centre,MoH,-1.7441,41.4883,GPS,Yes
+2826,Kenya,Lamu,Kipungani Dispensary,Dispensary,MoH,-2.3073,40.8159,Google Earth,No
+2817,Kenya,Laikipia,Thome Catholic Dispensary,Dispensary,FBO,0.301,36.6039,GPS,No
+2816,Kenya,Laikipia,Thigio Dispensary,Dispensary,MoH,0.3244,36.2653,GPS,No
+2814,Kenya,Laikipia,Survey Dispensary,Dispensary,MoH,0.5808,36.5495,GPS,No
+2813,Kenya,Laikipia,St Joseph Catholic Dispensary,Dispensary,FBO,-0.065,36.7998,Google Earth,No
+2812,Kenya,Laikipia,Sosian Dispensary,Dispensary,MoH,0.4318,36.6814,Google Earth,No
+2811,Kenya,Laikipia,Sipili Health Centre,Health Centre,MoH,0.4052,36.3785,GPS,Yes
+2810,Kenya,Laikipia,Sipili Catholic Dispensary,Dispensary,FBO,0.4061,36.3784,GPS,No
+2809,Kenya,Laikipia,Shallom Dispensary,Dispensary,MoH,-0.0487,36.6507,Other,No
+2808,Kenya,Laikipia,Segera Mission Dispensary,Dispensary,FBO,-0.0477,36.7035,GPS,No
+2807,Kenya,Laikipia,Salama Health Centre,Health Centre,MoH,0.1282,36.4907,GPS,Yes
+2806,Kenya,Laikipia,Rumuruti District Hospital,District Hospital,MoH,0.0347,36.3638,GPS,Yes
+2805,Kenya,Laikipia,Rumuruti Catholic Dispensary,Dispensary,FBO,0.26,36.5364,GPS,No
+2804,Kenya,Laikipia,Pesi Dispensary,Dispensary,MoH,0.086,36.5785,Google Earth,No
+2803,Kenya,Laikipia,Olpajeta Dispensary,Dispensary,MoH,0.0621,36.8118,Other,No
+2802,Kenya,Laikipia,Olmoran Health Centre,Health Centre,MoH,0.5377,36.4913,GPS,Yes
+2801,Kenya,Laikipia,Olmoran Catholic Dispensary,Dispensary,FBO,0.5407,36.4843,GPS,No
+2800,Kenya,Laikipia,Oljabet Health Centre,Health Centre,MoH,0.173,36.3779,GPS,Yes
+2799,Kenya,Laikipia,Nyahururu District Hospital,District Hospital,MoH,0.038,36.3595,Google Earth,Yes
+2798,Kenya,Laikipia,Nyahururu Catholic Dispensary,Dispensary,FBO,-0.0398,36.3619,Google Earth,No
+2797,Kenya,Laikipia,Nturukuma Dispensary,Dispensary,MoH,0.0484,37.0901,GPS,No
+2794,Kenya,Laikipia,Ngarua Health Centre,Health Centre,MoH,0.4175,36.3249,GPS,Yes
+2793,Kenya,Laikipia,Ngarua Catholic Dispensary,Dispensary,FBO,0.4115,36.3196,GPS,No
+2792,Kenya,Laikipia,Ndurumo Dispensary,Dispensary,MoH,0.3728,36.424,GPS,No
+2791,Kenya,Laikipia,Ndindika Health Centre,Health Centre,MoH,0.4279,36.3325,GPS,Yes
+2789,Kenya,Laikipia,Naibor Dispensary,Dispensary,MoH,0.1655,37.0211,GPS,No
+2030,Kenya,Kirinyaga,Ucheru Community Health Centre,Health Centre,MoH,-0.548,37.2657,GPS,Yes
+2029,Kenya,Kirinyaga,Thumaita ACK Dispensary,Dispensary,FBO,-0.4394,37.3585,GPS,No
+2028,Kenya,Kirinyaga,Thigirichi Mukui Dispensary,Dispensary,MoH,-0.6032,37.1886,Google Earth,No
+2027,Kenya,Kirinyaga,Thiba Health Centre,Health Centre,MoH,-0.6834,37.3458,GPS,Yes
+2026,Kenya,Kirinyaga,St Teresa Catholic Dispensary,Dispensary,FBO,-0.735,37.3772,GPS,No
+2025,Kenya,Kirinyaga,St Stephen's Kiandagae ACK Dispensary,Dispensary,FBO,-0.5817,37.2366,Google Earth,No
+2024,Kenya,Kirinyaga,St Mary Magdalene Kanjuu Dispensary,Dispensary,FBO,-0.5326,37.4093,Google Earth,No
+2023,Kenya,Kirinyaga,St Mary ACK Mugumo Dispensary,Dispensary,FBO,-0.4292,37.3089,GPS,No
+2022,Kenya,Kirinyaga,St Mary ACK Dispensary,Dispensary,FBO,-0.4445,37.3886,Google Earth,No
+2021,Kenya,Kirinyaga,St Johns Thaita ACK Dispensary,Dispensary,FBO,-0.4578,37.2613,Google Earth,No
+2020,Kenya,Kirinyaga,St James ACK Dispensary,Dispensary,FBO,-0.4881,37.2682,Google Earth,No
+2019,Kenya,Kirinyaga,St Andrews Kabare ACK Dispensary,Dispensary,FBO,-0.5087,37.3243,Google Earth,No
+2018,Kenya,Kirinyaga,South Ngariama Dispensary,Dispensary,MoH,-0.6069,37.4618,GPS,No
+2017,Kenya,Kirinyaga,Sagana Sub-District Hospital,Sub-District Hospital,MoH,-0.6667,37.2091,GPS,Yes
+2016,Kenya,Kirinyaga,Sagana Catholic Dispensary,Dispensary,FBO,-0.6629,37.2177,Google Earth,No
+2015,Kenya,Kirinyaga,Sacred Heart Kangaita Catholic Dispensary,Dispensary,FBO,-0.4216,37.2721,GPS,No
+2014,Kenya,Kirinyaga,Rurii Kiandegwa Dispensary,Dispensary,MoH,-0.7303,37.3305,GPS,No
+2013,Kenya,Kirinyaga,Rukanga Health Centre,Health Centre,MoH,-0.7244,37.2611,GPS,Yes
+2012,Kenya,Kirinyaga,Riakithiga Dispensary,Dispensary,MoH,-0.5238,37.3113,GPS,No
+2007,Kenya,Kirinyaga,Ndiriti St Philips ACK Dispensary,Dispensary,FBO,-0.4551,37.1951,Google Earth,No
+2006,Kenya,Kirinyaga,Mwea Our Lady of LourdesMission Hospital,Mission Hospital,FBO,-0.6614,37.3492,GPS,No
+2005,Kenya,Kirinyaga,Mwea Drop Inn Centre Clinic,Clinic,NGO,-0.413,37.2153,Google Earth,No
+2004,Kenya,Kirinyaga,Mutitu Community Dispensary,Dispensary,MoH,-0.4986,37.2983,GPS,No
+2003,Kenya,Kirinyaga,Mutithi Health Centre,Health Centre,MoH,-0.7268,37.3227,Google Earth,Yes
+2002,Kenya,Kirinyaga,Mutira ACK Dispensary,Dispensary,FBO,-0.4896,37.1588,Google Earth,No
+2001,Kenya,Kirinyaga,Murinduko Health Centre,Health Centre,MoH,-0.5729,37.4408,GPS,Yes
+2000,Kenya,Kirinyaga,Mung'ang'a ACK Dispensary,Dispensary,FBO,-0.621,37.254,Other,No
+1999,Kenya,Kirinyaga,Mumbuini Dispensary,Dispensary,MoH,-0.6102,37.4552,Google Earth,No
+1998,Kenya,Kirinyaga,Mukangu Health Centre,Health Centre,MoH,-0.5382,37.1569,GPS,Yes
+1997,Kenya,Kirinyaga,Mbiri ACK Dispensary,Dispensary,FBO,-0.4945,37.3997,GPS,No
+1996,Kenya,Kirinyaga,Kutus Dispensary,Dispensary,MoH,-0.5668,37.3258,GPS,No
+1995,Kenya,Kirinyaga,Kutus Catholic Dispensary,Dispensary,FBO,-0.5643,37.3252,GPS,No
+1994,Kenya,Kirinyaga,Kiumbu Health Centre,Health Centre,MoH,-0.7174,37.4653,GPS,Yes
+1993,Kenya,Kirinyaga,Kirogo Dispensary,Dispensary,MoH,-0.6642,37.3899,Google Earth,No
+1992,Kenya,Kirinyaga,Kimbimbi Sub-District Hospital,Sub-District Hospital,MoH,-0.6171,37.3651,GPS,Yes
+1991,Kenya,Kirinyaga,Kiburu Dispensary,Dispensary,MoH,-0.5356,37.2069,GPS,No
+1990,Kenya,Kirinyaga,Kibirigwi Health Centre,Health Centre,MoH,-0.5261,37.1792,GPS,Yes
+1989,Kenya,Kirinyaga,Kibirigwi ACK Dispensary,Dispensary,FBO,-0.5267,37.1752,Google Earth,No
+1988,Kenya,Kirinyaga,Kiarukungu Dispensary,Dispensary,MoH,-0.6235,37.4008,GPS,No
+1987,Kenya,Kirinyaga,Kiaragana Dispensary,Dispensary,MoH,-0.493,37.2011,GPS,No
+1986,Kenya,Kirinyaga,Kianyaga Sub-District Hospital,Sub-District Hospital,MoH,-0.5042,37.3245,GPS,Yes
+1985,Kenya,Kirinyaga,Kianyaga Catholic Health Centre,Health Centre,FBO,-0.4907,37.3658,GPS,Yes
+1984,Kenya,Kirinyaga,Kianjege Dispensary,Dispensary,MoH,-0.5754,37.1678,GPS,No
+1983,Kenya,Kirinyaga,Kiang'ombe Dispensary,Dispensary,MoH,-0.4964,37.3129,Google Earth,No
+1982,Kenya,Kirinyaga,Kiangai Health Centre,Health Centre,MoH,-0.4788,37.1782,Google Earth,Yes
+1981,Kenya,Kirinyaga,Kiandegwa Methodist Church of Kenya Dispensary,Dispensary,FBO,-0.7527,37.3373,GPS,No
+1980,Kenya,Kirinyaga,Kiamutugu Health Centre,Health Centre,MoH,-0.4664,37.3878,GPS,Yes
+1979,Kenya,Kirinyaga,Kiamuthambi Dispensary,Dispensary,MoH,-0.5623,37.2803,Google Earth,No
+1978,Kenya,Kirinyaga,Kiamanyeki Dispensary,Dispensary,MoH,-0.7109,37.3725,GPS,No
+1977,Kenya,Kirinyaga,Kiamagunyi ACK Clinic,Clinic,FBO,-0.5187,37.2058,GPS,No
+1976,Kenya,Kirinyaga,Kiaga Dispensary,Dispensary,MoH,-0.5965,37.2614,Google Earth,No
+1975,Kenya,Kirinyaga,Kerugoya District Hospital,District Hospital,MoH,-0.5013,37.2805,GPS,Yes
+1974,Kenya,Kirinyaga,Kerugoya CPK Dispensary,Dispensary,FBO,-0.5011,37.2782,GPS,No
+1973,Kenya,Kirinyaga,Kerugoya Catholic Dispensary,Dispensary,FBO,-0.4951,37.2784,GPS,No
+1972,Kenya,Kirinyaga,Karumandi Health Centre,Health Centre,MoH,-0.4507,37.349,GPS,Yes
+1971,Kenya,Kirinyaga,Karira Mission Hospital,Mission Hospital,FBO,-0.6641,37.35,Google Earth,No
+1970,Kenya,Kirinyaga,Karimaini Community Dispensary,Dispensary,MoH,-0.5199,37.2175,GPS,No
+1969,Kenya,Kirinyaga,Kariko Dispensary,Dispensary,MoH,-0.4547,37.2466,Google Earth,No
+1968,Kenya,Kirinyaga,Karaini ACK Dispensary,Dispensary,FBO,-0.4567,37.2465,GPS,No
+1967,Kenya,Kirinyaga,Kanjinji Dispensary,Dispensary,MoH,-0.6134,37.4086,GPS,No
+1966,Kenya,Kirinyaga,Kangu Dispensary,Dispensary,MoH,-0.567,37.3583,Google Earth,No
+1965,Kenya,Kirinyaga,Kangaru Dispensary,Dispensary,MoH,-0.6386,37.2449,GPS,No
+1964,Kenya,Kirinyaga,Kangaita Health Centre,Health Centre,MoH,-0.4251,37.2725,GPS,Yes
+1963,Kenya,Kirinyaga,Kandongu Dispensary,Dispensary,MoH,-0.6658,37.2948,Google Earth,No
+1962,Kenya,Kirinyaga,Kamweti Dispensary,Dispensary,MoH,-0.4152,37.3138,Google Earth,No
+1961,Kenya,Kirinyaga,Kamuiru Dispensary,Dispensary,MoH,-0.4876,37.2399,Google Earth,No
+1927,Kenya,Kilifi,Ziani Dispensary,Dispensary,MoH,-3.7556,39.7175,GPS,No
+1924,Kenya,Kilifi,Vitengeni Health Centre,Health Centre,MoH,-3.3591,39.708,GPS,Yes
+1923,Kenya,Kilifi,Vishakani Dispensary,Dispensary,MoH,-3.8306,39.6232,GPS,No
+1922,Kenya,Kilifi,Viragoni Dispensary,Dispensary,MoH,-3.7012,39.534,Google Earth,No
+1921,Kenya,Kilifi,Vipingo Sisal Estate Dispensary,Dispensary,FBO,-3.8076,39.8133,GPS,No
+1920,Kenya,Kilifi,Vipingo Rural Demonstration Health Centre,Health Centre,MoH,-3.8193,39.8094,GPS,Yes
+1919,Kenya,Kilifi,Union Medical Dispensary,Dispensary,FBO,-3.8833,39.5949,GPS,No
+1916,Kenya,Kilifi,Timboni Community Dispensary,Dispensary,CBO,-3.1843,39.7403,GPS,No
+1915,Kenya,Kilifi,Tawheed Dispensary,Dispensary,FBO,-3.2169,40.1149,GPS,No
+1914,Kenya,Kilifi,Tawfiq Muslim Hospital,Mission Hospital,FBO,-3.2209,40.1127,GPS,No
+1913,Kenya,Kilifi,Takaungu Dispensary,Dispensary,MoH,-3.6828,39.8592,GPS,No
+1912,Kenya,Kilifi,St Theresa Dispensary,Dispensary,FBO,-3.7914,39.7029,Google Earth,No
+1911,Kenya,Kilifi,St Marys Msabaha Catholic Dispensary,Dispensary,FBO,-3.2649,40.0516,GPS,No
+1910,Kenya,Kilifi,St Luke's Kaloleni ACK Hospital,Mission Hospital,FBO,-3.812,39.6331,GPS,No
+1909,Kenya,Kilifi,St Anne Mida Catholic Dispensary,Dispensary,FBO,-3.3464,39.9353,GPS,No
+1908,Kenya,Kilifi,Sosoni Dispensary,Dispensary,MoH,-3.028,39.8229,GPS,No
+1907,Kenya,Kilifi,Sokoke Dispensary,Dispensary,MoH,-3.5215,39.767,GPS,No
+1906,Kenya,Kilifi,Shomella Dispensary,Dispensary,CBO,-2.9802,40.0561,GPS,No
+1905,Kenya,Kilifi,Shangia Dispensary,Dispensary,MoH,-3.8028,39.4083,GPS,No
+1904,Kenya,Kilifi,Sabaki Dispensary,Dispensary,MoH,-3.1637,40.0829,GPS,No
+1903,Kenya,Kilifi,Roka Maweni Dispensary,Dispensary,MoH,-3.4436,39.9287,GPS,No
+1902,Kenya,Kilifi,Ribe Dispensary,Dispensary,MoH,-3.8854,39.6315,GPS,No
+1901,Kenya,Kilifi,Ramada Dispensary,Dispensary,NGO,-2.889,40.0209,GPS,No
+1900,Kenya,Kilifi,Rainbow Medical Burangi Clinic,Clinic,CBO,-3.2619,40.0897,GPS,No
+1899,Kenya,Kilifi,Rainbow Community Care Clinic,Clinic,CBO,-3.181,40.1151,GPS,No
+1898,Kenya,Kilifi,Rabai Rural Health Demonstration Centre,Health Centre,MoH,-3.939,39.5664,GPS,Yes
+1897,Kenya,Kilifi,Pingilikani Dispensary,Dispensary,MoH,-3.7744,39.7735,GPS,No
+1896,Kenya,Kilifi,Palakumi Dispensary,Dispensary,MoH,-3.6213,39.6059,GPS,No
+1895,Kenya,Kilifi,Oasis Medical Centre,Clinic,FBO,-3.9302,39.7496,GPS,No
+1892,Kenya,Kilifi,Nawaco Clinic,Clinic,NGO,-3.1299,39.7822,GPS,No
+1891,Kenya,Kilifi,Mwapula Dispensary,Dispensary,MoH,-3.6186,39.7034,GPS,No
+1890,Kenya,Kilifi,Mwangatini Dispensary,Dispensary,MoH,-3.1434,40.0495,GPS,No
+1889,Kenya,Kilifi,Muryachakwe Dispensary,Dispensary,MoH,-3.2885,39.5768,GPS,No
+1888,Kenya,Kilifi,Municipal Health Centre,Health Centre,MoH,-3.2327,40.1149,GPS,Yes
+1887,Kenya,Kilifi,Mulunguni Dispensary,Dispensary,MoH,-2.9791,39.7715,Google Earth,No
+1886,Kenya,Kilifi,Mtwapa Health Centre,Health Centre,MoH,-3.9179,39.7382,GPS,Yes
+1885,Kenya,Kilifi,Mtoroni Dispensary,Dispensary,MoH,-2.8612,40.1506,GPS,No
+1884,Kenya,Kilifi,Mtondia Dispensary,Dispensary,MoH,-3.5712,39.8675,GPS,No
+1883,Kenya,Kilifi,Mtepeni Dispensary,Dispensary,MoH,-3.9002,39.7316,GPS,No
+1882,Kenya,Kilifi,Msumarini Dispensary,Dispensary,MoH,-3.8723,39.7979,GPS,No
+1881,Kenya,Kilifi,Mshongoleni Community Dispensary,Dispensary,CBO,-3.2469,40.0273,GPS,No
+1880,Kenya,Kilifi,Mnarani Dispensary,Dispensary,MoH,-3.6412,39.8459,GPS,No
+1879,Kenya,Kilifi,Mmangani Dispensary,Dispensary,MoH,-3.11,39.5847,GPS,No
+1878,Kenya,Kilifi,Mjanaheri Dispensary,Dispensary,MoH,-3.0793,40.1409,GPS,No
+1877,Kenya,Kilifi,Mizijini Dispensary,Dispensary,MoH,-2.9617,40.0005,GPS,No
+1876,Kenya,Kilifi,Mirihini Dispensary,Dispensary,MoH,-3.4381,39.5924,GPS,No
+1875,Kenya,Kilifi,Mirapera Dispensary,Dispensary,MoH,-3.6256,39.3965,GPS,No
+1874,Kenya,Kilifi,Mijomboni Dispensary,Dispensary,MoH,-3.2621,40.0016,GPS,No
+1873,Kenya,Kilifi,Midoina Dispensary,Dispensary,MoH,-3.5017,39.3872,GPS,No
+1871,Kenya,Kilifi,Mavueni Dispensary,Dispensary,MoH,-3.678,39.799,GPS,No
+1870,Kenya,Kilifi,Matsangoni Model Health Centre,Health Centre,MoH,-3.3904,39.9286,GPS,Yes
+1869,Kenya,Kilifi,Matolani Dispensary,Dispensary,MoH,-3.102,39.6697,GPS,No
+1868,Kenya,Kilifi,Marikebuni Dispensary,Dispensary,MoH,-3.0903,40.1121,GPS,No
+1867,Kenya,Kilifi,Mariakani District Hospital,District Hospital,MoH,-3.8567,39.4939,GPS,Yes
+1866,Kenya,Kilifi,Marereni Dispensary,Dispensary,MoH,-2.863,40.1446,GPS,No
+1865,Kenya,Kilifi,Marafa Health Centre,Health Centre,MoH,-3.0283,39.9597,GPS,Yes
+1864,Kenya,Kilifi,Mambrui Dispensary,Dispensary,MoH,-3.1184,40.1569,GPS,No
+1863,Kenya,Kilifi,Malindi District Hospital,District Hospital,MoH,-3.2165,40.1182,GPS,Yes
+1862,Kenya,Kilifi,Malanga Vitengeni Dispensary,Dispensary,MoH,-3.2818,39.7904,GPS,No
+1861,Kenya,Kilifi,Malanga AIC Dispensary,Dispensary,FBO,-3.247,39.7917,GPS,No
+1860,Kenya,Kilifi,Makanzani Dispensary,Dispensary,MoH,-3.8655,39.6068,GPS,No
+1859,Kenya,Kilifi,M-afya Clinic,Clinic,NGO,-3.943,36.761,Google Earth,No
+1858,Kenya,Kilifi,Madunguni Dispensary,Dispensary,MoH,-3.1837,39.9748,GPS,No
+1857,Kenya,Kilifi,Madamani Dispensary,Dispensary,MoH,-3.3938,39.7484,GPS,No
+1856,Kenya,Kilifi,Lenga Dispensary,Dispensary,MoH,-3.8669,39.6618,GPS,No
+1855,Kenya,Kilifi,Kombeni Dispensary,Dispensary,MoH,-3.9128,39.5871,GPS,No
+1854,Kenya,Kilifi,Kokotoni Dispensary,Dispensary,MoH,-3.9205,39.5244,Google Earth,No
+1853,Kenya,Kilifi,Kizingo Health Centre,Health Centre,MoH,-3.7821,39.677,GPS,Yes
+1852,Kenya,Kilifi,Kiwandani Dispensary,Dispensary,MoH,-3.5717,39.8719,Google Earth,No
+1851,Kenya,Kilifi,Kinarani Dispensary,Dispensary,MoH,-3.7296,39.5792,GPS,No
+1850,Kenya,Kilifi,Kilifi District Hospital,District Hospital,MoH,-3.6321,39.8572,Google Earth,Yes
+1849,Kenya,Kilifi,Kikambala Catholic Medical Clinic,Clinic,FBO,-3.89,39.7812,GPS,No
+1848,Kenya,Kilifi,Karimboni Dispensary,Dispensary,MoH,-3.0959,39.9935,GPS,No
+1847,Kenya,Kilifi,Kamkomani Dispensary,Dispensary,MoH,-3.8844,39.5189,GPS,No
+1846,Kenya,Kilifi,Kambi ya Waya Dispensary,Dispensary,MoH,-3.482,39.906,GPS,No
+1845,Kenya,Kilifi,Kambe Dispensary,Dispensary,MoH,-3.8487,39.6324,GPS,No
+1802,Kenya,Kilifi,African Muslim Agency Dispensary,Dispensary,FBO,-3.2337,39.557,GPS,No
+1801,Kenya,Kilifi,Adu Dispensary,Dispensary,MoH,-2.8398,39.9799,GPS,No
+1797,Kenya,Kiambu,Uthiru Dispensary,Dispensary,MoH,-1.2554,36.71,GPS,No
+1796,Kenya,Kiambu,Uplands Forest Dispensary,Dispensary,MoH,-1.0477,36.6577,Google Earth,No
+1792,Kenya,Kiambu,Tigoni District Hospital,District Hospital,MoH,-1.1265,36.6722,GPS,Yes
+1790,Kenya,Kiambu,Thika Level 5 Hospital,Provincial General Hospital,MoH,-1.0415,37.0763,GPS,No
+1789,Kenya,Kiambu,Thigio Dispensary,Dispensary,MoH,-1.1986,36.6048,Google Earth,No
+1788,Kenya,Kiambu,The Mater Hospital Thika Satellite Clinic,Clinic,FBO,-1.041,37.0718,Google Earth,No
+1787,Kenya,Kiambu,St. Joseph ACK Kanyariri Dispensary,Dispensary,FBO,-1.2398,36.6948,Google Earth,No
+1786,Kenya,Kiambu,St Stephen ACK Cura Dispensary,Dispensary,FBO,-1.217,36.6898,Google Earth,No
+1785,Kenya,Kiambu,St Peters ACK Dispensary,Dispensary,FBO,-1.155,36.6276,Google Earth,No
+1784,Kenya,Kiambu,St Peter Orthodox Kanjeru Dispensary,Dispensary,FBO,-1.2404,36.6739,Google Earth,No
+1783,Kenya,Kiambu,St Peter Orthodox Church Dispensary,Dispensary,FBO,-1.228,36.6737,Other,No
+1782,Kenya,Kiambu,St Paul's Health Centre,Health Centre,FBO,-1.1485,36.6666,Google Earth,Yes
+1580,Kenya,Kericho,Nyabangi Dispensary,Dispensary,MoH,-0.4272,35.1624,Google Earth,No
+1578,Kenya,Kericho,Ndubusat Bethel Dispensary,Dispensary,NGO,-0.1,35.399,Google Earth,No
+1577,Kenya,Kericho,Mugumoini Dispensary,Dispensary,MoH,-0.0759,35.6053,Google Earth,No
+1576,Kenya,Kericho,Mtaragon Health Centre,Health Centre,MoH,-0.1116,35.4197,Google Earth,Yes
+1575,Kenya,Kericho,Mosore Dispensary,Dispensary,MoH,-0.469,35.1314,GPS,No
+1574,Kenya,Kericho,Momoniat Health Centre,Health Centre,MoH,0.322,35.2362,Google Earth,Yes
+1571,Kenya,Kericho,Masaita/ Miti-Tatu Dispensary,Dispensary,MoH,-0.0737,35.6042,Google Earth,No
+1570,Kenya,Kericho,Mary Finch Clinic,Clinic,FBO,-0.1653,35.5873,Google Earth,No
+1569,Kenya,Kericho,Mariwa Dispensary,Dispensary,MoH,-0.1187,35.2427,Google Earth,No
+1568,Kenya,Kericho,Manyoror Dispensary,Dispensary,MoH,-0.2949,35.3377,Google Earth,No
+1567,Kenya,Kericho,Makyolok Dispensary,Dispensary,MoH,-0.128,35.3744,Google Earth,No
+1566,Kenya,Kericho,Mabasi Dispensary,Dispensary,MoH,-0.5006,35.072,GPS,No
+1564,Kenya,Kericho,Londiani District Hospital,District Hospital,MoH,-0.1663,35.5924,GPS,Yes
+1563,Kenya,Kericho,Live With Hope Clinic,Clinic,FBO,-0.3642,35.2685,Google Earth,No
+1562,Kenya,Kericho,Litein Dispensary,Dispensary,MoH,-0.5831,35.1891,Other,No
+1561,Kenya,Kericho,Litein AIC Mission Hospital,Mission Hospital,FBO,-0.5816,35.1885,Google Earth,No
+1560,Kenya,Kericho,Lemotit Dispensary,Dispensary,MoH,-0.1692,35.5976,Google Earth,No
+1559,Kenya,Kericho,Lelu Dispensary,Dispensary,MoH,-0.1417,35.4152,GPS,No
+1558,Kenya,Kericho,Lelechwet Dispensary,Dispensary,MoH,-0.6858,35.2397,Google Earth,No
+1557,Kenya,Kericho,Laliat Dispensary,Dispensary,MoH,-0.2592,35.2628,GPS,No
+1556,Kenya,Kericho,Kunyak Dispensary,Dispensary,MoH,-0.1445,35.2925,Google Earth,No
+1555,Kenya,Kericho,Koiwalelach Dispensary,Dispensary,CBO,-0.4606,35.0908,GPS,No
+1554,Kenya,Kericho,Koitaburot Dispensary,Dispensary,MoH,-0.2078,35.1974,GPS,No
+1553,Kenya,Kericho,Koisagat Dispensary,Dispensary,CBO,-0.1733,35.3694,GPS,No
+1552,Kenya,Kericho,Kitoi Dispensary,Dispensary,CBO,-0.1005,35.2983,GPS,No
+1551,Kenya,Kericho,Kipwastuiyo Health Centre,Health Centre,MoH,-0.6195,35.11,Other,Yes
+1550,Kenya,Kericho,Kiptome Dispensary,Dispensary,MoH,-0.3977,35.1317,GPS,No
+1549,Kenya,Kericho,Kiptome Dispensary,Dispensary,MoH,-0.4017,35.1317,GPS,No
+1548,Kenya,Kericho,Kiptewit Dispensary,Dispensary,MoH,-0.5592,35.1573,Google Earth,No
+1547,Kenya,Kericho,Kiptere Dispensary,Dispensary,MoH,-0.3944,35.1065,GPS,No
+1546,Kenya,Kericho,Kipsitet Dispensary,Dispensary,MoH,-0.2306,35.1623,Google Earth,No
+1545,Kenya,Kericho,Kipsitet Baptist Dispensary,Dispensary,FBO,-0.219,35.1535,GPS,No
+1544,Kenya,Kericho,Kipsegi Dispensary,Dispensary,MoH,-0.2007,35.4189,Google Earth,No
+1543,Kenya,Kericho,Kiprengwet Dispensary,Dispensary,MoH,-0.2313,35.4779,Google Earth,No
+1542,Kenya,Kericho,Kiplelgutik Dispensary,Dispensary,MoH,-0.3562,35.1124,Google Earth,No
+1541,Kenya,Kericho,Kiplalmat Dispensary,Dispensary,MoH,-0.3481,35.1309,GPS,No
+1540,Kenya,Kericho,Kipkelion Sub District Hospital,Sub-District Hospital,MoH,-0.1897,35.4584,Google Earth,Yes
+1539,Kenya,Kericho,Kipchimchim Mission Hospital,Mission Hospital,FBO,-0.3291,35.2682,GPS,No
+1538,Kenya,Kericho,Kimugul Dispensary,Dispensary,MoH,-0.2511,35.5025,GPS,No
+1537,Kenya,Kericho,Kimout Dispensary,Dispensary,MoH,-0.1687,35.5279,Google Earth,No
+1536,Kenya,Kericho,Kiletien Dispensary,Dispensary,MoH,-0.2789,35.4678,Google Earth,No
+1535,Kenya,Kericho,Kibugat Dispensary,Dispensary,MoH,-0.593,35.0756,Google Earth,No
+1534,Kenya,Kericho,Ketitui Dispensary,Dispensary,MoH,-0.2995,35.2413,Google Earth,No
+1533,Kenya,Kericho,Keringet Dispensary,Dispensary,MoH,-0.0764,35.6072,Google Earth,No
+1532,Kenya,Kericho,Kericho Municipal Health Centre,Health Centre,Local authority,-0.3675,35.2839,GPS,Yes
+1531,Kenya,Kericho,Kericho Forest Dispensary,Dispensary,MoH,-0.3239,35.3655,Google Earth,No
+1530,Kenya,Kericho,Kericho District Hospital,District Hospital,MoH,-0.369,35.2794,GPS,Yes
+1529,Kenya,Kericho,Kenene Dispensary,Dispensary,MoH,-0.6956,35.2231,Google Earth,No
+1528,Kenya,Kericho,Kenegut Dispensary,Dispensary,MoH,-0.2702,35.2249,Google Earth,No
+1527,Kenya,Kericho,Kelunet Dispensary,Dispensary,MoH,-0.2994,35.0743,GPS,No
+1526,Kenya,Kericho,Kedowa Dispensary,Dispensary,MoH,-0.2121,35.5679,GPS,No
+1525,Kenya,Kericho,Kebeneti SDA Health Centre,Health Centre,FBO,-0.4442,35.0779,GPS,Yes
+1524,Kenya,Kericho,Kebeneti Dispensary,Dispensary,MoH,-0.4462,35.0778,Google Earth,No
+1523,Kenya,Kericho,Kasheen Dispensary,Dispensary,CBO,-0.1572,35.4434,Google Earth,No
+1522,Kenya,Kericho,Kaptoboiti Dispensary,Dispensary,MoH,-0.3298,35.1998,GPS,No
+1521,Kenya,Kericho,Kapsuser Dispensary,Dispensary,MoH,-0.3909,35.2216,Google Earth,No
+1520,Kenya,Kericho,Kapsorok Dispensary,Dispensary,MoH,-0.2902,35.05,Google Earth,No
+1519,Kenya,Kericho,Kapsomboch Dispensary,Dispensary,MoH,-0.3352,35.0709,GPS,No
+1518,Kenya,Kericho,Kapsoit Dispensary,Dispensary,MoH,-0.3192,35.2172,Google Earth,No
+1517,Kenya,Kericho,Kapsogut Dispensary,Dispensary,MoH,-0.6002,35.1208,Google Earth,No
+1516,Kenya,Kericho,Kapsiya Dispensary,Dispensary,MoH,-0.4028,35.14,GPS,No
+1511,Kenya,Kericho,Kapkwen Dispensary,Dispensary,MoH,-0.1785,35.4977,GPS,No
+1510,Kenya,Kericho,Kapkures Dispensary,Dispensary,MoH,-0.12,35.4598,Google Earth,No
+1509,Kenya,Kericho,Kapkurer Dispensary,Dispensary,MoH,-0.2568,35.2822,GPS,No
+1508,Kenya,Kericho,Kapkormom Dispensary,Dispensary,CBO,-0.2198,35.2394,GPS,No
+1507,Kenya,Kericho,Kapkondo Dispensary,Dispensary,CBO,-0.1666,35.5488,Google Earth,No
+1506,Kenya,Kericho,Kapkisiara Dispensary,Dispensary,MoH,-0.5262,35.1116,Google Earth,No
+1505,Kenya,Kericho,Kapkiam Dispensary,Dispensary,MoH,-0.2924,35.3729,GPS,No
+1504,Kenya,Kericho,Kapkeburu Dispensary,Dispensary,MoH,-0.4238,35.0854,GPS,No
+1503,Kenya,Kericho,Kapkatet District Hospital,District Hospital,MoH,-0.6298,35.1962,Google Earth,Yes
+1502,Kenya,Kericho,Kapkara Dispensary,Dispensary,MoH,-0.2732,35.1116,GPS,No
+1501,Kenya,Kericho,Kapchebwai Dispensary,Dispensary,MoH,-0.1821,35.2053,Other,No
+1500,Kenya,Kericho,Kapchanga Dispensary,Dispensary,CBO,-0.4039,35.0746,Google Earth,No
+1499,Kenya,Kericho,Kamwingi Dispensary,Dispensary,MoH,-0.0987,35.5631,Google Earth,No
+1498,Kenya,Kericho,Kamawoi Dispensary,Dispensary,MoH,-0.3904,35.128,GPS,No
+1497,Kenya,Kericho,Kamasega Dispensary,Dispensary,MoH,-0.307,35.1277,GPS,No
+1496,Kenya,Kericho,Kamaget Dispensary,Dispensary,CBO,-0.4253,35.0678,GPS,No
+1495,Kenya,Kericho,Kalyongwet Dispensary,Dispensary,MoH,-0.3634,35.1379,Google Earth,No
+1450,Kenya,Kericho,Ainamoi Health Centre,Health Centre,MoH,-0.295,35.272,Google Earth,Yes
+1448,Kenya,Kakamega,Vikunga Dispensary,Dispensary,MoH,0.166,34.476,GPS,No
+1447,Kenya,Kakamega,Turbo Forest Dispensary,Dispensary,MoH,0.6586,35.0603,GPS,No
+1446,Kenya,Kakamega,St. Monica's Eregi Mission Health Centre,Health Centre,FBO,0.1543,34.7025,GPS,Yes
+1445,Kenya,Kakamega,St. James Ematsayi Dispensary,Dispensary,FBO,0.268,34.6218,GPS,No
+1444,Kenya,Kakamega,St Pius Musoli Health Centre,Health Centre,FBO,0.205,34.6646,GPS,Yes
+1443,Kenya,Kakamega,St Philiphs Mukomari Dispensary,Dispensary,FBO,0.272,34.7359,GPS,No
+1442,Kenya,Kakamega,St Pauls Ejinja Dispensary,Dispensary,FBO,0.4025,34.4481,GPS,No
+1441,Kenya,Kakamega,St Mary's Dispensary,Dispensary,FBO,0.7374,34.9982,Google Earth,No
+1440,Kenya,Kakamega,St Charles Lwanga Health Centre,Health Centre,FBO,0.628,34.8843,GPS,Yes
+1439,Kenya,Kakamega,St Andrews Othodox Clinic,Clinic,FBO,0.7348,34.9587,GPS,No
+1438,Kenya,Kakamega,Soy Sambu Dispensary,Dispensary,MoH,0.777,35.1049,Google Earth,No
+1437,Kenya,Kakamega,Sivilie Dispensary,Dispensary,MoH,0.4696,34.6967,GPS,No
+1436,Kenya,Kakamega,Sisokhe Dispensary,Dispensary,MoH,0.4331,34.6119,GPS,No
+1435,Kenya,Kakamega,Sinoko Dispensary,Dispensary,MoH,0.8678,35.0763,GPS,No
+1434,Kenya,Kakamega,Shivanga Health Centre,Health Centre,MoH,0.5322,34.8465,GPS,Yes
+1433,Kenya,Kakamega,Shitsitswi Health Centre,Health Centre,MoH,0.2633,34.5043,GPS,Yes
+1432,Kenya,Kakamega,Shiseso Health Centre,Health Centre,MoH,0.2313,34.7035,GPS,Yes
+1431,Kenya,Kakamega,Shisaba Dispensary,Dispensary,MoH,0.2364,34.557,Google Earth,No
+1430,Kenya,Kakamega,Shiraha Health Centre,Health Centre,MoH,0.1969,34.5698,Google Earth,Yes
+1429,Kenya,Kakamega,Shinyalu Health Centre,Health Centre,MoH,0.2212,34.813,GPS,Yes
+1428,Kenya,Kakamega,Shikusi Dispensary,Dispensary,MoH,0.2037,34.7991,GPS,No
+1427,Kenya,Kakamega,Shikusa Health Centre,Health Centre,MoH,0.3186,34.8124,GPS,Yes
+1426,Kenya,Kakamega,Shikunga Health Centre,Health Centre,MoH,0.1832,34.5377,Google Earth,Yes
+1425,Kenya,Kakamega,Shikumu Dispensary,Dispensary,MoH,0.1722,34.6672,Google Earth,No
+1424,Kenya,Kakamega,Shihome Dispensary,Dispensary,MoH,0.3914,34.7921,GPS,No
+1423,Kenya,Kakamega,Shihalia Dispensary,Dispensary,MoH,0.1828,34.7011,GPS,No
+1422,Kenya,Kakamega,Shibwe Sub-District Hospital,Sub-District Hospital,MoH,0.2058,34.7231,GPS,Yes
+1421,Kenya,Kakamega,Shibanze Dispensary,Dispensary,MoH,0.4134,34.5237,GPS,No
+1420,Kenya,Kakamega,Shianda Dispensary,Dispensary,MoH,0.3222,34.5725,GPS,No
+1419,Kenya,Kakamega,Shianda Baptist Clinic,Clinic,FBO,0.3159,34.5763,GPS,No
+1418,Kenya,Kakamega,Shamberere Dispensary,Dispensary,MoH,0.3801,34.8407,GPS,No
+1417,Kenya,Kakamega,Shamakhubu Health Centre,Health Centre,MoH,0.2647,34.8279,GPS,Yes
+1416,Kenya,Kakamega,Seregeya Dispensary,Dispensary,MoH,0.6638,35.1074,Google Earth,No
+1415,Kenya,Kakamega,Savane Dispensary,Dispensary,MoH,0.17,34.7238,GPS,No
+1414,Kenya,Kakamega,Sango Dispensary,Dispensary,MoH,0.7288,35.0728,GPS,No
+1413,Kenya,Kakamega,Nzoia Matete Dispensary,Dispensary,MoH,0.7079,35.01,GPS,No
+1412,Kenya,Kakamega,Nzoia ACK Dispensary,Dispensary,FBO,0.8676,35.0445,GPS,No
+1411,Kenya,Kakamega,Nyaporo Dispensary,Dispensary,MoH,0.3296,34.6258,GPS,No
+1410,Kenya,Kakamega,Navakholo Sub-District Hospital,Sub-District Hospital,MoH,0.4139,34.6826,GPS,Yes
+1409,Kenya,Kakamega,Natunyi Dispensary,Dispensary,MoH,0.4331,34.6498,GPS,No
+1408,Kenya,Kakamega,Namulungu Dispensary,Dispensary,MoH,0.4513,34.4623,GPS,No
+1407,Kenya,Kakamega,Namirama Dispensary,Dispensary,MoH,0.4275,34.7068,Google Earth,No
+1406,Kenya,Kakamega,Namasoli Health Centre,Health Centre,FBO,0.1446,34.5284,Google Earth,Yes
+1405,Kenya,Kakamega,Namagara Dispensary,Dispensary,MoH,0.5042,34.8785,GPS,No
+1404,Kenya,Kakamega,Nabongo Dispensary,Dispensary,CBO,0.2885,34.744,GPS,No
+1403,Kenya,Kakamega,Mwikalikha Dispensary,Dispensary,MoH,0.1873,34.6482,Google Earth,No
+1402,Kenya,Kakamega,Mwihila Mission Hospital,Mission Hospital,FBO,0.1783,34.6124,Google Earth,No
+1401,Kenya,Kakamega,Muting'ong'o Dispensary,Dispensary,MoH,0.4125,34.8196,GPS,No
+1400,Kenya,Kakamega,Musembe Dispensary,Dispensary,MoH,0.6192,34.93,GPS,No
+1399,Kenya,Kakamega,Musembe Dispensary,Dispensary,MoH,0.2117,34.8422,GPS,No
+1398,Kenya,Kakamega,Musango Dispensary,Dispensary,MoH,0.2879,34.5679,GPS,No
+1397,Kenya,Kakamega,Musanda ACK Dispensary,Dispensary,FBO,0.2198,34.4472,GPS,No
+1396,Kenya,Kakamega,Munyuki Dispensary,Dispensary,MoH,0.6349,34.9393,Google Earth,No
+1395,Kenya,Kakamega,Mungungune Dispensary,Dispensary,MoH,0.2442,34.5965,Other,No
+1394,Kenya,Kakamega,Mung'ung'u Dispensary,Dispensary,MoH,0.3494,34.5779,GPS,No
+1393,Kenya,Kakamega,Mung'ang'a Dispensary,Dispensary,MoH,0.3,34.61,GPS,No
+1392,Kenya,Kakamega,Mundoli Health Centre,Health Centre,FBO,0.1097,34.5773,Google Earth,Yes
+1391,Kenya,Kakamega,Mundobelwa Health Centre,Health Centre,MoH,0.1572,34.6128,GPS,Yes
+1390,Kenya,Kakamega,Mumias St Mary's Hospital,Mission Hospital,FBO,0.3268,34.499,GPS,No
+1389,Kenya,Kakamega,Mumias Model Health Centre,Health Centre,MoH,0.3372,34.4799,GPS,Yes
+1388,Kenya,Kakamega,Mulwanda Dispensary,Dispensary,MoH,0.142,34.5667,Google Earth,No
+1387,Kenya,Kakamega,Mukuyu Dispensary,Dispensary,MoH,0.7321,34.9474,GPS,No
+1386,Kenya,Kakamega,Mukumu Hospital,Mission Hospital,FBO,0.2158,34.7684,GPS,No
+1385,Kenya,Kakamega,Muhaka Dispensary,Dispensary,MoH,0.1315,34.481,Google Earth,No
+1384,Kenya,Kakamega,Mugomari Dispensary,Dispensary,CBO,0.2214,34.7394,GPS,No
+1383,Kenya,Kakamega,Mugai Dispensary,Dispensary,MoH,0.4344,34.8066,Google Earth,No
+1382,Kenya,Kakamega,Mlimani Dispensary,Dispensary,MoH,0.8643,35.0213,Google Earth,No
+1381,Kenya,Kakamega,Mirere Health Centre,Health Centre,MoH,0.4548,34.4274,GPS,Yes
+1380,Kenya,Kakamega,Mbagara Dispensary,Dispensary,MoH,0.7258,35.0084,GPS,No
+1379,Kenya,Kakamega,Mautuma Sub County Hospital,Sub-District Hospital,MoH,0.7248,34.9817,GPS,Yes
+1378,Kenya,Kakamega,Maturu Dispensary,Dispensary,MoH,0.6057,34.8658,Google Earth,No
+1377,Kenya,Kakamega,Matungu Sub-District Hospital,Sub-District Hospital,MoH,0.3872,34.4763,GPS,Yes
+1376,Kenya,Kakamega,Matunda Sub-District Hospital,Sub-District Hospital,MoH,0.8257,35.1156,Google Earth,Yes
+1375,Kenya,Kakamega,Matoi Dispensary,Dispensary,MoH,0.3686,34.6964,Google Earth,No
+1374,Kenya,Kakamega,Matioli Dispensary,Dispensary,MoH,0.2023,34.6227,GPS,No
+1373,Kenya,Kakamega,Matete Health Centre,Health Centre,MoH,0.5546,34.8057,GPS,Yes
+1372,Kenya,Kakamega,Masaba Dispensary,Dispensary,FBO,0.1936,34.4641,GPS,No
+1371,Kenya,Kakamega,Marakusi Dispensary,Dispensary,MoH,0.6984,34.9523,GPS,No
+1370,Kenya,Kakamega,Mapengo Dispensary,Dispensary,MoH,0.6482,34.86,GPS,No
+1369,Kenya,Kakamega,Manyala Sub-District Hospital,Sub-District Hospital,MoH,0.1604,34.4526,Google Earth,Yes
+1368,Kenya,Kakamega,Manda Dispensary,Dispensary,MoH,0.5751,34.8632,GPS,No
+1367,Kenya,Kakamega,Malichi Dispensary,Dispensary,MoH,0.4743,34.9116,Other,No
+1366,Kenya,Kakamega,Malekha Dispensary,Dispensary,MoH,0.4626,34.7964,GPS,No
+1365,Kenya,Kakamega,Malava District Hospital,District Hospital,MoH,0.4487,34.8539,GPS,Yes
+1364,Kenya,Kakamega,Malaha Dispensary,Dispensary,MoH,0.3552,34.6135,GPS,No
+1363,Kenya,Kakamega,Makunga Rural Health Demonstration Centre,Health Centre,MoH,0.31,34.62,GPS,Yes
+1362,Kenya,Kakamega,Majengo Dispensary,Dispensary,MoH,0.6511,34.9983,GPS,No
+1361,Kenya,Kakamega,Mahanga Dispensary,Dispensary,MoH,0.6448,34.8444,Google Earth,No
+1360,Kenya,Kakamega,Mabusi Health Centre,Health Centre,MoH,0.8345,35.0805,GPS,Yes
+1359,Kenya,Kakamega,Mabole Health Centre,Health Centre,MoH,0.1796,34.5067,Google Earth,Yes
+1358,Kenya,Kakamega,Lwandeti Dispensary,Dispensary,FBO,0.5583,34.8543,Google Earth,No
+1357,Kenya,Kakamega,Lutaso Dispensary,Dispensary,FBO,0.4441,34.7108,GPS,No
+1356,Kenya,Kakamega,Lusheya Health Centre,Health Centre,MoH,0.3045,34.5361,GPS,Yes
+1207,Kenya,Kajiado,Namelok Health Centre,Health Centre,MoH,-2.7153,37.4544,GPS,Yes
+1206,Kenya,Kajiado,Namanga Wellness Centre Clinic,Clinic,NGO,-2.545,36.7886,Google Earth,No
+1205,Kenya,Kajiado,Namanga Health Centre,Health Centre,MoH,-2.5432,36.7873,GPS,Yes
+1204,Kenya,Kajiado,Nalala Initiative Community Clinic,Clinic,CBO,-2.0918,37.4772,Google Earth,No
+1203,Kenya,Kajiado,Najile Dispensary,Dispensary,MoH,-1.2169,36.4637,GPS,No
+1202,Kenya,Kajiado,Murantawa Dispensary,Dispensary,MoH,-1.9012,36.287,GPS,No
+1201,Kenya,Kajiado,Mosiro Dispensary,Dispensary,MoH,-1.4839,36.1024,Google Earth,No
+1200,Kenya,Kajiado,Mile 46 Health Centre,Health Centre,MoH,-1.8966,36.5882,GPS,Yes
+1197,Kenya,Kajiado,Mbirikani Dispensary,Dispensary,MoH,-2.6101,37.5484,GPS,No
+1196,Kenya,Kajiado,Masimba Health Centre,Health Centre,MoH,-2.2057,37.7037,Google Earth,Yes
+1195,Kenya,Kajiado,Mashuru Health Centre,Health Centre,MoH,-2.1019,37.1285,GPS,Yes
+1194,Kenya,Kajiado,Maparasha Dispensary,Dispensary,MoH,-2.2002,36.9184,GPS,No
+1193,Kenya,Kajiado,Mailwa Dispensary,Dispensary,MoH,-2.3288,36.963,GPS,No
+1192,Kenya,Kajiado,Loving Care MCK Health Centre,Health Centre,FBO,-2.171,37.328,GPS,Yes
+1191,Kenya,Kajiado,Lorngoswa Dispensary,Dispensary,MoH,-2.1466,36.6552,GPS,No
+1190,Kenya,Kajiado,Loodoariak Dispensary,Dispensary,MoH,-1.6291,36.6412,GPS,No
+1189,Kenya,Kajiado,Loitokitok District Hospital,District Hospital,MoH,-2.9277,37.5093,GPS,Yes
+1188,Kenya,Kajiado,Langata Enkima Dispensary,Dispensary,MoH,-2.8412,37.6715,Google Earth,No
+1187,Kenya,Kajiado,Kumpa CMF Dispensary,Dispensary,NGO,-1.9753,36.7946,Google Earth,No
+1186,Kenya,Kajiado,Kuku Dispensary,Dispensary,MoH,-2.9042,37.7514,GPS,No
+1185,Kenya,Kajiado,Kmq Dispensary,Dispensary,MoH,-1.9434,36.6919,GPS,No
+1184,Kenya,Kajiado,Kitengela Health Centre,Health Centre,MoH,-1.4704,36.9544,Google Earth,Yes
+1183,Kenya,Kajiado,Kiserian Health Centre,Health Centre,FBO,-1.4279,36.6856,Other,Yes
+1182,Kenya,Kajiado,Kipeto Dispensary,Dispensary,MoH,-1.5809,36.6955,GPS,No
+1181,Kenya,Kajiado,Kimana Health Centre,Health Centre,MoH,-2.8146,37.5309,GPS,Yes
+1180,Kenya,Kajiado,Kilinito CDF Dispensary,Dispensary,CBO,-1.84,36.79,Geonames,No
+1179,Kenya,Kajiado,Kibini Hill PCEA Dispensary,Dispensary,FBO,-2.1417,37.2929,GPS,No
+1178,Kenya,Kajiado,Kenyatta National Hospital Ongata Rongai,Hospital,MoH,-1.3962,36.7919,GPS,No
+1177,Kenya,Kajiado,Karero PCEA Dispensary,Dispensary,FBO,-2.5506,36.7973,GPS,No
+1133,Kenya,Isiolo,Sericho Health Centre,Health Centre,MoH,1.1267,39.1206,GPS,Yes
+1132,Kenya,Isiolo,Samburu Complex Dispensary,Dispensary,MoH,0.622,37.6822,Google Earth,No
+1130,Kenya,Isiolo,Rapsu Dispensary,Dispensary,MoH,0.2578,38.2447,Google Earth,No
+1129,Kenya,Isiolo,Pepo La Tumaini Dispensary,Dispensary,CBO,0.3411,37.5721,Google Earth,No
+1128,Kenya,Isiolo,Oldonyiro Dispensary,Dispensary,MoH,0.6257,36.9857,Google Earth,No
+1127,Kenya,Isiolo,Ngaremara Dispensary,Dispensary,FBO,0.5069,37.6488,GPS,No
+1126,Kenya,Isiolo,Narrapu Dispensary,Dispensary,CBO,0.61,36.9573,Google Earth,No
+1125,Kenya,Isiolo,Muchuro Dispensary,Dispensary,MoH,0.9624,38.6277,GPS,No
+1124,Kenya,Isiolo,Modogashe Dispensary,Dispensary,MoH,0.7298,39.172,GPS,No
+1121,Kenya,Isiolo,Matar-Arba Dispensary,Dispensary,MoH,1.0931,38.4208,GPS,No
+1120,Kenya,Isiolo,Malka Galla Dispensary,Dispensary,MoH,1.2493,38.8239,GPS,No
+1119,Kenya,Isiolo,Malka Daka Dispensary,Dispensary,MoH,0.8376,38.4928,GPS,No
+1118,Kenya,Isiolo,Leparua Dispensary,Dispensary,CBO,0.3049,37.4341,Google Earth,No
+1117,Kenya,Isiolo,Kula Mawe Dispensary,Dispensary,MoH,0.5673,38.1965,GPS,No
+1116,Kenya,Isiolo,Korbesa Dispensary,Dispensary,MoH,1.2125,38.788,GPS,No
+1115,Kenya,Isiolo,Kipsing Dispensary,Dispensary,MoH,0.5984,37.2431,GPS,No
+1114,Kenya,Isiolo,Kinna Health Centre,Health Centre,MoH,0.3184,38.2119,GPS,Yes
+1113,Kenya,Isiolo,Kambi Ya Juu Catholic Dispensary,Dispensary,FBO,0.3359,37.5632,Google Earth,No
+1112,Kenya,Isiolo,Kambi Garba Dispensary,Dispensary,FBO,0.3947,37.5927,Google Earth,No
+1090,Kenya,Isiolo,African Muslim Agency Dispensary,Dispensary,FBO,0.5254,38.509,Other,No
+1089,Kenya,Homabay,Kamuchisu Dispensary,Dispensary,MoH,-0.4393,34.7703,GPS,No
+1088,Kenya,Homa Bay,Yokia Dispensary,Dispensary,MoH,-0.4371,34.0392,Google Earth,No
+1081,Kenya,Homa Bay,Wakula Health Centre,Health Centre,MoH,-0.451,33.9881,GPS,Yes
+1080,Kenya,Homa Bay,Wagwe Health Centre,Health Centre,MoH,-0.3491,34.5679,GPS,Yes
+1079,Kenya,Homa Bay,Viagenco Medical Centre,Clinic,NGO,-0.4747,34.2865,Google Earth,No
+1078,Kenya,Homa Bay,Usao Health Centre,Health Centre,MoH,-0.4748,34.3835,GPS,Yes
+1077,Kenya,Homa Bay,Unga Dispensary,Dispensary,MoH,-0.7598,34.4134,GPS,No
+1076,Kenya,Homa Bay,Ugina Health Centre,Health Centre,MoH,-0.4774,33.9888,GPS,Yes
+1073,Kenya,Homa Bay,Tala Dispensary,Dispensary,MoH,-0.4436,34.838,GPS,No
+1072,Kenya,Homa Bay,Takawiri Dispensary,Dispensary,MoH,-0.4744,34.0865,Google Earth,No
+1071,Kenya,Homa Bay,Suba District Hospital,District Hospital,MoH,-0.5888,34.1625,Google Earth,Yes
+1034,Kenya,Homa Bay,Oneno Nam Dispensary,Dispensary,MoH,-0.392,34.6792,Google Earth,No
+1033,Kenya,Homa Bay,Oneno Dispensary,Dispensary,MoH,-0.5569,34.5484,GPS,No
+1032,Kenya,Homa Bay,Omiro Dispensary,Dispensary,MoH,-0.4462,34.7945,GPS,No
+1031,Kenya,Homa Bay,Omboga Dispensary,Dispensary,MoH,-0.4392,34.6229,Google Earth,No
+1030,Kenya,Homa Bay,Ombo Kachieng' Dispensary,Dispensary,MoH,-0.7356,34.4511,GPS,No
+1029,Kenya,Homa Bay,Ombek Dispensary,Dispensary,MoH,-0.5684,34.6642,GPS,No
+1028,Kenya,Homa Bay,Olando Dispensary,Dispensary,MoH,-0.6465,34.2227,GPS,No
+1027,Kenya,Homa Bay,Okok Dispensary,Dispensary,MoH,-0.6829,34.4288,Google Earth,No
+1026,Kenya,Homa Bay,Okiki Amayo Health Centre,Health Centre,MoH,-0.412,34.5114,Google Earth,Yes
+1025,Kenya,Homa Bay,Ojwando Dispensary,Dispensary,MoH,-0.425,34.6625,GPS,No
+1024,Kenya,Homa Bay,Ogongo Sub-District Hospital,Sub-District Hospital,MoH,-0.574,34.3708,Google Earth,Yes
+1023,Kenya,Homa Bay,Ogande Dispensary,Dispensary,FBO,-0.5882,34.5066,GPS,No
+1022,Kenya,Homa Bay,Obwanda Dispensary,Dispensary,MoH,-0.4709,34.5895,GPS,No
+1021,Kenya,Homa Bay,Obuya Dispensary,Dispensary,MoH,-0.53,34.6,Google Earth,No
+1020,Kenya,Homa Bay,Obunga Dispensary,Dispensary,MoH,-0.5571,34.6264,Google Earth,No
+1019,Kenya,Homa Bay,Ober Kabuoch Dispensary,Dispensary,MoH,-0.7666,34.4396,Google Earth,No
+1018,Kenya,Homa Bay,Ober Health Centre,Health Centre,MoH,-0.4844,34.8138,GPS,Yes
+1017,Kenya,Homa Bay,Obanga Health Centre,Health Centre,MoH,-0.6865,34.0778,GPS,Yes
+1016,Kenya,Homa Bay,Obalwanda Dispensary,Dispensary,MoH,-0.4817,34.2707,GPS,No
+1015,Kenya,Homa Bay,Nyawita Dispensary,Dispensary,MoH,-0.57,34.6,Google Earth,No
+1014,Kenya,Homa Bay,Nyawawa Dispensary,Dispensary,MoH,-0.638,34.597,GPS,No
+1013,Kenya,Homa Bay,Nyawango Dispensary,Dispensary,MoH,-0.4146,34.7586,Google Earth,No
+1012,Kenya,Homa Bay,Nyatoto Health Centre,Health Centre,MoH,-0.553,34.2708,GPS,Yes
+1011,Kenya,Homa Bay,Nyasore Dispensary,Dispensary,MoH,-0.4843,34.8884,Google Earth,No
+1010,Kenya,Homa Bay,Nyarut Health Centre,Health Centre,MoH,-0.5064,34.4975,Google Earth,Yes
+1009,Kenya,Homa Bay,Nyaoga Community Dispensary,Dispensary,NGO,-0.3496,34.5203,GPS,No
+1008,Kenya,Homa Bay,Nyangiela Dispensary,Dispensary,MoH,-0.5395,34.7072,GPS,No
+1007,Kenya,Homa Bay,Nyangajo Dispensary,Dispensary,MoH,-0.4044,34.646,GPS,No
+1006,Kenya,Homa Bay,Nyandiwa Dispensary,Dispensary,MoH,-0.7247,34.051,Google Earth,No
+1005,Kenya,Homa Bay,Nyandiwa Baptist Dispensary,Dispensary,FBO,-0.4164,34.9196,Google Earth,No
+1004,Kenya,Homa Bay,Nyamrisra Health Centre,Health Centre,MoH,-0.5704,34.0964,Google Earth,Yes
+1003,Kenya,Homa Bay,Nyambare Dispensary,Dispensary,MoH,-0.56,34.6,Google Earth,No
+1002,Kenya,Homa Bay,Nyamasi Dispensary,Dispensary,MoH,-0.6242,34.4524,GPS,No
+1001,Kenya,Homa Bay,Nyamadede Community Dispensary,Dispensary,MoH,-0.6469,34.1818,Google Earth,No
+1000,Kenya,Homa Bay,Nyalkinyi Jersey Dispensary,Dispensary,MoH,-0.5328,34.4933,GPS,No
+999,Kenya,Homa Bay,Nyalkembo Dispensary,Dispensary,MoH,-0.6061,34.2384,GPS,No
+998,Kenya,Homa Bay,Nyalgosi Dispensary,Dispensary,MoH,-0.4519,34.6821,GPS,No
+997,Kenya,Homa Bay,Nyakweri Dispensary,Dispensary,MoH,-0.4348,34.0211,GPS,No
+996,Kenya,Homa Bay,Nyagwethe Dispensary,Dispensary,FBO,-0.6109,34.098,GPS,No
+995,Kenya,Homa Bay,Nyagowa Elck Dispensary,Dispensary,FBO,-0.5198,34.6765,GPS,No
+994,Kenya,Homa Bay,Nyagoro Health Centre,Health Centre,MoH,-0.5156,34.5355,Google Earth,Yes
+993,Kenya,Homa Bay,Nyadenda Health Centre,Health Centre,MoH,-0.611,34.2465,GPS,Yes
+992,Kenya,Homa Bay,Nyabola Dispensary,Dispensary,MoH,-0.6008,34.6431,GPS,No
+985,Kenya,Homa Bay,Nduga Dispensary,Dispensary,MoH,-0.58,34.6,Google Earth,No
+984,Kenya,Homa Bay,Ndisi Dispensary,Dispensary,MoH,-0.6807,34.3469,Google Earth,No
+983,Kenya,Homa Bay,Ndiru Health Centre,Health Centre,MoH,-0.6104,34.5104,GPS,Yes
+982,Kenya,Homa Bay,Ndhuru Dispensary,Dispensary,MoH,-0.5121,34.4147,Google Earth,No
+981,Kenya,Homa Bay,Ndhiwa Sub-District Hospital,Sub-District Hospital,MoH,-0.7317,34.367,GPS,Yes
+980,Kenya,Homa Bay,Ndere Community Dispensary,Dispensary,MoH,-0.3941,34.4633,GPS,No
+978,Kenya,Homa Bay,Mukende Health Centre,Health Centre,MoH,-0.5201,34.1951,GPS,Yes
+977,Kenya,Homa Bay,Msare Health Centre,Health Centre,MoH,-0.5785,34.1865,GPS,Yes
+976,Kenya,Homa Bay,Mirogi Health Centre,Health Centre,FBO,-0.6967,34.3845,GPS,Yes
+975,Kenya,Homa Bay,Miriu Health Centre Homa Bay,Health Centre,MoH,-0.3551,34.7557,Google Earth,Yes
+974,Kenya,Homa Bay,Miorre Dispensary,Dispensary,MoH,-0.5055,34.2372,GPS,No
+973,Kenya,Homa Bay,Miniambo Dispensary,Dispensary,MoH,-0.5369,34.4883,Google Earth,No
+972,Kenya,Homa Bay,Midodo Obuya Joy Haugesend Dispensary,Dispensary,FBO,-0.8064,34.4394,GPS,No
+971,Kenya,Homa Bay,Mbita Port Florence Community Dispensary,Dispensary,NGO,-0.4239,34.2073,Google Earth,No
+970,Kenya,Homa Bay,Mbita District Hospital,District Hospital,MoH,-0.4225,34.2082,Google Earth,Yes
+969,Kenya,Homa Bay,Mawego Health Centre,Health Centre,FBO,-0.3896,34.7704,GPS,Yes
+968,Kenya,Homa Bay,Masogo Dispensary,Dispensary,MoH,-0.4241,34.8265,GPS,No
+967,Kenya,Homa Bay,Mary Ballard Community Clinic,Clinic,CBO,-0.4869,34.77,Google Earth,No
+966,Kenya,Homa Bay,Marindi Sub county Hospital,Sub-District Hospital,MoH,-0.6484,34.5187,GPS,Yes
+965,Kenya,Homa Bay,Maram Dispensary,Dispensary,MoH,-0.6753,34.5468,Google Earth,No
+964,Kenya,Homa Bay,Manyatta SDA Dispensary,Dispensary,FBO,-0.5059,34.6196,GPS,No
+963,Kenya,Homa Bay,Mangima SDA Health Centre,Health Centre,FBO,-0.5594,34.7063,GPS,Yes
+962,Kenya,Homa Bay,Malongo Dispensary,Dispensary,MoH,-0.6417,34.0567,GPS,No
+961,Kenya,Homa Bay,Malela Dispensary,Dispensary,MoH,-0.5849,34.3919,GPS,No
+960,Kenya,Homa Bay,Makongeni Health Centre,Health Centre,MoH,-0.53,34.5,GPS,Yes
+959,Kenya,Homa Bay,Magunga Health Centre,Health Centre,MoH,-0.6891,34.1494,GPS,Yes
+958,Kenya,Homa Bay,Magina Health Centre,Health Centre,MoH,-0.6861,34.5159,GPS,Yes
+957,Kenya,Homa Bay,Magao Dispensary,Dispensary,MoH,-0.3468,34.593,GPS,No
+956,Kenya,Homa Bay,Lwanda Kobita Dispensary,Dispensary,MoH,-0.462,34.324,GPS,No
+955,Kenya,Homa Bay,Lwanda Gwassi Dispensary,Dispensary,MoH,-0.7554,34.0946,Google Earth,No
+954,Kenya,Homa Bay,Lwanda Awiti Dispensary,Dispensary,MoH,-0.7965,34.276,Google Earth,No
+953,Kenya,Homa Bay,Lela Community Dispensary,Dispensary,MoH,-0.3585,34.7107,Google Earth,No
+952,Kenya,Homa Bay,Lambwe Forest Dispensary,Dispensary,MoH,-0.5725,34.3687,GPS,No
+951,Kenya,Homa Bay,Lambwe Dispensary,Dispensary,MoH,-0.556,34.3245,Google Earth,No
+950,Kenya,Homa Bay,Kwamo Dispensary,Dispensary,CBO,-0.713,34.3088,Google Earth,No
+949,Kenya,Homa Bay,Koywech Dispensary,Dispensary,MoH,-0.4427,34.7242,Google Earth,No
+948,Kenya,Homa Bay,Kosele Dispensary,Dispensary,MoH,-0.4301,34.689,GPS,No
+947,Kenya,Homa Bay,Kome Dispensary,Dispensary,MoH,-0.6652,34.3833,Google Earth,No
+946,Kenya,Homa Bay,Kokwanyo Health Centre,Health Centre,MoH,-0.4029,34.7721,GPS,Yes
+945,Kenya,Homa Bay,Kokech Mirondo Health Centre,Health Centre,MoH,-0.5046,34.692,GPS,Yes
+944,Kenya,Homa Bay,Kogweno Oriang' Dispensary,Dispensary,MoH,-0.3639,34.7463,GPS,No
+943,Kenya,Homa Bay,Koduogo Dispensary,Dispensary,MoH,-0.57,34.4,GPS,No
+942,Kenya,Homa Bay,Kodula Dispensary,Dispensary,MoH,-0.3451,34.79,GPS,No
+941,Kenya,Homa Bay,Kobuya Dispensary,Dispensary,MoH,-0.3514,34.7869,Google Earth,No
+940,Kenya,Homa Bay,Kobodo Dispensary,Dispensary,MoH,-0.4587,34.5426,GPS,No
+939,Kenya,Homa Bay,Kiwa Island Dispensary,Dispensary,MoH,-0.7513,34.0331,Google Earth,No
+938,Kenya,Homa Bay,Kitare Health Centre,Health Centre,MoH,-0.5058,34.3306,GPS,Yes
+937,Kenya,Homa Bay,Kisegi Sub-District Hospital,Sub-District Hospital,MoH,-0.6465,34.0575,Google Earth,Yes
+936,Kenya,Homa Bay,Kisaku Dispensary,Dispensary,MoH,-0.6617,34.1091,Google Earth,No
+935,Kenya,Homa Bay,Kimonge Dispensary,Dispensary,MoH,-0.5184,34.8111,GPS,No
+934,Kenya,Homa Bay,Kijebi Dispensary,Dispensary,MoH,-0.7255,34.0537,Google Earth,No
+933,Kenya,Homa Bay,Kijawa Dispensary,Dispensary,MoH,-0.6202,34.4702,Google Earth,No
+932,Kenya,Homa Bay,Kigwa Dispensary,Dispensary,MoH,-0.6747,34.2084,Google Earth,No
+931,Kenya,Homa Bay,Kiembe Dispensary,Dispensary,MoH,-0.6536,34.1338,Other,No
+930,Kenya,Homa Bay,Kiasa Dispensary,Dispensary,MoH,-0.753,34.3018,Google Earth,No
+929,Kenya,Homa Bay,Kendu Sub-District Hospital,Sub-District Hospital,MoH,-0.3695,34.6504,GPS,Yes
+928,Kenya,Homa Bay,Kendu Adventist Hospital,Mission Hospital,FBO,-0.4014,34.6644,Google Earth,No
+927,Kenya,Homa Bay,Kauma Health Centre,Health Centre,MoH,-0.4041,34.8234,Google Earth,Yes
+926,Kenya,Homa Bay,Kasewe Dispensary,Dispensary,MoH,-0.444,34.444,GPS,No
+925,Kenya,Homa Bay,Kangri Dispensary,Dispensary,MoH,-0.3502,34.6147,GPS,No
+924,Kenya,Homa Bay,Kandiege Sub-District Hospital,Sub-District Hospital,MoH,-0.4267,34.553,GPS,Yes
+923,Kenya,Homa Bay,Kamasengere Dispensary,Dispensary,FBO,-0.4215,34.1431,GPS,No
+894,Kenya,Homa Bay,Amani Mary Ballard Medical Clinic,Clinic,CBO,-0.4854,34.7633,Google Earth,No
+893,Kenya,Homa Bay,Alum Beach Dispensary,Dispensary,MoH,-0.4471,34.4869,Google Earth,No
+892,Kenya,Homa Bay,Agawo Dispensary,Dispensary,MoH,-0.4735,34.7874,Google Earth,No
+891,Kenya,Homa Bay,Adiedo Dispensary,Dispensary,MoH,-0.426,34.6064,GPS,No
+890,Kenya,Garissa,Yumbis Dispensary,Dispensary,MoH,-0.1848,40.3834,GPS,No
+889,Kenya,Garissa,Young Muslim Dispensary,Dispensary,FBO,-0.4753,39.6454,GPS,No
+888,Kenya,Garissa,Shimbrey Dispensary,Dispensary,MoH,-0.0305,39.4978,GPS,No
+887,Kenya,Garissa,Shantaabaq Health Centre,Health Centre,MoH,0.4607,39.7407,GPS,Yes
+886,Kenya,Garissa,Saretho Health Centre,Health Centre,MoH,0.2721,39.7995,Google Earth,Yes
+885,Kenya,Garissa,Sankuri Health Centre,Health Centre,MoH,-0.3026,39.5586,GPS,Yes
+884,Kenya,Garissa,Sangole Dispensary,Dispensary,MoH,-1.5953,40.5141,Google Earth,No
+883,Kenya,Garissa,Sangailu Health Centre,Health Centre,MoH,-1.3124,40.7301,GPS,Yes
+882,Kenya,Garissa,Saka Health Centre,Health Centre,MoH,-0.1387,39.3272,GPS,Yes
+881,Kenya,Garissa,Ruqa Dispensary,Dispensary,MoH,-1.5529,40.449,GPS,No
+774,Kenya,Embu,Kithimu Dispensary,Dispensary,MoH,-0.5121,37.5184,GPS,No
+773,Kenya,Embu,Kithegi Dispensary,Dispensary,MoH,-0.5059,37.5503,GPS,No
+772,Kenya,Embu,Kiritiri Health Centre,Health Centre,MoH,-0.679,37.6411,GPS,Yes
+771,Kenya,Embu,Kiritiri CCS Clinic,Clinic,FBO,-0.6875,37.6485,GPS,No
+770,Kenya,Embu,Kirie Mission Clinic,Clinic,FBO,-0.5795,37.7808,GPS,No
+769,Kenya,Embu,Kirie Dispensary,Dispensary,MoH,-0.58,37.7807,GPS,No
+768,Kenya,Embu,Kiriari CDF Dispensary,Dispensary,MoH,-0.3994,37.4761,GPS,No
+767,Kenya,Embu,Kiriari ACK Dispensary,Dispensary,FBO,-0.3946,37.4759,GPS,No
+766,Kenya,Embu,Kirathe Dispensary,Dispensary,MoH,-0.6724,37.6863,GPS,No
+765,Kenya,Embu,Kiogogo Dispensary,Dispensary,MoH,-0.5681,37.8371,GPS,No
+764,Kenya,Embu,Kimangaru Methodist Dispensary,Dispensary,FBO,-0.5447,37.5285,GPS,No
+763,Kenya,Embu,Kigumo EAPC Clinic,Clinic,FBO,-0.4184,37.6363,GPS,No
+762,Kenya,Embu,Kigumo Dispensary,Dispensary,MoH,-0.4155,37.6324,GPS,No
+761,Kenya,Embu,Kigaa Dispensary,Dispensary,MoH,-0.4446,37.5757,GPS,No
+760,Kenya,Embu,Kibugu Health Centre,Health Centre,MoH,-0.4444,37.4352,GPS,Yes
+759,Kenya,Embu,Kianjokoma Sub-District Hospital,Sub-District Hospital,MoH,-0.3971,37.5016,Google Earth,Yes
+758,Kenya,Embu,Kianjokoma ACK Trinity Clinic,Clinic,FBO,-0.4,37.5029,GPS,No
+757,Kenya,Embu,Kiamuringa Dispensary,Dispensary,MoH,-0.5687,37.5303,GPS,No
+756,Kenya,Embu,Kiambere Health Centre,Health Centre,MoH,-0.6918,37.7949,GPS,Yes
+755,Kenya,Embu,Kiambere Dam Dispensary,Dispensary,MoH,-0.6102,37.8873,GPS,No
+754,Kenya,Embu,Kevote Dispensary,Dispensary,MoH,-0.4403,37.5322,Google Earth,No
+753,Kenya,Embu,Kevote Catholic Dispensary,Dispensary,FBO,-0.4386,37.5321,GPS,No
+752,Kenya,Embu,Kathunguri Dispensary,Dispensary,MoH,-0.4354,37.6399,GPS,No
+751,Kenya,Embu,Kathanjuri Dispensary,Dispensary,MoH,-0.4259,37.609,GPS,No
+750,Kenya,Embu,Kathanje Dispensary,Dispensary,MoH,-0.6217,37.7218,GPS,No
+749,Kenya,Embu,Kathangariri Dispensary,Dispensary,MoH,-0.4111,37.4479,Google Earth,No
+748,Kenya,Embu,Kathangariri ACK Clinic,Clinic,FBO,-0.4073,37.4496,GPS,No
+747,Kenya,Embu,Kathangari Dispensary,Dispensary,MoH,-0.4111,37.4488,GPS,No
+746,Kenya,Embu,Kasafari CDF Dispensary,Dispensary,MoH,-0.4898,37.6971,GPS,No
+745,Kenya,Embu,Karurumo Rural Health Training Centre,Health Centre,MoH,-0.4684,37.653,GPS,Yes
+744,Kenya,Embu,Karurina Dispensary,Dispensary,MoH,-0.531,37.4545,GPS,No
+743,Kenya,Embu,Karurah Dispensary,Dispensary,MoH,-0.5157,37.4634,GPS,No
+742,Kenya,Embu,Karura Dispensary,Dispensary,MoH,-0.7712,37.8869,Google Earth,No
+741,Kenya,Embu,Karerema Dispensary,Dispensary,MoH,-0.5122,37.7999,GPS,No
+740,Kenya,Embu,Karau Health Centre,Health Centre,MoH,-0.3834,37.4662,GPS,Yes
+739,Kenya,Embu,Karaba Wango Dispensary,Dispensary,FBO,-0.7764,37.656,GPS,No
+738,Kenya,Embu,Karaba Dispensary,Dispensary,MoH,-0.7498,37.4238,GPS,No
+737,Kenya,Embu,Kanyuambora Dispensary,Dispensary,MoH,-0.4641,37.7206,Google Earth,No
+736,Kenya,Embu,Kanyangi Dispensary,Dispensary,MoH,-0.4937,37.7509,GPS,No
+735,Kenya,Embu,Kanja Health Centre,Health Centre,MoH,-0.378,37.529,Google Earth,Yes
+734,Kenya,Embu,Kangaru Dispensary,Dispensary,MoH,-0.4948,37.4577,GPS,No
+733,Kenya,Embu,Kanduri Dispensary,Dispensary,MoH,-0.4814,37.6006,GPS,No
+732,Kenya,Embu,Kamweli Dispensary,Dispensary,MoH,-0.5311,37.4528,GPS,No
+731,Kenya,Embu,Kamunyange Dispensary,Dispensary,MoH,-0.7043,37.5626,GPS,No
+730,Kenya,Embu,Kamumu Dispensary,Dispensary,MoH,-0.5033,37.7296,GPS,No
+701,Kenya,Embu,Acef Ena Health Centre,Health Centre,FBO,-0.4734,37.5527,GPS,Yes
+700,Kenya,Elgeyo Marakwet,Yatoi Dispensary,Dispensary,MoH,1.0354,35.3528,GPS,No
+699,Kenya,Elgeyo Marakwet,Tuturung Dispensary,Dispensary,MoH,1.101,35.5989,Google Earth,No
+698,Kenya,Elgeyo Marakwet,Turesia Dispensary,Dispensary,MoH,0.2356,35.6656,GPS,No
+693,Kenya,Elgeyo Marakwet,Tenderwa Dispensary,Dispensary,MoH,1.114,35.335,GPS,No
+692,Kenya,Elgeyo Marakwet,Tenden Dispensary,Dispensary,MoH,1.016,35.363,GPS,No
+691,Kenya,Elgeyo Marakwet,Teber Dispensary,Dispensary,MoH,0.2271,35.6772,GPS,No
+690,Kenya,Elgeyo Marakwet,Tambach Sub-District Hospital,Sub-District Hospital,MoH,0.5953,35.5223,GPS,Yes
+689,Kenya,Elgeyo Marakwet,Tabare Dispensary,Dispensary,MoH,0.1892,35.6504,GPS,No
+688,Kenya,Elgeyo Marakwet,Sumbeiywet Dispensary,Dispensary,MoH,0.9215,35.4685,GPS,No
+687,Kenya,Elgeyo Marakwet,St Michael Dispensary,Dispensary,FBO,1.2079,35.59,GPS,No
+686,Kenya,Elgeyo Marakwet,Songeto Dispensary,Dispensary,CBO,0.5937,35.5559,GPS,No
+685,Kenya,Elgeyo Marakwet,Sisiya Dispensary,Dispensary,MoH,0.9947,35.5879,GPS,No
+684,Kenya,Elgeyo Marakwet,Simotwo Dispensary,Dispensary,MoH,0.2248,35.5349,GPS,No
+683,Kenya,Elgeyo Marakwet,Setano Dispensary,Dispensary,MoH,0.2139,35.6194,GPS,No
+682,Kenya,Elgeyo Marakwet,Sergoit Health Centre,Health Centre,MoH,0.6781,35.4426,GPS,Yes
+681,Kenya,Elgeyo Marakwet,Segut Dispensary,Dispensary,MoH,1.1059,35.4558,Google Earth,No
+680,Kenya,Elgeyo Marakwet,Sego Dispensary,Dispensary,MoH,0.4046,35.627,GPS,No
+679,Kenya,Elgeyo Marakwet,Sangurur Dispensary,Dispensary,MoH,0.88,35.5685,GPS,No
+678,Kenya,Elgeyo Marakwet,Sabor Forest Dispensary,Dispensary,MoH,0.4971,35.4794,GPS,No
+677,Kenya,Elgeyo Marakwet,Rimoi Dispensary,Dispensary,MoH,0.6592,35.56,GPS,No
+676,Kenya,Elgeyo Marakwet,Nys Dispensary,Dispensary,MoH,0.3157,35.661,Google Earth,No
+675,Kenya,Elgeyo Marakwet,Nyaru Dispensary,Dispensary,MoH,0.3265,35.5776,GPS,No
+674,Kenya,Elgeyo Marakwet,Nerkwo Dispensary,Dispensary,FBO,0.9178,35.5052,GPS,No
+673,Kenya,Elgeyo Marakwet,Muskut Health Centre,Health Centre,MoH,0.3671,35.6261,GPS,Yes
+672,Kenya,Elgeyo Marakwet,Mungwa Dispensary,Dispensary,MoH,1.2708,35.5697,Google Earth,No
+671,Kenya,Elgeyo Marakwet,Msekekwa Health Centre,Health Centre,MoH,0.7688,35.526,GPS,Yes
+670,Kenya,Elgeyo Marakwet,Mogil Health Centre,Health Centre,MoH,1.0611,35.6415,Google Earth,Yes
+669,Kenya,Elgeyo Marakwet,Matira Dispensary,Dispensary,MoH,0.9272,35.5547,GPS,No
+668,Kenya,Elgeyo Marakwet,Maron-Marichor Dispensary,Dispensary,MoH,1.2243,35.58,GPS,No
+667,Kenya,Elgeyo Marakwet,Malkich Dispensary,Dispensary,MoH,1.2475,35.6401,GPS,No
+666,Kenya,Elgeyo Marakwet,Maina Dispensary,Dispensary,MoH,1.0344,35.576,GPS,No
+665,Kenya,Elgeyo Marakwet,Luguget Dispensary,Dispensary,MoH,1.0894,35.6343,GPS,No
+664,Kenya,Elgeyo Marakwet,Liter AIC Dispensary,Dispensary,FBO,1.2857,35.6169,GPS,No
+663,Kenya,Elgeyo Marakwet,Lelboinet Health Centre,Health Centre,MoH,0.3604,35.5651,GPS,Yes
+662,Kenya,Elgeyo Marakwet,Korongoi Dispensary,Dispensary,MoH,1.1183,35.2573,GPS,No
+661,Kenya,Elgeyo Marakwet,Kondabilet Dispensary,Dispensary,MoH,0.914,35.4368,GPS,No
+660,Kenya,Elgeyo Marakwet,Komba Belio Dispensary,Dispensary,MoH,0.6789,35.5068,GPS,No
+659,Kenya,Elgeyo Marakwet,Kokwongoi Dispensary,Dispensary,MoH,1.0223,35.429,GPS,No
+658,Kenya,Elgeyo Marakwet,Koitugum Dispensary,Dispensary,MoH,0.9783,35.3676,GPS,No
+657,Kenya,Elgeyo Marakwet,Kocholwo Sub-District Hospital,Sub-District Hospital,MoH,0.226,35.6604,GPS,Yes
+656,Kenya,Elgeyo Marakwet,Kipsoen Dispensary,Dispensary,MoH,0.6246,35.4833,GPS,No
+655,Kenya,Elgeyo Marakwet,Kipsaos Dispensary,Dispensary,FBO,0.1765,35.5957,GPS,No
+538,Kenya,Busia,Mayenje Dispensary,Dispensary,MoH,0.4064,34.1074,GPS,No
+537,Kenya,Busia,Matayos Health Centre,Health Centre,MoH,0.366,34.1652,GPS,Yes
+536,Kenya,Busia,Masendebale Dispensary,Dispensary,MoH,0.3256,34.3738,GPS,No
+535,Kenya,Busia,Malanga Dispensary,Dispensary,MoH,0.4038,34.2967,GPS,No
+534,Kenya,Busia,Malaba Dispensary,Dispensary,MoH,0.6392,34.2859,GPS,No
+533,Kenya,Busia,Madende Dispensary,Dispensary,MoH,0.4767,34.3465,GPS,No
+532,Kenya,Busia,Lwanyange Dispensary,Dispensary,MoH,0.4295,34.2754,GPS,No
+531,Kenya,Busia,Lupida Health Centre,Health Centre,MoH,0.5771,34.3526,GPS,Yes
+530,Kenya,Busia,Lukolis Model Health Centre,Health Centre,MoH,0.5857,34.2103,GPS,Yes
+529,Kenya,Busia,Kwangamor Dispensary,Dispensary,MoH,0.5858,34.2307,GPS,No
+528,Kenya,Busia,Kolanya Salvation Army Dispensary,Dispensary,FBO,0.7084,34.3963,GPS,No
+527,Kenya,Busia,Khunyangu Sub-District Hospital,Sub-District Hospital,MoH,0.3377,34.2579,GPS,Yes
+526,Kenya,Busia,Khayo Dispensary,Dispensary,MoH,0.5105,34.389,GPS,No
+525,Kenya,Busia,Kamuriai Dispensary,Dispensary,MoH,0.6618,34.2982,GPS,No
+524,Kenya,Busia,Kamolo Dispensary,Dispensary,MoH,0.5905,34.2937,GPS,No
+484,Kenya,Busia,Amase Dispensary,Dispensary,MoH,0.5259,34.1762,GPS,No
+483,Kenya,Busia,Alupe Sub-District Hospital,Sub-District Hospital,MoH,0.4972,34.1339,GPS,Yes
+482,Kenya,Busia,Akiriamasi Dispensary,Dispensary,MoH,0.5457,34.2107,GPS,No
+481,Kenya,Busia,Akichelesit Dispensary,Dispensary,MoH,0.6943,34.3426,GPS,No
+480,Kenya,Busia,Agenga Dispensary,Dispensary,MoH,0.2527,34.0707,GPS,No
+479,Kenya,Busia,Aboloi Dispensary,Dispensary,MoH,0.6565,34.3956,GPS,No
+476,Kenya,Bungoma,Victorious Living Ministries Dispensary,Dispensary,FBO,0.5273,34.5352,GPS,No
+473,Kenya,Bungoma,Tamlega Dispensary,Dispensary,MoH,0.7079,34.4162,Google Earth,No
+472,Kenya,Bungoma,Tabani Dispensary,Dispensary,MoH,0.8487,34.9435,GPS,No
+471,Kenya,Bungoma,Sulwe Dispensary,Dispensary,MoH,0.8339,34.7765,GPS,No
+470,Kenya,Bungoma,St Thadeus Clinic,Clinic,FBO,0.5926,34.5512,Google Earth,No
+469,Kenya,Bungoma,Soysambu ACK Dispensary,Dispensary,FBO,0.7779,35.011,Google Earth,No
+468,Kenya,Bungoma,Soteni Dispensary,Dispensary,NGO,0.7268,34.8738,GPS,No
+467,Kenya,Bungoma,Sitikho Dispensary,Dispensary,MoH,0.4747,34.6672,Google Earth,No
+466,Kenya,Bungoma,Sirisia Hospital,Hospital,MoH,0.7539,34.5091,GPS,No
+465,Kenya,Bungoma,Sirakaru Dispensary,Dispensary,MoH,0.7255,34.8983,Google Earth,No
+464,Kenya,Bungoma,Sinoko Dispensary,Dispensary,MoH,0.8365,34.9933,GPS,No
+463,Kenya,Bungoma,Sikusi Dispensary,Dispensary,MoH,0.6939,34.5578,Google Earth,No
+462,Kenya,Bungoma,Sikulu Dispensary,Dispensary,MoH,0.7483,34.6522,GPS,No
+461,Kenya,Bungoma,Siboti Health Centre,Health Centre,MoH,0.6292,34.4539,GPS,Yes
+460,Kenya,Bungoma,Sango Natiri Dispensary,Dispensary,MoH,0.8356,34.9056,GPS,No
+459,Kenya,Bungoma,Sango Kabuyefwe Dispensary,Dispensary,MoH,0.753,34.9257,GPS,No
+458,Kenya,Bungoma,Sambocho Health Centre,Health Centre,FBO,0.8378,34.6475,GPS,Yes
+457,Kenya,Bungoma,Sacha Health Centre,Health Centre,MoH,0.8034,34.6419,GPS,Yes
+456,Kenya,Bungoma,Ruanda Dispensary,Dispensary,MoH,0.8116,34.543,Google Earth,No
+455,Kenya,Bungoma,Ranje Dispensary,Dispensary,MoH,0.5467,34.5753,GPS,No
+454,Kenya,Bungoma,Pwani TongarenDispensary,Dispensary,MoH,0.7027,34.9033,GPS,No
+453,Kenya,Bungoma,Open Heart Medical Centre,Clinic,FBO,0.6493,34.5608,Google Earth,No
+452,Kenya,Bungoma,Ngalasia Dispensary,Dispensary,MoH,0.6321,34.6143,GPS,No
+451,Kenya,Bungoma,Ndengelwa Dispensary,Dispensary,MoH,0.5882,34.5908,Google Earth,No
+450,Kenya,Bungoma,Ndalu Health Centre,Health Centre,MoH,0.8431,34.993,GPS,Yes
+449,Kenya,Bungoma,Nasusi Dispensary,Dispensary,MoH,0.8185,34.7564,Google Earth,No
+325,Kenya,Bomet,Sibayan Dispensary,Dispensary,MoH,-0.678,35.308,GPS,No
+324,Kenya,Bomet,Segutiet Dispensary,Dispensary,MoH,-0.7035,35.2568,GPS,No
+323,Kenya,Bomet,Satiet Dispensary,Dispensary,MoH,-0.6262,35.3669,GPS,No
+322,Kenya,Bomet,Saruchat Dispensary,Dispensary,MoH,-0.7679,35.1128,GPS,No
+321,Kenya,Bomet,Sachora Dispensary,Dispensary,MoH,-0.79,35.35,Geonames,No
+320,Kenya,Bomet,Rongena Dispensary,Dispensary,MoH,-0.7368,35.0901,GPS,No
+319,Kenya,Bomet,Roborwo Dispensary,Dispensary,MoH,-0.974,35.187,GPS,No
+318,Kenya,Bomet,Olokyin Health Centre,Health Centre,MoH,-0.9428,35.3861,GPS,Yes
+317,Kenya,Bomet,Oldepesi Dispensary,Dispensary,MoH,-0.8347,35.1397,GPS,No
+316,Kenya,Bomet,Olbutyo Health Centre,Health Centre,MoH,-0.8544,35.2722,GPS,Yes
+315,Kenya,Bomet,Nyongores Dispensary,Dispensary,MoH,-0.6928,35.4105,GPS,No
+314,Kenya,Bomet,Ndarawetta Dispensary,Dispensary,MoH,-0.6775,35.3722,GPS,No
+313,Kenya,Bomet,Ndanai Health Centre,Health Centre,MoH,-0.8436,35.0931,GPS,Yes
+312,Kenya,Bomet,Ndamichonik Dispensary,Dispensary,MoH,-0.8069,35.1931,GPS,No
+311,Kenya,Bomet,Mulot Dispensary,Dispensary,MoH,-0.9256,35.4115,Google Earth,No
+310,Kenya,Bomet,Muiywek Dispensary,Dispensary,MoH,-0.7491,35.2846,GPS,No
+309,Kenya,Bomet,Mugango Dispensary,Dispensary,MoH,-0.7124,35.3941,GPS,No
+308,Kenya,Bomet,Motiret Dispensary,Dispensary,MoH,-0.8111,35.1367,GPS,No
+307,Kenya,Bomet,Mogonjet Dispensary,Dispensary,MoH,-0.6468,35.2575,GPS,No
+306,Kenya,Bomet,Mogogosiek Health Centre,Health Centre,MoH,-0.6163,35.2724,GPS,Yes
+305,Kenya,Bomet,Minjira Dispensary,Dispensary,MoH,-0.5442,35.3093,Google Earth,No
+302,Kenya,Bomet,Makimeny Dispensary,Dispensary,MoH,-0.8408,35.1961,GPS,No
+301,Kenya,Bomet,Lugumek Dispensary,Dispensary,MoH,-0.9828,35.3075,GPS,No
+300,Kenya,Bomet,Longisa District Hospital,District Hospital,MoH,-0.8579,35.3894,GPS,Yes
+299,Kenya,Bomet,Lelaitich Dispensary,Dispensary,MoH,-0.9514,35.3313,Google Earth,No
+298,Kenya,Bomet,Lalang Amalo AIC Health Centre,Health Centre,FBO,-0.6168,35.366,Google Earth,Yes
+297,Kenya,Bomet,Koruma Dispensary,Dispensary,MoH,-0.5073,35.2319,GPS,No
+296,Kenya,Bomet,Koiwa Health Centre,Health Centre,MoH,-0.6175,35.3293,GPS,Yes
+295,Kenya,Bomet,Koimiret Dispensary,Dispensary,MoH,-0.8395,35.2279,Google Earth,No
+294,Kenya,Bomet,Kitoben Dispensary,Dispensary,MoH,-0.7325,35.4097,GPS,No
+293,Kenya,Bomet,Kitaima Dispensary,Dispensary,MoH,-0.6895,35.3275,GPS,No
+292,Kenya,Bomet,Kiromwok Dispensary,Dispensary,MoH,-0.7449,35.4278,GPS,No
+291,Kenya,Bomet,Kiricha Dispensary,Dispensary,MoH,-0.7944,35.1583,GPS,No
+290,Kenya,Bomet,Kiriba Dispensary,Dispensary,MoH,-0.8215,35.2772,GPS,No
+289,Kenya,Bomet,Kipyosit Dispensary,Dispensary,MoH,-0.7652,35.4834,GPS,No
+288,Kenya,Bomet,Kiptulwa Dispensary,Dispensary,MoH,-0.7447,35.1747,GPS,No
+287,Kenya,Bomet,Kiptenden Dispensary,Dispensary,MoH,-0.6387,35.3344,GPS,No
+286,Kenya,Bomet,Kiptenden Bomet Dispensary,Dispensary,MoH,-0.426,35.256,GPS,No
+285,Kenya,Bomet,Kipsuter Dispensary,Dispensary,MoH,-0.9239,35.242,Google Earth,No
+284,Kenya,Bomet,Kipsonoi Health Centre,Health Centre,MoH,-0.6886,35.2144,GPS,Yes
+283,Kenya,Bomet,Kipsingei Dispensary,Dispensary,MoH,-0.8647,35.1281,GPS,No
+282,Kenya,Bomet,Kiplobotwa Dispensary,Dispensary,MoH,-0.5478,35.2845,Google Earth,No
+50,Kenya,Baringo,Kapkombe Dispensary,Dispensary,MoH,0.6729,35.8252,GPS,No
+49,Kenya,Baringo,Kapkole Dispensary,Dispensary,MoH,0.5329,35.7363,GPS,No
+48,Kenya,Baringo,Kapkiamo Dispensary,Dispensary,MoH,0.6573,35.7809,GPS,No
+47,Kenya,Baringo,Kapkelelwa Dispensary,Dispensary,MoH,0.3757,35.7184,GPS,No
+46,Kenya,Baringo,Kapkein Dispensary,Dispensary,MoH,0.2318,35.7877,GPS,No
+45,Kenya,Baringo,Kapindasim Dispensary,Dispensary,MoH,0.4134,36.1923,GPS,No
+44,Kenya,Baringo,Kapchepkor Dispensary,Dispensary,MoH,0.6231,35.8191,GPS,No
+43,Kenya,Baringo,Kamurio Dispensary,Dispensary,MoH,1.2313,35.9708,Google Earth,No
+42,Kenya,Baringo,Kampi Samaki Health Centre,Health Centre,MoH,0.6167,36.0254,GPS,Yes
+41,Kenya,Baringo,Kamar Dispensary,Dispensary,MoH,0.2474,36.0152,GPS,No
+1,Kenya,Baringo,Akwichatis Health Centre,Health Centre,MoH,1.0015,36.2362,GPS,Yes

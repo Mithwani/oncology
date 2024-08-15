@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Oncology</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+<body>
+    <div id="map" style="width: 1500px; height: 750px;"></div>
+    
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+        // Initialize the map
+        var map = L.map('map').setView([-1.5, 38], 5); // Adjust the initial view as needed
+
+        // Add a tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19
+        }).addTo(map);
+
+        // Define a style function based on the cancer_cap property
+        function styleFeature(feature) {
+            return {
+                color: feature.properties.cancer.toLowerCase() === 'yes' ? 'lightgreen' : 'gray',
+                radius: 2
+            };
+        }
+
+        // Define a function to generate popup content
+        function generatePopupContent(properties) {
+            let popupContent = '<b>Name:</b> ' + properties.name + '<br/>';
+            popupContent += '<b>Facility Type:</b> ' + properties.type + '<br/>';
+            popupContent += '<b>Oncology Department:</b> ' + properties.cancer + '<br/>';
+            // Add other attributes here
+            return popupContent;
+        }
+
+        // Load and add the GeoJSON data
+        fetch('health2.geojson')
+            .then(response => response.json())
+            .then(data => {
+                L.geoJSON(data, {
+                    pointToLayer: function(feature, latlng) {
+                        return L.circleMarker(latlng, styleFeature(feature));
+                    },
+                    onEachFeature: function(feature, layer) {
+                        // Bind the popup to the layer
+                        layer.bindPopup(generatePopupContent(feature.properties));
+                    }
+                }).addTo(map);
+            });
+    </script>
+</body>
+</html>
+
+</body>
+</html>
